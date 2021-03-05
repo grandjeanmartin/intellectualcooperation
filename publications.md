@@ -10,3 +10,56 @@ Access to this bibliography is public and does not require to have a Zotero acco
 This bibliography is frequently updated. If you want to complete it or add your recent publications, send them to [Martin Grandjean](mailto:martingrandjean@bluewin.ch?subject=[IntellectualCooperation]) who will add them.
 
 If you are a Zotero user and wish to contribute to this shared bibliography on a regular basis, it is entirely possible to assign yourself publishing rights, let us know.
+
+### RECENT PUBLICATIONS
+Items published in the last 10 years (alphabetical). For older publications, links, DOI and other classification criteria, [use the Zotero library](https://www.zotero.org/groups/2817289/intellectual_cooperation/library).
+
+* Brzeziński, Andrzej M. ‘Oskar Halecki – the Advocate of Central and Eastern European Countries in the International Committee on Intellectual Cooperation of the League of Nations (1922‑1925)’. Studia z Dziejów Rosji i Europy Środkowo-Wschodniej 48 (2013).
+* Bumbaca, Maria Pia. ‘Lo spirito e le idee. L’organizzazione della cooperazione intellettuale nella Società delle Nazioni’. Doctoral Thesis, Universita di Roma (Sapienza), 2011.
+* Caillot, Marie. La Revue Mouseion (1927-1946): Les Musées et La Coopération Culturelle Internationale. 2 vols. Paris: Ecole Nationale des Chartes, 2011.
+* Ducci, Annamaria. ‘Europe and the Artistic Patrimony of the Interwar Period: The International Institute for Intellectual Cooperation at the League of Nations’. In Europe in Crisis, Intellectuals and the European Idea, 1917-1957, edited by Mark Hewitson and Matthew D’Auria, 227–42. New York, Oxford: Berghahn Books, 2012.
+* Ducci, Annamaria. ‘Le musée d’art populaire contre le folklore. L’Institut International de Coopération Intellectuelle à l’époque du Congrès de Prague’. Revue germanique internationale, no. 21 (2015): 133–48.
+* Dumont, Juliette. ‘De La Coopération Intellectuelle à La Diplomatie Culturelle : Le Parcours Du Brésil Dans l’entre-Deux-Guerres’. Caravelle, no. 99 (2012): 217–38.
+* Dumont, Juliette. ‘Un panaméricanisme à la brésilienne ? Le projet d’Institut Interaméricain de Coopération Intellectuelle (1926-1930)’. Nuevo Mundo Mundos Nuevos. Nouveaux mondes mondes nouveaux - Novo Mundo Mundos Novos - New world New worlds, 2016.
+* Goodman, Joyce. ‘"Shaping the Mentality of Races and Especially of Young People”: The League of Nations and the Educational Cinematography Congress, 1934’. League of Nations: Histories, Legacies and Impact, 16 July 2018, 197–213.
+* Goodman, Joyce. ‘Women and International Intellectual Co-Operation’. Paedagogica Historica 48, no. 3 (2012): 357–68.
+* Grandjean, Martin. ‘Analisi e Visualizzazioni Delle Reti in Storia. L’esempio Della Cooperazione Intellettuale Della Societa Delle Nazioni’. Memoria e Ricerca 55, no. 2 (2017): 371–93.
+* Grandjean, Martin. ‘Archives Distant Reading: Mapping the Activity of the League of Nations’ Intellectual Cooperation’. In Digital Humanities, 531–34. Krakow, 2016.
+* Grandjean, Martin. ‘Iberian and Latino-American Representation in the Committee on Intellectual Cooperation of the League of Nations (1922-1939)’. In Politics of the Spirit: Cultural Internationalization in Early 20c Hispanic Modernity, edited by Diana Roig Sanz, 2020.
+* Grandjean, Martin. ‘Intellectual Cooperation after the First World War: Multi-Level Network Analysis of an International Organization’. In Historical Network Research Conference. Ghent, 2014.
+* Grandjean, Martin. ‘Les Cours Universitaires de Davos 1928-1931. Au Centre de l’Europe Intellectuelle’. Université de Lausanne, 2011.
+* Grandjean, Martin. ‘Les réseaux de la coopération intellectuelle. La Société des Nations comme actrice des échanges scientifiques et culturels dans l’entre-deux-guerres’. Université de Lausanne, 2018.
+* Grandjean, Martin, and Marco Van Leeuwen. ‘Mapping Internationalism: Congresses and Organisations in the Nineteenth and Twentieth Centuries’. In International Organizations and Global Civil Society: Histories of the Union of International Associations, edited by Daniel Laqua, Wouter Van Acker, and Christophe Verbruggen, 225–42. London: Bloomsbury, 2019.
+* Guilia, Simone. ‘Il Ruolo Di Alfredo Rocco Alla Società Delle Nazioni’. Clio 48, no. 1 (2012): 29–48.
+* Habermann-Box, Sigrun. ‘From the League of Nations to the United Nations: The Continuing Preservation and Development of the Geneva Archives’. In Networking the International System. Global Histories of International Organizations, edited by Madeleine Herren, 15–30. Switzerland: Springer, 2014.
+* Heerikhuizen, A. van. ‘Paris 1933: A “Société Des Esprits” Chaired by Paul Valéry’. European Studies 32 (2014): 139–54.
+* Irish, Tomás. ‘From International to Inter-Allied: Transatlantic University Relations in the Era of the First World War, 1905–1920.’ Journal of Transatlantic Studies 13, no. 4 (2015): 311–25.
+* Irish, Tomás. ‘Scholarly Identities in War and Peace: The Paris Peace Conference and the Mobilization of Intellect’. Journal of Global History 11, no. 3 (2016): 365–86.
+* Irish, Tomás. ‘“The Aims of Science Are the Antitheses to Those of War”: The Debate about Academic Science in Britain and France during the First World War’. In Other Combatants, Other Fronts: Competing Histories of the First World War, 29. Cambridge Scholars, 2011.
+* Irish, Tomás. ‘The “Moral Basis” of Reconstruction? Humanitarianism, Intellectual Relief and the League of Nations, 1918-1925’. Modern Intellectual History 16, no. 1 (2019): 1–32.
+* Laqua, Daniel. ‘Internationalisme ou affirmation de la nation ? La coopération intellectuelle transnationale dans l’entre-deux-guerres’. Critique internationale 52, no. 3 (2011): 51–67.
+* Laqua, Daniel. ‘Transnational Intellectual Cooperation, the League of Nations, and the Problem of Order’. Journal of Global History 6, no. 2 (2011): 223–47.
+* Lopes, Quintino. ‘Science and Diplomacy: The National Education Board and the League of Nations. Portugal in the 1930s’. E-Journal of Portuguese History 16, no. 2 (2018): 42–58.
+* Mazumdar, Pauline M. H. ‘Antitoxine and Anatoxine: The League of Nations and the Institut Pasteur, 1920-1939’. In Crafting Immunity. Working Histories of Clinical Immunology, 177–200. London: Ashgate, 2011.
+* Millet, Lauriane. ‘“Esprit Japonais” et Prémices Du Multiculturalisme: Le Japon et l’Organisation de Coopération Intellectuelle Dans l’entre-Deux-Guerres’. Relations Internationales 162, no. 3 (2015): 31–44.
+* Osborne, Ken. ‘Creating the “International Mind”: The League of Nations Attempts to Reform History Teaching, 1920–1939’. History of Education Quarterly 56, no. 2 (2016): 213–40.
+* Pemberton, Jo-Anne. ‘The Changing Shape of Intellectual Cooperation: From the League of Nations to UNESCO’. Australian Journal of Politics & History 58, no. 1 (2012): 34–50.
+* Pernet, Corinne. ‘Twists, Turns and Dead Alleys: The League of Nations and Intellectual Cooperation in Times of War’. Journal of Modern European History 12, no. 3 (2014): 342–58.
+* Pita, Alexandra Cristina. ‘Jaime Torres Bodet and the Intellectual/International Cooperation of Postwar’. Acta Universitatis Danubius. Relationes Internationales 8, no. 2 (2015).
+* Popa, Anisoara. ‘Culture and Cooperation during the Interwar Period’. EIRP Proceedings 10 (2015).
+* Resende, José Armando Zema de. ‘A cooperação intelectual internacional da Sociedade das Nações e o Brasil (1922-1938): dinâmicas de um processo’. Universidade de Brasília, 2013.
+* Richard, Anne-Isabelle. ‘Huizinga, Intellectual Cooperation and the Spirit of Europe, 1933-1945’. In Europe in Crisis, Intellectuals and the European Idea, 1917-1957, edited by Mark Hewitson and Matthew D’Auria, 243–56. New York, Oxford: Berghahn Books, 2012.
+* Riemens, Michael. ‘International Academic Cooperation on International Relations in the Interwar Period: The International Studies Conference’. Review of International Studies 37, no. 02 (2011): 911–28.
+* Roig Sanz, Diana. ‘Dues Fites En La Collaboracio Catalana a l’IICI, La UNESCO i El PEN Club Internacional (1927 i  1959)’. In Lectures Dels Anys Cinquanta, edited by Enric Gallen and José Francisco Ruiz Casanova, 155–89. Lleida: Punctum, 2013.
+* Roig Sanz, Diana. ‘The International Institute of Intellectual Cooperation: Translation Policies in the Interwar Period (1925-1946)’. In EST Conference. Aarhus, 2016.
+* Saikawa, Takashi. ‘From Intellectual Co-Operation to International Cultural Exchange: Japan and China in the International Committee on Intellectual Co-Operation of the League of Nations, 1922-1939’. Universität Heidelberg, 2014.
+* Shine, Cormac. ‘La Contre-Eglise Des Humanitaristes et Des Internationalistes: Vatican Multilateral Diplomacy and Catholic Internationalism at the League of Nations, 1917-1939’. Institut de hautes études internationales et du développement, 2017.
+* Shine, Cormac. ‘Papal Diplomacy by Proxy? Catholic Internationalism at the League of Nations’ International Committee on Intellectual Cooperation, 1922-1939’. Journal of Ecclesiastical History, 2018, 1–21.
+* Sibille, Christiane. ‘La musique à la Société des Nations’. Relations internationales 155, no. 3 (2014): 89–102.
+* Sibille, Christiane. ‘LONSEA – Der Völkerbund in Neuer Sicht. Eine Netzwerkanalyse Zur Geschichte Internationaler Organisationen’. Zeithistorische Forschungen (Online-Ausgabe) 8, no. 3 (2011): 475–83.
+* Tournès, Ludovic. ‘Comment Devenir Une Superpuissance Intellectuelle ? La Fondation Rockefeller et La Documentation Scientifique’. In La Diplomatie Par Le Livre. Réseaux et Circulation Internationale de l’imprimé de 1880 à Nos Jours, edited by Claude Hauser, Thomas Loué, Jean-Yves Mollier, and François Vallotton, 165–80. Lausanne: Nouveau Monde, 2011.
+* Tronchet, Guillaume. Diplomatie universitaire ou diplomatie culturelle ? La Cité internationale universitaire de Paris entre deux rives (1920-1940). Presses universitaires de Rennes, 2013.
+* Valéry, Paul, and Salvador de Madariaga. Correspondance Pour Une Société Des Esprits. Edited by Jean-Michel Rey. Estru Mediterraniu. Ajaccio: Albiana, Università di Corsica, 2016.
+* Wilson, Peter. ‘Gilbert Murray and International Relations: Hellenism, Liberalism, and International Intellectual Cooperation as a Path to Peace’. Review of International Studies 37, no. 2 (2011): 881–909.
+
+
