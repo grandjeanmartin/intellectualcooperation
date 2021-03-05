@@ -1,4 +1,4 @@
-# Publications on Intellectual Cooperation
+## Publications on Intellectual Cooperation
 ### SHARED BIBLIOGRAPHY
 The shared bibliography on Intellectual Cooperation currently contains nearly **200 items**. [You can access it here](https://www.zotero.org/groups/2817289/intellectual_cooperation/library).
 
