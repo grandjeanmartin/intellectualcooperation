@@ -2,7 +2,7 @@
 ### SHARED BIBLIOGRAPHY
 The shared bibliography on Intellectual Cooperation currently contains nearly **200 items**. [You can access it here](https://www.zotero.org/groups/2817289/intellectual_cooperation/library).
 
-![Zotero Bibliography](https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/ZoteroGroupIntellectualCooperation.png)
+[<img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/ZoteroGroupIntellectualCooperation.png">](https://www.zotero.org/groups/2817289/intellectual_cooperation/library)
 
 Access to this bibliography is public and does not require to have a Zotero account. Zotero users can subscribe to the ["Intellectual Cooperation" group](https://www.zotero.org/groups/2817289/intellectual_cooperation) to have access to these references at any time on their own account.
 
