@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+  background-color: #fff
+  padding: 50px;
+  font: 13px/1.5 "Helvetica Neue", "Arial", sans-serif;
+  color:#000000;
+  font-weight:400;
+}
