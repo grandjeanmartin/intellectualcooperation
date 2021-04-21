@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #f2f2f2;
+  background-color: #fff;
   padding:25px;
   font: 13px/1.5 "Optima", Helvetica, Arial, sans-serif;
   color:#000000;
@@ -21,7 +21,6 @@ p {
 }
 
 header {
-  background-color: #fff;
   width:200px;
   float:left;
   position:fixed;
@@ -29,7 +28,6 @@ header {
 }
 
 footer {
-  background-color: #fff;
   width:200px;
   float:left;
   position:fixed;
@@ -38,7 +36,6 @@ footer {
 }
 
 section {
-  background-color: #fff;
   width:620px;
   float:right;
   padding-bottom:30px;
