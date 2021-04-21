@@ -61,3 +61,8 @@ Items published in the last 10 years (alphabetical). For older publications, lin
 This bibliography is frequently updated. If you want to complete it or add your recent publications, send them to [info at intellectualcooperation dot org](mailto:info@intellectualcooperation.org?subject=[IntellectualCooperation]).
 
 If you are a Zotero user and wish to contribute to this shared bibliography on a regular basis, it is entirely possible to assign yourself publishing rights, let us know.
+
+### OTHER BIBLIOGRAPHICAL RESOURCES
+* An advanced search with ["intellectual cooperation" on Google Scholar](https://scholar.google.com/scholar?as_vis=0&q=%22intellectual+cooperation%22+OR+%22coop%C3%A9ration+intellectuelle%22).
+* A selection of [publications and bibliographies](https://libraryresources.unog.ch/lonintellectualcooperation/findingaids) in the UNOG Library research guide.
+* The [LONSEA Zotero group](https://www.zotero.org/groups/875957/lonsea_bibliography) (>2000 references about the League of Nations)
