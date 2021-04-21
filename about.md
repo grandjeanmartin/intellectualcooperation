@@ -8,6 +8,6 @@ Please write to **info[at]intellectualcooperation[dot]org** or [GrandjeanMartin]
 
 ## Credits
 
-Website: Martin Grandjean 2021 CC-BY-SA (code on [Github](https://github.com/grandjeanmartin/intellectualcooperation/tree/gh-pages))
+* Website: Martin Grandjean 2021 CC-BY-SA (code on [Github](https://github.com/grandjeanmartin/intellectualcooperation/tree/gh-pages), archived on Zenodo with DOI [10.5281/zenodo.4583783](https://doi.org/10.5281/zenodo.4583783)).
 
-Pictures: League of Nations Archives (UNOG Library, Geneva), pictures CM075, P0049, P0095, P0270, P0429.
+* Pictures: League of Nations Archives (UNOG Library, Geneva), pictures CM075, P0049, P0095, P0270, P0429.
