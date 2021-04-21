@@ -1,5 +1,5 @@
 ![International Committee on Intellectual Cooperation](https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/intellectualcooperationconference_large.png)
-<img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/centenary.png" width="450">
+<img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/centenary%202022.png" width="450">
 #### International Conference 2022, UN Geneva
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at pellentesque risus, in euismod tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
