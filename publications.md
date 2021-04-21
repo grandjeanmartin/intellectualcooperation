@@ -1,17 +1,12 @@
 ## Publications on Intellectual Cooperation
-### SHARED BIBLIOGRAPHY
-The shared bibliography on Intellectual Cooperation currently contains nearly **200 items**. [You can access it here](https://www.zotero.org/groups/2817289/intellectual_cooperation/library).
+### A SHARED BIBLIOGRAPHY
+The shared bibliography on Intellectual Cooperation currently contains nearly **200 items**. [You can access it here](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). Due to the important publishing activity around the League of Nations or the history of international relations, this bibliography contains only those publications which deal directly with the International Committee on Intellectual Cooperation or the International Institute of Intellectual Cooperation.
 
 [<img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/ZoteroGroupIntellectualCooperation.png">](https://www.zotero.org/groups/2817289/intellectual_cooperation/library)
 
 Access to this bibliography is public and does not require to have a Zotero account. Zotero users can subscribe to the ["Intellectual Cooperation" group](https://www.zotero.org/groups/2817289/intellectual_cooperation) to have access to these references at any time on their own account.
 
-### HOW TO ADD REFERENCES
-This bibliography is frequently updated. If you want to complete it or add your recent publications, send them to [Martin Grandjean](mailto:martingrandjean@bluewin.ch?subject=[IntellectualCooperation]) who will add them.
-
-If you are a Zotero user and wish to contribute to this shared bibliography on a regular basis, it is entirely possible to assign yourself publishing rights, let us know.
-
-### RECENT PUBLICATIONS
+### RECENT PUBLICATIONS ON INTELLECTUAL COOPERATION
 Items published in the last 10 years (alphabetical). For older publications, links, DOI and other classification criteria, [use the Zotero library](https://www.zotero.org/groups/2817289/intellectual_cooperation/library).
 
 * Brzeziński, Andrzej M. ‘Oskar Halecki – the Advocate of Central and Eastern European Countries in the International Committee on Intellectual Cooperation of the League of Nations (1922‑1925)’. Studia z Dziejów Rosji i Europy Środkowo-Wschodniej 48 (2013).
@@ -62,4 +57,7 @@ Items published in the last 10 years (alphabetical). For older publications, lin
 * Valéry, Paul, and Salvador de Madariaga. Correspondance Pour Une Société Des Esprits. Edited by Jean-Michel Rey. Estru Mediterraniu. Ajaccio: Albiana, Università di Corsica, 2016.
 * Wilson, Peter. ‘Gilbert Murray and International Relations: Hellenism, Liberalism, and International Intellectual Cooperation as a Path to Peace’. Review of International Studies 37, no. 2 (2011): 881–909.
 
+### HOW TO ADD REFERENCES
+This bibliography is frequently updated. If you want to complete it or add your recent publications, send them to [info at intellectualcooperation dot org](mailto:info@intellectualcooperation.org?subject=[IntellectualCooperation]).
 
+If you are a Zotero user and wish to contribute to this shared bibliography on a regular basis, it is entirely possible to assign yourself publishing rights, let us know.
