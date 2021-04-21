@@ -19,3 +19,23 @@ p {
   text-align: justify;
 }
 
+header {
+  width:220px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+footer {
+  width:220px;
+  float:left;
+  position:fixed;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+section {
+  width:600px;
+  float:right;
+  padding-bottom:50px;
+}
