@@ -9,8 +9,6 @@ Access to this bibliography is public and does not require to have a Zotero acco
 ### RECENT PUBLICATIONS ON INTELLECTUAL COOPERATION
 Items published in the last 10 years. For older publications, links, DOI and other classification criteria, [use the Zotero library](https://www.zotero.org/groups/2817289/intellectual_cooperation/library).
 
-#### 2021
-
 #### 2020
 * Grandjean, Martin. ‘[A Representative Organization? Ibero-American Networks in the Committee on Intellectual Cooperation of the League of Nations (1922-1939)](https://serval.unil.ch/resource/serval:BIB_F8F05A6DBC3C.P001/REF)’. In Cultural Organizations, Networks and Mediators in Contemporary Ibero-America, edited by Diana Roig Sanz and Jaume Subira, 65–89. Routledge, 2020.
 * Riondet, Xavier. ‘[L’Institut international de coopération intellectuelle : comment promouvoir un enseignement répondant à l’idéal internationaliste (1931-1937) ?](https://www.cairn.info/revue-relations-internationales-2020-3-page-77.htm)’ Relations internationales n° 183, no. 3 (2020): 77–93.
