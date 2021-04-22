@@ -11,7 +11,12 @@ Items published in the last 10 years. For older publications, links, DOI and oth
 
 #### 2021
 #### 2020
-* Grandjean, Martin. ‘Iberian and Latino-American Representation in the Committee on Intellectual Cooperation of the League of Nations (1922-1939)’. In Politics of the Spirit: Cultural Internationalization in Early 20c Hispanic Modernity, edited by Diana Roig Sanz, 2020.
+* Grandjean, Martin. ‘[A Representative Organization? Ibero-American Networks in the Committee on Intellectual Cooperation of the League of Nations (1922-1939)](https://serval.unil.ch/resource/serval:BIB_F8F05A6DBC3C.P001/REF)’. In Cultural Organizations, Networks and Mediators in Contemporary Ibero-America, edited by Diana Roig Sanz and Jaume Subira, 65–89. Routledge, 2020.
+* Riondet, Xavier. ‘[L’Institut international de coopération intellectuelle : comment promouvoir un enseignement répondant à l’idéal internationaliste (1931-1937) ?](https://www.cairn.info/revue-relations-internationales-2020-3-page-77.htm)’ Relations internationales n° 183, no. 3 (2020): 77–93.
+* Taillibert, Christel. ‘[Le cinéma d’éducation et le projet internationaliste de la SDN : la brève histoire de l’Institut international du cinéma éducatif](https://www.cairn.info/revue-relations-internationales-2020-3-page-95.htm)’. Relations internationales n° 183, no. 3 (2020): 95–112.
+* Vrdoljak, Ana Filipa, and Lynn Meskell. ‘[Intellectual Cooperation Organisation, Unesco, and the Culture Conventions](https://www.oxfordhandbooks.com/view/10.1093/law/9780198859871.001.0001/law-9780198859871-chapter-2)’. In The Oxford Handbook of International Cultural Heritage Law, edited by Francesco Francioni and Ana Filipa Vrdoljak. Oxford University Press, 2020.
+
+
 #### 2019
 * Grandjean, Martin, and Marco Van Leeuwen. ‘Mapping Internationalism: Congresses and Organisations in the Nineteenth and Twentieth Centuries’. In International Organizations and Global Civil Society: Histories of the Union of International Associations, edited by Daniel Laqua, Wouter Van Acker, and Christophe Verbruggen, 225–42. London: Bloomsbury, 2019.
 * Irish, Tomás. ‘The “Moral Basis” of Reconstruction? Humanitarianism, Intellectual Relief and the League of Nations, 1918-1925’. Modern Intellectual History 16, no. 1 (2019): 1–32.
