@@ -18,6 +18,7 @@ Items published in the last 10 years. For older publications, links, DOI and oth
 #### 2019
 * Grandjean, Martin, and Marco Van Leeuwen. ‘[Mapping Internationalism: Congresses and Organisations in the Nineteenth and Twentieth Centuries](https://halshs.archives-ouvertes.fr/halshs-01857353v1)’. In International Organizations and Global Civil Society: Histories of the Union of International Associations, edited by Daniel Laqua, Wouter Van Acker, and Christophe Verbruggen, 225–42. London: Bloomsbury, 2019.
 * Irish, Tomás. ‘[The “Moral Basis” of Reconstruction? Humanitarianism, Intellectual Relief and the League of Nations, 1918-1925](https://www.cambridge.org/core/journals/modern-intellectual-history/article/moral-basis-of-reconstruction-humanitarianism-intellectual-relief-and-the-league-of-nations-19181925/BBB2F7C46B5954E500006681B3CFBA7C#)’. Modern Intellectual History 16, no. 1 (2019): 1–32. 
+* Laqua, Daniel, Wouter Van Acker, and Christophe Verbruggen. [International Organizations and Global Civil Society. Histories of the Union of International Associations](https://www.bloomsbury.com/us/international-organizations-and-global-civil-society-9781350055629/). Bloomsbury, 2019.
 * Scaglia, Ilaria. The Emotions of Internationalism: Feeling International Cooperation in the Alps in the Interwar Period. Oxford: Oxford University Press, 2019.
 
 #### 2018
