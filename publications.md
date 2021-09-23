@@ -10,8 +10,12 @@ Access to this bibliography is public and does not require to have a Zotero acco
 Items published in the last 10 years. For older publications, links, DOI and other classification criteria, [use the Zotero library](https://www.zotero.org/groups/2817289/intellectual_cooperation/library).
 
 #### 2020
+* Goto-Shibata, Harumi. [The League of Nations and the East Asian Imperial Order, 1920–1946](https://doi.org/10.1007/978-981-15-4968-7). New Directions in East Asian History. Palgrave Macmillan, 2020.
 * Grandjean, Martin. ‘[A Representative Organization? Ibero-American Networks in the Committee on Intellectual Cooperation of the League of Nations (1922-1939)](https://serval.unil.ch/resource/serval:BIB_F8F05A6DBC3C.P001/REF)’. In Cultural Organizations, Networks and Mediators in Contemporary Ibero-America, edited by Diana Roig Sanz and Jaume Subira, 65–89. Routledge, 2020.
+* Grandjean, Martin. ‘[Using Network Analysis to Question the Concepts of Centrality and Periphery in Complex Historical Structures](https://halshs.archives-ouvertes.fr/halshs-03012645)’. Cultural Organizations: Between the Local and the Global (1880s-1960s), Barcelona, 2020.
+* Pita González, Alexandra. ‘El Código de La Paz y La Trama Del Panamericanismo En La Década de 1930’. Estudos Ibero Americanos 46, no. 3 (2020): 1–16.
 * Riondet, Xavier. ‘[L’Institut international de coopération intellectuelle : comment promouvoir un enseignement répondant à l’idéal internationaliste (1931-1937) ?](https://www.cairn.info/revue-relations-internationales-2020-3-page-77.htm)’ Relations internationales n° 183, no. 3 (2020): 77–93.
+* Roig-Sanz, Diana, and Jaume Subirana. [Cultural Organizations, Networks and Mediators in Contemporary Ibero-America](https://doi.org/10.4324/9780429299407). Routledge, 2020.
 * Taillibert, Christel. ‘[Le cinéma d’éducation et le projet internationaliste de la SDN : la brève histoire de l’Institut international du cinéma éducatif](https://www.cairn.info/revue-relations-internationales-2020-3-page-95.htm)’. Relations internationales n° 183, no. 3 (2020): 95–112.
 * Vrdoljak, Ana Filipa, and Lynn Meskell. ‘[Intellectual Cooperation Organisation, Unesco, and the Culture Conventions](https://www.oxfordhandbooks.com/view/10.1093/law/9780198859871.001.0001/law-9780198859871-chapter-2)’. In The Oxford Handbook of International Cultural Heritage Law, edited by Francesco Francioni and Ana Filipa Vrdoljak. Oxford University Press, 2020.
 
@@ -19,6 +23,8 @@ Items published in the last 10 years. For older publications, links, DOI and oth
 * Grandjean, Martin, and Marco Van Leeuwen. ‘[Mapping Internationalism: Congresses and Organisations in the Nineteenth and Twentieth Centuries](https://halshs.archives-ouvertes.fr/halshs-01857353v1)’. In International Organizations and Global Civil Society: Histories of the Union of International Associations, edited by Daniel Laqua, Wouter Van Acker, and Christophe Verbruggen, 225–42. London: Bloomsbury, 2019.
 * Irish, Tomás. ‘[The “Moral Basis” of Reconstruction? Humanitarianism, Intellectual Relief and the League of Nations, 1918-1925](https://www.cambridge.org/core/journals/modern-intellectual-history/article/moral-basis-of-reconstruction-humanitarianism-intellectual-relief-and-the-league-of-nations-19181925/BBB2F7C46B5954E500006681B3CFBA7C#)’. Modern Intellectual History 16, no. 1 (2019): 1–32. 
 * Laqua, Daniel, Wouter Van Acker, and Christophe Verbruggen. [International Organizations and Global Civil Society. Histories of the Union of International Associations](https://www.bloomsbury.com/us/international-organizations-and-global-civil-society-9781350055629/). Bloomsbury, 2019.
+* Pita González, Alexandra. ‘América (Latina) En París. Mistral, Reyes y Torres Bodet En La Colección Iberoamericana, 1927-1940’. In América Latina y El Internacionalismo Ginebrino de Entreguerras: Resonancias e Implicaciones, edited by Fabián Herrera León and Yannick Wehrli, 241–76. México: Dirección General del Acervo Histórico Diplomático, 2019.
+* Pita González, Alexandra. ‘La Colección Etnográfica e Historia de América y El Embajador Roberto Levillier En México, 1934-1939’. Historia Mexicana LXVIII, no. 4 (2019): 1697–1742.
 * Scaglia, Ilaria. The Emotions of Internationalism: Feeling International Cooperation in the Alps in the Interwar Period. Oxford: Oxford University Press, 2019.
 
 #### 2018
@@ -29,6 +35,7 @@ Items published in the last 10 years. For older publications, links, DOI and oth
 * Shine, Cormac. ‘[Papal Diplomacy by Proxy? Catholic Internationalism at the League of Nations’ International Committee on Intellectual Cooperation, 1922-1939](https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/abs/papal-diplomacy-by-proxy-catholic-internationalism-at-the-league-of-nations-international-committee-on-intellectual-cooperation-19221939/077AF527A5AF6EFA8C56DF1560450122)’. Journal of Ecclesiastical History, 2018, 1–21.
 
 #### 2017
+* Goto-Shibata, Harumi. ‘[Britain, the League of Nations and Russian Women Refugees in China in the Interwar Period](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315889603-5/britain-league-nations-russian-women-refugees-china-interwar-period-harumi-goto-shibata)’. In Britain’s Retreat from Empire in East Asia, 1905–1980, edited by Anthony Best. Routledge, 2017.
 * Grandjean, Martin. ‘[Analisi e Visualizzazioni Delle Reti in Storia. L’esempio Della Cooperazione Intellettuale Della Societa Delle Nazioni](https://serval.unil.ch/resource/serval:BIB_2BAC4C3B55A4.P001/REF)’. Memoria e Ricerca 55, no. 2 (2017): 371–93.
 * Shine, Cormac. ‘La Contre-Eglise Des Humanitaristes et Des Internationalistes: Vatican Multilateral Diplomacy and Catholic Internationalism at the League of Nations, 1917-1939’. Institut de hautes études internationales et du développement, 2017.
 
@@ -49,9 +56,12 @@ Items published in the last 10 years. For older publications, links, DOI and oth
 
 #### 2014
 * Grandjean, Martin. ‘[Intellectual Cooperation after the First World War: Multi-Level Network Analysis of an International Organization](https://halshs.archives-ouvertes.fr/hal-01525573)’. In Historical Network Research Conference. Ghent, 2014.
+* Grandjean, Martin. ‘[La Connaissance Est Un Réseau: Perspective Sur l’organisation Archivistique et Encyclopédique](https://doi.org/10.3166/LCN.10.3.37-54)’. Les Cahiers du Numérique 10, no. 3 (2014): 37–54.
 * Habermann-Box, Sigrun. ‘From the League of Nations to the United Nations: The Continuing Preservation and Development of the Geneva Archives’. In Networking the International System. Global Histories of International Organizations, edited by Madeleine Herren, 15–30. Switzerland: Springer, 2014.
 * Heerikhuizen, A. van. ‘[Paris 1933: A “Société Des Esprits” Chaired by Paul Valéry](http://dare.uva.nl/search?identifier=8916ef60-9528-4306-97e9-e5e66765f7c9)’. European Studies 32 (2014): 139–54.
 * Pernet, Corinne. ‘Twists, Turns and Dead Alleys: The League of Nations and Intellectual Cooperation in Times of War’. Journal of Modern European History 12, no. 3 (2014): 342–58.
+* Pita González, Alexandra. ‘A Case of Study: México and the International Intellectual Cooperation in the Interwar Period’. Acta Universitatis Danubius. Relationes Internationales 7, no. 2 (2014): 117–34.
+* Pita González, Alexandra. Educar Para La Paz. México y La Cooperación Intelectual Internacional, 1922-1948. México: Secretaría de Relaciones Exteriores, Universidad de Colima, 2014.
 * Saikawa, Takashi. ‘From Intellectual Co-Operation to International Cultural Exchange: Japan and China in the International Committee on Intellectual Co-Operation of the League of Nations, 1922-1939’. Universität Heidelberg, 2014.
 * Sibille, Christiane. ‘[La musique à la Société des Nations](http://www.cairn.info/article.php?ID_ARTICLE=RI_155_0089)’. Relations internationales 155, no. 3 (2014): 89–102.
 
