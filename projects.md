@@ -22,6 +22,8 @@ Swiss National Science Foundation 194909
 
 [Read more](http://p3.snf.ch/project-194909)
 
+---
+
 ## PAST PROJECTS
 
 ---
