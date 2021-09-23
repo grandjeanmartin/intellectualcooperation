@@ -1,6 +1,6 @@
 ## Projects
 
-This page presents completed or ongoing projects concerning intellectual cooperation. ([Contact us](https://intellectualcooperation.org/about) if you want your project to appear here).
+This page presents completed or ongoing projects concerning intellectual cooperation. [Contact us](https://intellectualcooperation.org/about) if you want your project to appear here.
 
 ## CURRENT PROJECTS
 ---
