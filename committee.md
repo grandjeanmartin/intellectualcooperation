@@ -1,13 +1,19 @@
 ## Committee
 
+---
+
 ### ORGANISATION
 
 * **Blandine Blukacz-Louisfert**, United Nations Library and Archives Geneva, Switzerland
 * Dr. **Martin Grandjean**, Swiss National Science Foundation / University of Lausanne, Switzerland
 
+---
+
 ### HOSTS
 
 Organisation + logos and links
+
+---
 
 ### SCIENTIFIC COMMITTEE
 * **Jens Boel**, Independent, formerly UNESCO Archives and Library, France
