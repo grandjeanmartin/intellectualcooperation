@@ -9,7 +9,7 @@
 
 ---
 
-### HOSTS
+### HOST INSTITUTIONS
 
 Organisation + logos and links
 
