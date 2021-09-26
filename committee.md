@@ -1,4 +1,4 @@
-## Committees
+## Committee
 
 ### ORGANISATION
 
@@ -7,7 +7,7 @@
 
 ### HOSTS
 
-Organisations
+Organisation + logos and links
 
 ### SCIENTIFIC COMMITTEE
 * **Jens Boel**, Independent, formerly UNESCO Archives and Library, France
