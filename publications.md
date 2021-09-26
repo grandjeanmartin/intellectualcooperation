@@ -1,10 +1,15 @@
 ## Publications on Intellectual Cooperation
+
+---
+
 ### A SHARED BIBLIOGRAPHY
 The shared bibliography on Intellectual Cooperation currently contains more than **200 items**. [You can access it here](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). Due to the important publishing activity around the League of Nations or the history of international relations, this bibliography contains only those publications which deal directly with the International Committee on Intellectual Cooperation or the International Institute of Intellectual Cooperation.
 
 [<img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/ZoteroGroupIntellectualCooperation.png">](https://www.zotero.org/groups/2817289/intellectual_cooperation/library)
 
 Access to this bibliography is public and does not require to have a Zotero account. Zotero users can subscribe to the ["Intellectual Cooperation" group](https://www.zotero.org/groups/2817289/intellectual_cooperation) to have access to these references at any time on their own account.
+
+---
 
 ### RECENT PUBLICATIONS ON INTELLECTUAL COOPERATION
 Items published in the last 10 years. For older publications, links, DOI and other classification criteria, [use the Zotero library](https://www.zotero.org/groups/2817289/intellectual_cooperation/library).
@@ -92,12 +97,17 @@ Items published in the last 10 years. For older publications, links, DOI and oth
 * Tournès, Ludovic. ‘[Comment Devenir Une Superpuissance Intellectuelle ? La Fondation Rockefeller et La Documentation Scientifique](https://www.academia.edu/16456977/_Comment_devenir_une_superpuissance_intellectuelle_La_fondation_Rockefeller_et_la_documentation_scientifique_in_C._Hauser_T._Lou%C3%A9_J-Y._Mollier_and_F._Vallotton_dir._La_diplomatie_par_le_livre_Nouveau_monde_2011_p._165-180)’. In La Diplomatie Par Le Livre. Réseaux et Circulation Internationale de l’imprimé de 1880 à Nos Jours, edited by Claude Hauser, Thomas Loué, Jean-Yves Mollier, and François Vallotton, 165–80. Lausanne: Nouveau Monde, 2011.
 * Wilson, Peter. ‘[Gilbert Murray and International Relations: Hellenism, Liberalism, and International Intellectual Cooperation as a Path to Peace](https://www.jstor.org/stable/23024624)’. Review of International Studies 37, no. 2 (2011): 881–909.
 
+---
+
 ### HOW TO ADD REFERENCES
 This bibliography is frequently updated. If you want to complete it or add your recent publications, send them to [info at intellectualcooperation dot org](mailto:info@intellectualcooperation.org?subject=[IntellectualCooperation]).
 
 If you are a Zotero user and wish to contribute to this shared bibliography on a regular basis, it is entirely possible to assign yourself publishing rights, let us know.
 
+---
+
 ### OTHER BIBLIOGRAPHICAL RESOURCES
+
 * An advanced search with ["intellectual cooperation" on Google Scholar](https://scholar.google.com/scholar?as_vis=0&q=%22intellectual+cooperation%22+OR+%22coop%C3%A9ration+intellectuelle%22).
 * A selection of [publications and bibliographies](https://libraryresources.unog.ch/lonintellectualcooperation/findingaids) in the UNOG Library research guide.
 * The [LONSEA Zotero group](https://www.zotero.org/groups/875957/lonsea_bibliography) (>2000 references about the League of Nations)
