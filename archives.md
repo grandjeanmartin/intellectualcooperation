@@ -1,3 +1,3 @@
-## Archives
+# Archives
 
 Under construction
