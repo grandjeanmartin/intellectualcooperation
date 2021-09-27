@@ -38,6 +38,6 @@ Communications can focus on the following areas (but are not limited to):
 
 ## Submission guidelines
 
-Paper proposals should be sent to info[at]intellectualcooperation.org by November 15, 2021. They should be submitted in the form of an abstract of 500 to 1000 words (not including references), accompanied by a short biography of the author (50 to 100 words). In addition to the purpose of the study, the abstract should indicate precisely how the topic will be addressed (based on which archives/data, method).
+Paper proposals should be sent to **info[at]intellectualcooperation.org** by **November 15, 2021**. They should be submitted in the form of an abstract of **500 to 1000 words** (not including references), accompanied by a short biography of the author (50 to 100 words). In addition to the purpose of the study, the abstract should indicate precisely how the topic will be addressed (based on which archives/data, method).
 
 Prior to the conference, authors will be invited to share an extended version of their paper so that participants can prepare for the discussions. The organizers are considering the publication of a collective monograph based upon the papers submitted to the conference.
