@@ -1,8 +1,8 @@
-## Call for papers
+# Call for papers
 
 ---
 
-### The Centenary of Intellectual Cooperation
+## The Centenary of Intellectual Cooperation
 
 On August 1, 1922, on the shores of Lake Geneva, the International Committee on Intellectual Cooperation (ICIC) met for the first time in what would later become the "Palais Wilson". Although this was the first time that these twelve international personalities from the sciences and arts, including Henri Bergson, Kristine Bonnevie, Marie Curie-Sklodowska, Albert Einstein, Gilbert Murray, Jules Destrée and George E. Hale, came together, the idea of creating such a coordinating body for intellectual matters predates the founding of the League of Nations and has its origins in the internationalist movements of the late 19th century. What would later be considered by its actors as an attempt to build a "General Republic of Intelligence" or a "League of the Minds", was just one element of the vast diplomatic and bureaucratic machine that was set up at the end of the Great War to try to pacify Europe and create a new world order based on multilateral cooperation. 
 
@@ -12,7 +12,7 @@ The centenary of the creation of the ICIC is an opportunity for historians to st
 
 --- 
 
-### Research axes
+## Research axes
 
 Communications can focus on the following areas (but are not limited to):
 
@@ -36,7 +36,7 @@ Communications can focus on the following areas (but are not limited to):
 
 ---
 
-### Submission guidelines
+## Submission guidelines
 
 Paper proposals should be sent to info[at]intellectualcooperation.org by November 15, 2021. They should be submitted in the form of an abstract of 500 to 1000 words (not including references), accompanied by a short biography of the author (50 to 100 words). In addition to the purpose of the study, the abstract should indicate precisely how the topic will be addressed (based on which archives/data, method).
 
