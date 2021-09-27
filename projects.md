@@ -26,6 +26,7 @@ Tomás Irish is currently completing a monograph called Feeding the Mind: Humani
 ---
 #### At the source of multilateralism: The birth of an international administration in the interwar period
 **Martin Grandjean** (University of Lausanne, CH)
+
 Swiss National Science Foundation 194909
 
 [Read more](http://p3.snf.ch/project-194909)
@@ -37,6 +38,7 @@ Swiss National Science Foundation 194909
 ---
 #### The international scientific and intellectual cooperation during the interwar: the ICIC and the Davos university courses
 **François Vallotton** (University of Lausanne, CH) and **Martin Grandjean** (University of Lausanne, CH)
+
 Swiss National Science Foundation 144552
 
 [Read more](https://halshs.archives-ouvertes.fr/tel-01853903)
