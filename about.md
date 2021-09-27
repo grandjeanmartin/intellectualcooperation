@@ -1,6 +1,6 @@
 # About
 
-This website was created on the occasion of the international conference celebrating the centenary of the creation of the International Committee on Intellectual Cooperation (1922-2022). In addition to accompanying the conference, it aims to gather and promote resources on intellectual cooperation (list of completed or ongoing projects, bibliography of recent publications, etc.). It is deliberately very simple in its structure in order to remain a platform and not to replace all existing or future initiatives.
+This website was created on the occasion of the international conference celebrating the centenary of the creation of the International Committee on Intellectual Cooperation (1922-2022). In addition to accompanying the conference, it aims to gather and promote resources on intellectual cooperation (list of completed or ongoing projects, bibliography of recent publications, etc.). It is deliberately very simple in its structure in order to be easy to archive and to remain a platform and not to replace all existing or future initiatives.
 
 # Contact
 
