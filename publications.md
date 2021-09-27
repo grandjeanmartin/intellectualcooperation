@@ -2,7 +2,8 @@
 
 ---
 
-### A SHARED BIBLIOGRAPHY
+### A shared bibliography
+
 The shared bibliography on Intellectual Cooperation currently contains more than **200 items**. [You can access it here](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). Due to the important publishing activity around the League of Nations or the history of international relations, this bibliography contains only those publications which deal directly with the International Committee on Intellectual Cooperation or the International Institute of Intellectual Cooperation.
 
 [<img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/ZoteroGroupIntellectualCooperation.png">](https://www.zotero.org/groups/2817289/intellectual_cooperation/library)
@@ -11,7 +12,8 @@ Access to this bibliography is public and does not require to have a Zotero acco
 
 ---
 
-### RECENT PUBLICATIONS ON INTELLECTUAL COOPERATION
+### Recent publications on Intellectual cooperation
+
 Items published in the last 10 years. For older publications, links, DOI and other classification criteria, [use the Zotero library](https://www.zotero.org/groups/2817289/intellectual_cooperation/library).
 
 #### 2020
@@ -99,14 +101,15 @@ Items published in the last 10 years. For older publications, links, DOI and oth
 
 ---
 
-### HOW TO ADD REFERENCES
+### How to add references
+
 This bibliography is frequently updated. If you want to complete it or add your recent publications, send them to [info at intellectualcooperation dot org](mailto:info@intellectualcooperation.org?subject=[IntellectualCooperation]).
 
 If you are a Zotero user and wish to contribute to this shared bibliography on a regular basis, it is entirely possible to assign yourself publishing rights, let us know.
 
 ---
 
-### OTHER BIBLIOGRAPHICAL RESOURCES
+### Other bibliographical resources
 
 * An advanced search with ["intellectual cooperation" on Google Scholar](https://scholar.google.com/scholar?as_vis=0&q=%22intellectual+cooperation%22+OR+%22coop%C3%A9ration+intellectuelle%22).
 * A selection of [publications and bibliographies](https://libraryresources.unog.ch/lonintellectualcooperation/findingaids) in the UNOG Library research guide.
