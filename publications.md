@@ -44,6 +44,7 @@ Items published in the last 10 years. For older publications, links, DOI and oth
 ### 2017
 * Goto-Shibata, Harumi. ‘[Britain, the League of Nations and Russian Women Refugees in China in the Interwar Period](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315889603-5/britain-league-nations-russian-women-refugees-china-interwar-period-harumi-goto-shibata)’. In Britain’s Retreat from Empire in East Asia, 1905–1980, edited by Anthony Best. Routledge, 2017.
 * Grandjean, Martin. ‘[Analisi e Visualizzazioni Delle Reti in Storia. L’esempio Della Cooperazione Intellettuale Della Societa Delle Nazioni](https://serval.unil.ch/resource/serval:BIB_2BAC4C3B55A4.P001/REF)’. Memoria e Ricerca 55, no. 2 (2017): 371–93.
+* Laqua, Daniel. ‘[Activism in the ‘Students’ League of Nations’: International Student Politics and the Confédération Internationale des Étudiants, 1919–1939](https://doi.org/10.1093/ehr/cex153)’. The English Historical Review 132, no. 556 (2017): 605–37.
 * Shine, Cormac. ‘La Contre-Eglise Des Humanitaristes et Des Internationalistes: Vatican Multilateral Diplomacy and Catholic Internationalism at the League of Nations, 1917-1939’. Institut de hautes études internationales et du développement, 2017.
 
 ### 2016
