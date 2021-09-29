@@ -4,6 +4,8 @@ The archives of intellectual cooperation consist of two very complementary docum
 
 These two collections have recently been fully digitized and are now available online.
 
+---
+
 ## The archives of the Committee
 
 <img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/cm075%20ICIC.png">
@@ -14,6 +16,8 @@ These two collections have recently been fully digitized and are now available o
 
 Visit the [Total Digital Access to the League of Nations Archives Project](https://lontad-project.unog.ch/) website.
 
+---
+
 ## The archives of the Institute
 
 <img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/cm080%20IIIC.jpg">
@@ -23,3 +27,7 @@ Visit the [Total Digital Access to the League of Nations Archives Project](https
 > In 2015, UNESCO launched a fundraising project to digitize the Organization’s archives dating back to its predecessors, including the League of Nations’ International Institute for Intellectual Cooperation. The project is an important step in preserving key parts of our collective memory and in making these records more readily available to the public. Two years later, thanks to the generous support of the Government of Japan, UNESCO launched a major two-year initiative. In partnership with the digitization company Picturae BV, an on-site laboratory was installed at the UNESCO Headquarters in Paris in February of 2018. [*Read more...*](https://digital.archives.unesco.org/en/about-the-project)
 
 Visit the [Digitizing our Shared UNESCO History](https://digital.archives.unesco.org/en/) website or browse the [IIIC archives](https://digital.archives.unesco.org/en/collection/iici-documents/).
+
+---
+
+Pictures: League of Nations Archives (UNOG Library, Geneva) CM075 and CM080.
