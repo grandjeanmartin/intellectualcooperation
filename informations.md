@@ -22,7 +22,7 @@ The centenary of intellectual cooperation is an opportunity to coordinate our ef
 
 ## Archives and online resources
 
-Both the United Nations Archives in Geneva (ICIC documents) and the UNESCO Archives in Paris (IIIC documents) are digitizing their collections. Find more about these invaluable resources here on [the "archives" page](http://intellectualcooperation.org/archives)
+Both the United Nations Archives in Geneva (ICIC documents) and the UNESCO Archives in Paris (IIIC documents) are digitizing their collections. Find more about these invaluable resources on [the "archives" page](http://intellectualcooperation.org/archives)
 
 Several research projects on intellectual cooperation have taken place in recent years or are currently in progress. More information on [the "projects" page](https://intellectualcooperation.org/projects)
 
