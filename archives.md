@@ -7,13 +7,15 @@ These two collections have recently been fully digitized and are now available o
 ## The archives of the Committee
 #### 📖 United Nations Library & Archives, Geneva
 
+<a href="https://lontad-project.unog.ch/"><img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/lontad.png" width="200" align="right">
+  
 > The Total Digital Access to the League of Nations Archives Project (LONTAD) will ensure state-of-the-art free online access and the digital and physical preservation of approximately 15 million pages, or almost three linear kilometers, the entirety of the archives of the League of Nations (1920-1946), the first global intergovernmental organization aiming to establish international peace and cooperation, and the predecessor of the United Nations. The LONTAD project is made possible through a generous donation of a private Swiss foundation. [*Read more...*](https://lontad-project.unog.ch/about-the-project)
 
 Visit the [Total Digital Access to the League of Nations Archives Project](https://lontad-project.unog.ch/) website.
 
 ## The archives of the Institute
 #### 📖 UNESCO Archives, Paris
-
+https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/unesco_archives.png
 > In 2015, UNESCO launched a fundraising project to digitize the Organization’s archives dating back to its predecessors, including the League of Nations’ International Institute for Intellectual Cooperation. The project is an important step in preserving key parts of our collective memory and in making these records more readily available to the public. Two years later, thanks to the generous support of the Government of Japan, UNESCO launched a major two-year initiative. In partnership with the digitization company Picturae BV, an on-site laboratory was installed at the UNESCO Headquarters in Paris in February of 2018. [*Read more...*](https://digital.archives.unesco.org/en/about-the-project)
 
 Visit the [Digitizing our Shared UNESCO History](https://digital.archives.unesco.org/en/) website or browse the [IIIC archives](https://digital.archives.unesco.org/en/collection/iici-documents/).
