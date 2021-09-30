@@ -9,7 +9,7 @@ This page presents completed or ongoing projects concerning intellectual coopera
 
 This project sets the grounds for a new approach exploring transnational processes of cultural transformation. To do so, we propose an innovative investigation in modernist studies: the impact of Hispanic cultural mediators in international modernity during the first half of the twentieth century. Our aim is to amend the fact that literature on aesthetic modernity tends to overlook Hispanic modernism and keeps locating it on the peripheries. However, from the 1900s onwards, Hispanic mediators participated in the cultural arena and took an active part in intercultural and multilingual networks. This project argues that these networks enabled Hispanic mediators to play a prominent role in the international scene, helping them revitalize both Europe and their local milieu. This project understands cultural mediators as agents who meet at least two main parameters: multilingualism, on the one hand, and the performance of numerous activities and roles across linguistic, artistic, and geographical borders on the other.
 
-[Read more](https://mapmodern.wordpress.com/)
+[Read more](https://globals.research.uoc.edu/projects/#)
 
 ---
 ### Learning to be international: British children and the League of Nations
