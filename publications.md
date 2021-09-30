@@ -27,7 +27,7 @@ Items published in the last 10 years. For older publications, links, DOI and oth
 
 ### 2020
 * Goto-Shibata, Harumi. [The League of Nations and the East Asian Imperial Order, 1920–1946](https://doi.org/10.1007/978-981-15-4968-7). New Directions in East Asian History. Palgrave Macmillan, 2020.
-* Grandjean, Martin. ‘[A Representative Organization? Ibero-American Networks in the Committee on Intellectual Cooperation of the League of Nations (1922-1939)](https://serval.unil.ch/resource/serval:BIB_F8F05A6DBC3C.P001/REF)’. In Cultural Organizations, Networks and Mediators in Contemporary Ibero-America, edited by Diana Roig Sanz and Jaume Subira, 65–89. Routledge, 2020.
+* Grandjean, Martin. ‘[A Representative Organization? Ibero-American Networks in the Committee on Intellectual Cooperation of the League of Nations (1922-1939)](https://halshs.archives-ouvertes.fr/halshs-03207291)’. In Cultural Organizations, Networks and Mediators in Contemporary Ibero-America, edited by Diana Roig Sanz and Jaume Subira, 65–89. Routledge, 2020.
 * Grandjean, Martin. ‘[Using Network Analysis to Question the Concepts of Centrality and Periphery in Complex Historical Structures](https://halshs.archives-ouvertes.fr/halshs-03012645)’. Cultural Organizations: Between the Local and the Global (1880s-1960s), Barcelona, 2020.
 * Pita González, Alexandra. ‘El Código de La Paz y La Trama Del Panamericanismo En La Década de 1930’. Estudos Ibero Americanos 46, no. 3 (2020): 1–16.
 * Riondet, Xavier. ‘[L’Institut international de coopération intellectuelle : comment promouvoir un enseignement répondant à l’idéal internationaliste (1931-1937) ?](https://www.cairn.info/revue-relations-internationales-2020-3-page-77.htm)’ Relations internationales n° 183, no. 3 (2020): 77–93.
