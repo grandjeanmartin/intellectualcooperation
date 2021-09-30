@@ -16,6 +16,15 @@ Access to this bibliography is public and does not require to have a Zotero acco
 
 Items published in the last 10 years. For older publications, links, DOI and other classification criteria, [use the Zotero library](https://www.zotero.org/groups/2817289/intellectual_cooperation/library).
 
+### Forthcoming
+* Carbó-Catalan, Elisabet. ‘Foreign Catalan Projection. An Overview of the Catalan Case’. Comparative Literature Studies, 2022.
+* Carbó-Catalan, Elisabet, and Reine Meylaerts. ‘Translation Policies in the Long Durée. From the International Institute of Intellectual Cooperation to UNESCO’. In Global Literary Studies: Key Concepts, edited by Diana Roig-Sanz and Neus Rotger. Berlin: De Gruyter, 2022.
+* Carbó-Catalan, Elisabet, and Diana Roig-Sanz. Culture as Soft Power. Bridging Cultural Relations, Intellectual Cooperation and Cultural Diplomacy. Berlin: De Gruyter, 2022.
+
+### 2021
+* Roig-Sanz, Diana. ‘The International Institute of Intellectual Cooperation: Translation Policies in the Interwar Period (1925–1946)’. In The Routledge Handbook of Translation History, edited by Christopher Rundle, 452–68. Routledge, 2021.
+* Roig-Sanz, Diana, and Elisabet Carbó-Catalan. ‘Las Instituciones Culturales y La Cooperación Intelectual. La Creación de Redes Transnacionales En La Primera Modernidad Española’. In Las Dos Modernidades, edited by Domingo Ródenas and Jordi Gracia. Madrid: Visor, 2021.
+
 ### 2020
 * Goto-Shibata, Harumi. [The League of Nations and the East Asian Imperial Order, 1920–1946](https://doi.org/10.1007/978-981-15-4968-7). New Directions in East Asian History. Palgrave Macmillan, 2020.
 * Grandjean, Martin. ‘[A Representative Organization? Ibero-American Networks in the Committee on Intellectual Cooperation of the League of Nations (1922-1939)](https://serval.unil.ch/resource/serval:BIB_F8F05A6DBC3C.P001/REF)’. In Cultural Organizations, Networks and Mediators in Contemporary Ibero-America, edited by Diana Roig Sanz and Jaume Subira, 65–89. Routledge, 2020.
