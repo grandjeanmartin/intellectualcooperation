@@ -2,7 +2,7 @@
 
 ---
 
-<a href="files/icic2022.pdf" class="image fit"><img src="images/pdf.png" alt="">This call for papers is available as a PDF</a>
+<a href="https://github.com/grandjeanmartin/intellectualcooperation/raw/gh-pages/files/ICIC2022.pdf" class="image fit"><img src="images/pdf.png" width="60" align="left">This call for papers can be downloaded as a PDF</a>
 
 ---
 
