@@ -3,8 +3,7 @@
 ---
 
 ## Location
-
-The conference will take place at the United Nations Library in Geneva (Palais des Nations). Due to the uncertainty of international travel, this will be a hybrid event: it will be possible to join the conference online, both for the presenters and for the participants. 
+The conference will take place at the United Nations Library in Geneva (Palais des Nations) on May 12-13, 2022. Due to the uncertainty of international travel, this will be a hybrid event: it will be possible to join the conference online, both for the presenters and for the participants. !
 
 ---
 
