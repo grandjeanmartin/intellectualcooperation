@@ -2,6 +2,10 @@
 
 ---
 
+<a href="files/icic2022.pdf" class="image fit"><img src="images/pdf.png" alt="">This call for papers is available as a PDF</a>
+
+---
+
 ## The Centenary of Intellectual Cooperation
 
 On August 1, 1922, on the shores of Lake Geneva, the International Committee on Intellectual Cooperation (ICIC) met for the first time in what would later become the "Palais Wilson". Although this was the first time that these twelve international personalities from the sciences and arts, including Henri Bergson, Kristine Bonnevie, Marie Curie-Sklodowska, Albert Einstein, Gilbert Murray, Jules Destrée and George E. Hale, came together, the idea of creating such a coordinating body for intellectual matters predates the founding of the League of Nations and has its origins in the internationalist movements of the late 19th century. What would later be considered by its actors as an attempt to build a "General Republic of Intelligence"  or a "League of the Minds",  was just one element of the vast diplomatic and bureaucratic machine that was set up at the end of the Great War to try to pacify Europe and create a new world order based on multilateral cooperation.
