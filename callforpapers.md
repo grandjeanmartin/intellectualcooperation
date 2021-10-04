@@ -2,7 +2,7 @@
 
 ---
 
-<p style='text-align: right;'><a href="https://github.com/grandjeanmartin/intellectualcooperation/raw/gh-pages/files/ICIC2022.pdf" class="image fit"><img src="images/pdf.png" width="30" align="left">This call for papers can be downloaded as a PDF</a></p>
+<p style='text-align: left;'><a href="https://github.com/grandjeanmartin/intellectualcooperation/raw/gh-pages/files/ICIC2022.pdf" class="image fit"><img src="images/pdf.png" width="30" align="left">This call for papers can be downloaded as a PDF</a></p>
 
 ---
 
