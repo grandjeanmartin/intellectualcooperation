@@ -4,7 +4,7 @@
 
 ## A shared bibliography
 
-The shared bibliography on Intellectual Cooperation currently contains more than **200 items**. [You can access it here](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). Due to the important publishing activity around the League of Nations or the history of international relations, this bibliography contains only those publications which deal directly with the International Committee on Intellectual Cooperation or the International Institute of Intellectual Cooperation.
+The shared bibliography on Intellectual Cooperation currently contains already **250 items** (more than 100 publications since 2010). [You can access it here](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). Due to the important publishing activity around the League of Nations or the history of international relations, this bibliography contains only those publications which deal directly with the International Committee on Intellectual Cooperation or the International Institute of Intellectual Cooperation.
 
 [<img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/ZoteroGroupIntellectualCooperation.png">](https://www.zotero.org/groups/2817289/intellectual_cooperation/library)
 
