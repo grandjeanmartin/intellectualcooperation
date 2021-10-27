@@ -22,6 +22,8 @@ Items published since 2010. For older publications, links, DOI and other classif
 * **Carbó-Catalan, Elisabet**, and **Diana Roig-Sanz**. Culture as Soft Power. Bridging Cultural Relations, Intellectual Cooperation and Cultural Diplomacy. Berlin: De Gruyter, 2022.
 
 ### 2021
+* **Li, Kaiyi**. ‘[The Use of Foreign Examples to Support Educational Policy Decisions: The Chinese Education Mission to Europe in 1932](https://doi.org/10.1080/00309230.2021.1888134)’. Paedagogica Historica 57, no. 1–2: 164–82.
+* **Li, Kaiyi**. [Transnational Education between The League of Nations and China](https://www.palgrave.com/gp/book/9783030824419). Palgrave Macmillan, 2021.
 * **Roig-Sanz, Diana**. ‘The International Institute of Intellectual Cooperation: Translation Policies in the Interwar Period (1925–1946)’. In The Routledge Handbook of Translation History, edited by Christopher Rundle, 452–68. Routledge, 2021.
 * **Roig-Sanz, Diana**, and **Elisabet Carbó-Catalan**. ‘Las Instituciones Culturales y La Cooperación Intelectual. La Creación de Redes Transnacionales En La Primera Modernidad Española’. In Las Dos Modernidades, edited by Domingo Ródenas and Jordi Gracia. Madrid: Visor, 2021.
 
