@@ -185,4 +185,4 @@ If you are a Zotero user and wish to contribute to this shared bibliography on a
 
 * An advanced search with ["intellectual cooperation" on Google Scholar](https://scholar.google.com/scholar?as_vis=0&q=%22intellectual+cooperation%22+OR+%22coop%C3%A9ration+intellectuelle%22).
 * A selection of [publications and bibliographies](https://libraryresources.unog.ch/lonintellectualcooperation/findingaids) in the UNOG Library research guide.
-* The [LONSEA Zotero group](https://www.zotero.org/groups/875957/lonsea_bibliography) (>2000 references about the League of Nations)
+* The [LONSEA Zotero group](https://www.zotero.org/groups/875957/lonsea_bibliography) (>2000 references about the League of Nations, last update in 2016)
