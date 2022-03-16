@@ -14,8 +14,7 @@ This page briefly introduces the people working around intellectual cooperation.
 
 [Dr Thomas Davies](https://www.city.ac.uk/about/people/academics/thomas-davies) is a Senior Lecturer in the Department of International Politics at City, University of London. He is the author of [_The Possibilities of Transnational Activism: The Campaign for Disarmament between the Two World Wars_](https://books.google.co.uk/books/about/The_Possibilities_of_Transnational_Activ.html?id=726PAAAAMAAJ) (Leiden: Martinus Nijhoff, 2007), [_NGOs: A New History of Transnational Civil Society_](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199387533.001.0001/acprof-9780199387533) (New York: Oxford University Press, 2014), and [_History of Transnational Voluntary Associations: A Critical Multidisciplinary Review_](https://brill.com/view/title/33578) (Leiden: Brill, 2016). His articles related to intellectual cooperation include '[Educational internationalism, universal human rights, and international organisation: International Relations in the thought and practice of Robert Owen](https://dx.doi.org/10.1017/S0260210513000429)' (Review of International Studies, 2014), '[Understanding non-governmental organizations in world politics: the promise and pitfalls of the early "science of internationalism"](https://doi.org/10.1177/1354066116679243)' (European Journal of International Relations, 2017), and '[L'International: The World's First International Journal and the Possibilities and Limits of International Studies](https://doi.org/10.1093/isp%2Fekaa014)' (International Studies Perspectives, 2021). He organises the [Project on the Evolution of International Non-Governmental Organizations](http://www.staff.city.ac.uk/tom.davies/), and he edited the [_Routledge Handbook of NGOs and International Relations_](https://www.routledge.com/Routledge-Handbook-of-NGOs-and-International-Relations/Davies/p/book/9780367783860), which was awarded the 2021 ARNOVA Award for Outstanding Book in Nonprofit and Voluntary Action Research. Dr Davies is a Fellow of the Royal Historical Society, and his doctoral research, undertaken at the University of Oxford, was awarded the British International History Group Thesis Prize.
 
-<div style="text-align: right"> [↑ back to the top](#people) </div>
-<p style='text-align: right;'> [↑ back to the top](#people) </p>
+[↑ back to the top](#people)
 
 ---
 
@@ -31,6 +30,8 @@ She is member of the “Research Network on the History of the Idea of Europe”
 
 [Academia.edu](https://inha-fr.academia.edu/AnnamariaDucci)
 
+[↑ back to the top](#people)
+
 ---
 
 ### Charlotte Faucher 
@@ -42,6 +43,8 @@ Her first monograph _Propaganda, Gender, and Cultural Power: Projections and Per
 Twitter: [@cha_faucher](http://www.twitter.com/cha_faucher)
 
 [Publications and details](https://www.research.manchester.ac.uk/portal/charlotte.faucher.htmlhttps://scholar.google.com/citations?user=uDaabCEAAAAJ&hl=en) 
+
+[↑ back to the top](#people)
 
 ---
 
@@ -57,6 +60,8 @@ Twitter: [@CamilaGaticaM](http://www.twitter.com/CamilaGaticaM)
 
 Publications and details: [Academia.edu](https://uchile.academia.edu/CamilaGaticaMizala)
 
+[↑ back to the top](#people)
+
 ---
 
 ### Martin Grandjean
@@ -69,17 +74,23 @@ Website: [martingrandjean.ch](http://www.martingrandjean.ch)
 
 Twitter: [@GrandjeanMartin](http://www.twitter.com/GrandjeanMartin) 
 
+[↑ back to the top](#people)
+
 ---
 
 ### Joyce Goodman
 
 Joyce Goodman is [Professor of History of Education at The University of Winchester](https://www.winchester.ac.uk/about-us/leadership-and-governance/staff-directory/staff-profiles/goodman.php), chercheure associée at the [CERLIS](https://www.cerlis.eu/team-view/goodman-joyce/) research centre in Paris. She is an honorary member of the International Standing Conference for the History of Education ([ISCHE](https://www.ische.org/salon-40th-anniversary/)), of the European Educational Research Association ([EERA](https://eera-ecer.de/networks/honorary-network-members/)), and of the British Federation of University Women ([BFWG](https://bfwg.org.uk/bfwg2/)). Her research explores the intersection of women’s work in and for education with internationalism and empire. She has published on women’s engagement with intellectual cooperation, including on international women’s organisations and intellectual cooperation; women and educational cinematography at the League of Nations; and the relationship between the Bahá'í faith, intellectual co-operation, education and peace. For details of her publications on intellectual co-operation see her [personal wepage](https://www.joycegoodman.org.uk/). Her books include [Girls’ Secondary Education in the Western World](https://www.palgrave.com/gb/book/9780230619463) (Palgrave, 2014 pbk, Greek translation published by [Gutenberg 2019](https://www.politeianet.gr/books/9789600120196-albisetti-c-james-gutenberg-i-deuterobathmia-ekpaideusi-ton-koritsion-ston-dutiko-kosmo-298515)), with James Albisetti and Rebecca Rogers; and [Women and Education: Major Themes in Education](http://www.routledge.com/books/details/9780415549394/) (Routledge, 2011, four volumes), with Jane Martin. She is a past president of the History of Education Society UK and former secretary of ISCHE. She has also served as editor of the journal History of Education. She tweets as [@joycehisted](http://www.twitter.com/joycehisted).
 
+[↑ back to the top](#people)
+
 ---
 
 ### Tomás Irish
 
 Tomás Irish is Senior Lecturer in Modern History at Swansea University, UK. He is the author of a number of works on the history of universities and intellectuals in the era of the First World War and is currently working on a monograph called _Feeding the Mind: Humanitarianism and the reconstruction of European intellectual life, 1919-1933_ for Cambridge University Press. 
+
+[↑ back to the top](#people)
 
 ---
 
@@ -93,6 +104,8 @@ He integrates the following research groups: “Cultural history of politics. Ar
 
 Published works: “The intellectual property law of 1933. Projects and parliamentary debates on copyright in Argentina”; “The 'criollo gaucho' and the debates on the literary canon. The prizes of the National Commission of Culture in the thirties in Argentina (1935-1943)”.
 
+[↑ back to the top](#people)
+
 ---
 
 ### Kaiyi Li
@@ -103,11 +116,15 @@ Dr Kaiyi Li is a postdoctoral researcher at Media/Transformation, Leibniz-Instit
 
 [Email address](li@gei.de)
 
+[↑ back to the top](#people)
+
 ---
 
 ### Chloé Maurel
 
 Chloé Maurel est normalienne, agrégée et docteure en histoire, chercheuse partenaire SIRICE (Sorbonne). Elle a réalisé une thèse de doctorat [_L’Unesco de 1945 à 1974_](https://tel.archives-ouvertes.fr/tel-00848712/document) sous la direction de Pascal Ory et soutenue à l’université Paris 1 en 2006. Ce travail analyse l’évolution des conceptions de l’Unesco, les tensions politiques liées à la Guerre froide, à la décolonisation, et aux rapports Nord/Sud, l’image de l’Unesco dans l’opinion publique, les programmes visant à la paix, à l’éducation, la culture et l’aide au développement. Elle est spécialiste de l’histoire de l’Unesco, de l’ONU, de l’histoire globale, et a publié notamment _Les Grands Discours à l’UNESCO de 1945 à nos jours_, Paris, éditions du Croquant, 2021 ; _Une brève histoire de l’ONU au fil de ses dirigeants_, Paris, éditions du Croquant, 2017 ; _Histoire des idées des Nations unies. L’ONU en 20 notions_, Paris, L’Harmattan, 2015 ; _Manuel d’histoire globale_, Paris, Armand Colin, 2014 ; _Histoire de l’Unesco. 1945-1974_, Paris, L’Harmattan, 2010 ; _Histoire des relations internationales depuis 1945_, Paris, Ellipses, 2010. Elle a aussi publié des biographies de plusieurs Directeurs généraux de l’Unesco (Huxley, Evans, Maheu) ainsi que de Kofi Annan, dans le _Biographical Dictionary of Secretaries General of International Organizations_ publié en ligne par Bob Reinalda. 
+
+[↑ back to the top](#people)
 
 ---
 
@@ -117,6 +134,8 @@ Marilena Papadaki, (BA, Aristotle University of Thessaloniki; MA & PhD, EHESS Pa
 
 Related articles: [The ‘Government Intellectuals’: Nicolas Politis – An Intellectual Portrait](https://doi.org/10.1093/ejil/chr108); [L’action des juristes internationalistes au service de la paix internationale à la fin du xixe siècle : le cas de Nicolas Politis (1872-1942)](https://journals.openedition.org/cdlm/8051)
 
+[↑ back to the top](#people)
+
 ---
 
 ### Shriya Patnaik
@@ -125,6 +144,8 @@ Shriya Patnaik is a PhD candidate (Department of International History and Polit
 
 More information about my researcher Bio can be found [here](https://www.graduateinstitute.ch/discover-institute/shriya-patnaik).
 
+[↑ back to the top](#people)
+
 ---
 
 ### Roswitha Reinbothe
@@ -132,6 +153,8 @@ More information about my researcher Bio can be found [here](https://www.graduat
 PD Dr. [Roswitha Reinbothe](www.uni-due.de/germanistik/reinbothe), University of Duisburg-Essen. Research in the history of German as a language of science, multilingualism in international scientific associations, congresses and publications, German schools in China, lecturer at universities in Shanghai, Samsun (Turkey), Berlin, Frankfurt/M., Duisburg-Essen.
 
 Publications: Deutsch als internationale Wissenschaftssprache und der Boykott nach dem Ersten Weltkrieg, 2., Äberarbeitete und erweiterte Auflage, Berlin/Boston 2019; Der Boykott gegen die deutschen Wissenschaftler und die deutsche Sprache nach dem Ersten Weltkrieg. Deutsche Medizinische Wochenschrift 138/51-52, 2013; Die deutsche Sprache in der Baltischen GeodÅtischen Kommission (1924-1939). In Michael Prinz, Jarmo Korhonen (Hrsg.), Deutsch als Wissenschaftssprache im Ostseeraum – Geschichte und Gegenwart, Frankfurt/M. 2011; L’exclusion des scientifiques allemands et de la langue allemande des congrÑs scientifiques internationaux après la Première Guerre mondiale. Revue Germanique Internationale 12/2010; Languages and Politics of International Scientific Communication in Central Eastern Europe after World War I. In Martin Kohlrausch, Katrin Steffen, Stefan Wiederkehr (eds.), Expert Cultures in Central Eastern Europe. The Internationalization of Knowledge and the Transformation of Nation States since World War I, Osnabrück 2010; Tongji-Universität in Shanghai. Dokumente zur Gründungsgeschichte, Wiesbaden 2009; Mehrsprachigkeit in der internationalen Wissenschaftskommunikation vor dem Ersten Weltkrieg, Deutsch als Fremdsprache 45/1 2008; Die Anfänge der auswärtigen Kulturpolitik in der Zeit des Kaiserreichs. In Armin Wolff, Harald Tanzer (Hrsg.), Sprache – Kultur –Politik, Regensburg 2000; Kulturexport und Wirtschaftsmacht, Deutsche Schulen in China vor dem Ersten Weltkrieg, Frankfurt/M. 1992.
+
+[↑ back to the top](#people)
 
 ---
 
@@ -145,6 +168,8 @@ References: Hofstetter, R, et Riondet, X. (2018). International Institutions, Pa
 
 Projects: Postdoctoral research (2013-2014) in connection with the FNS Project « Figures of knowledge production and the construction of new disciplinary scenes of knowledge » (Subside Sinergia CRSII1-147688, ERHISE, University of Geneva. Research « La fabrique du commun dans les manuels scolaires de la IIIe République (2019-2021) » conducted at the Bibliothèque Nationale de France (BNF) in the "Philosophy, History, Human Sciences" (PHS) department directed by Fabien Plazannet, in the "social sciences" service of Laurence Jung.
 
+[↑ back to the top](#people)
+
 ---
 
 ### Ilaria Scaglia
@@ -154,6 +179,8 @@ Ilaria Scaglia is Senior Lecturer of Modern History at Aston University in Birmi
 She has recently published a monograph: _The Emotions of Internationalism: Feeling International Cooperation in the Alps in the Interwar Period_ (Oxford University Press, 2020). She is currently working on a new project, _Taking Pictures at the Archives: Transnational Emotions and Experiences in the Age of Mechanical Reproduction, 1860s–1960s_, which explores the interplay of emotions, archives, technology, and internationalism. Her other publications have dealt with the interplay of art and performative politics in collaborative exhibitions, nation branding and international cooperation, and the moral economy of internationalism. 
 
 To learn more about her activities and publications see her personal website www.ilariascaglia.com and follow her on Twitter [@IlariaScaglia1](http://www.twitter.com/IlariaScaglia1).
+
+[↑ back to the top](#people)
 
 ---
 
@@ -167,6 +194,8 @@ In History, she worked with the theories of Cultural Otherness, transformation p
 
 Her PhD-project explores how the conflict around the political abuse of psychiatry in the 1970- 1980-s evolved, intertwined with tensions of the Cold War, shaped governmental strategies and professional agendas. A.Schacht analyses the strategies of self-construction and legitimation within international psychiatric network in the late Cold War era. Ultimately, this project sheds light upon the issue of scholarly autonomy and responsibility, as well as state involvement with science in authoritarian regimes. 
 
+[↑ back to the top](#people)
+
 ---
 
 ### Monika Šipelytė
@@ -174,11 +203,15 @@ Her PhD-project explores how the conflict around the political abuse of psychiat
 Dr. Monika Šipelytė is a researcher at Vilnius University, Faculty of History. She has defended her PhD thesis “On the statehood of Lithuania: Diplomacy and Politics of Lithuanians in Switzerland in 1915–1919” in 2019 at the Lithuanian Institute of History. Now she is participating in Post-Doctoral Fellowship at Vilnius University entitled “Juozas Gabrys and his colleagues at the League of Nations in 1927–1939: actions and collective biography”. In connection with this project, she has made two research visits to the Archives and Library of the United Nations in 2020 and 2021. In 2021 she has also participated in TV documentary series “[National Expedition. Lithuania in Europe](https://www.lrt.lt/mediateka/video/nacionaline-ekspedicija-lietuva-europoje)” on Lithuanian National Broadcaster.
 Publications: [Lithuanian Conferences in Switzerland: The Question of the Statehood in 1915–1916](https://www.istorija.lt/data/public/uploads/2021/01/lim-2018-1-5-m.-sipelyte.-konferencijos-sveicarijoje-19151916-m.-p.-145-176.pdf), in: _Lietuvos istorijos metraštis_, 2018 (1), p. 145–176; [1916 Lithuanian Conferences in Lausanne and the Levels of Lithuania’s Independence](https://www.istorija.lt/data/public/uploads/2021/01/lim-2018-2-4-m.-sipelyte.-lietuviu-konferencijos-lozanoje-p.-73-100.pdf), in: _Lietuvos istorijos metraštis_, 2018 (2), p. 73–100; Kingdom of One Hundred Years, in: _Imagining Lithuania: 100 years, 100 visions, 1918–2018_, (edited by N. Černiauskas, M. Drėmaitė, T. Vaiseta), Vilnius: Lithuanian Culture Institute, 2018; Spiritual children of Fribourg: Lithuanians at the University of Fribourg and their importance for Lithuania, [edited by K. Jagėlienė], Fribourg, 2019; [Juozas Gabrys and Lithuania at the League of Nations: Press and Business](https://www.zurnalai.vu.lt/lietuvos-istorijos-studijos/article/view/25273/24618), in: _Lietuvos istorijos studijos_, 2021, vol. 48, pp. 33–51; Juozas Gabrys and Lithuania at the League of Nations: Political Activity, in: _Lietuvos istorijos studijos_, 2022, vol. 49, (in press).
 
+[↑ back to the top](#people)
+
 ---
 
 ### Jan Stöckmann
 
 Jan Stöckmann is a lecturer in Modern History at Helmut-Schmidt-Universität, Hamburg. His book, _The Architects of International Relations: Building a Discipline, Designing the World, 1914–1940_ (Cambridge, 2022), provides a new and stimulating history of IR as an academic discipline, paying particular attention to the League of Nations and its bodies for intellectual cooperation. His articles have appeared in _The International History Review_, the _Review of International Studies_, and _Past & Present_. Having completed his dissertation at the University of Oxford in 2017, he has held research fellowships at Yale University and at the Université libre de Bruxelles before moving to Hamburg in 2019. 
+
+[↑ back to the top](#people)
 
 ---
 
@@ -192,6 +225,8 @@ Publications: “Alfonso Reyes, Genaro Estrada y Jean Périer: el fortalecimient
 
 [Academia.edu](fu-berlin.academia.edu/ItzelToledoGarcía)
 
+[↑ back to the top](#people)
+
 ---
 
 ### Pelle van Dijk
@@ -199,6 +234,8 @@ Publications: “Alfonso Reyes, Genaro Estrada y Jean Périer: el fortalecimient
 Pelle van Dijk is a PhD researcher at the European University Institute in Florence (2017-2022). He is currently finishing his thesis focusing on the cooperation between the League’s Information Section and the League of Nations societies, the civil society organisations promoting the League in the member states. Looking at the activities of these various actors, he studies how the League had an active role in promoting moral disarmament. Using his case studies on India, Italy, the Netherlands and the United States, he shows how League officials and supporters tried to anchor both the League’s ideals as the institution itself firmly in the international world order.  Previously, he completed his BA and MA (2016) at the University of Amsterdam, where he studied interwar Dutch public diplomacy. 
 
 Twitter: [@pellevandijk](https://twitter.com/pellevandijk)  
+
+[↑ back to the top](#people)
 
 ---
 
