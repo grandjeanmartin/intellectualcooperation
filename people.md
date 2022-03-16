@@ -34,7 +34,7 @@ Charlotte Faucher is a Marie Skłodowska-Curie fellow (University Paris 3 Sorbon
 
 Her first monograph _Propaganda, Gender, and Cultural Power: Projections and Perceptions of France in Britain c. 1880–194_ is just out with Oxford University Press. She has published several articles on women in diplomacy including an article on gender and French soft power during the Liberation of France in _Historical Journal_ (2021), and ‘Women, Gender and the Professionalisation of French Cultural Diplomacy in Britain, 1900–1940’ in _English Historical Review_ (2022). Her piece on the French institute in London and anti-Gaullism appeared in _Journal of Contemporary History_ (2019). Her next book-length project is a transnational history of European cultural diplomacy (1870-1940) and [more details can be found here](http://www.univ-paris3.fr/projet-europeen-invculturaldiplo-676771.kjsp) (in French).
 
-Twitter: [@cha_faucher](www.twitter.com/cha_faucher)
+Twitter: [@cha_faucher](http://www.twitter.com/cha_faucher)
 
 [Publications and details](https://www.research.manchester.ac.uk/portal/charlotte.faucher.htmlhttps://scholar.google.com/citations?user=uDaabCEAAAAJ&hl=en) 
 
@@ -48,7 +48,7 @@ Her current research project (FONDECYT No. 3190267) looks at the relation betwee
 
 [Email](camila.gatica@uchile.cl) 
 
-Twitter: [@CamilaGaticaM](www.twitter.com/CamilaGaticaM)
+Twitter: [@CamilaGaticaM](http://www.twitter.com/CamilaGaticaM)
 
 Publications and details: [Academia.edu](https://uchile.academia.edu/CamilaGaticaMizala)
 
@@ -62,13 +62,13 @@ In his doctoral dissertation [_Les réseaux de la coopération intellectuelle_](
 
 Website: [martingrandjean.ch](http://www.martingrandjean.ch)
 
-Twitter: [@GrandjeanMartin](www.twitter.com/GrandjeanMartin) 
+Twitter: [@GrandjeanMartin](http://www.twitter.com/GrandjeanMartin) 
 
 ---
 
 ### Joyce Goodman
 
-Joyce Goodman is [Professor of History of Education at The University of Winchester](https://www.winchester.ac.uk/about-us/leadership-and-governance/staff-directory/staff-profiles/goodman.php), chercheure associée at the [CERLIS](https://www.cerlis.eu/team-view/goodman-joyce/) research centre in Paris. She is an honorary member of the International Standing Conference for the History of Education ([ISCHE](https://www.ische.org/salon-40th-anniversary/)), of the European Educational Research Association ([EERA](https://eera-ecer.de/networks/honorary-network-members/)), and of the British Federation of University Women ([BFWG](https://bfwg.org.uk/bfwg2/)). Her research explores the intersection of women’s work in and for education with internationalism and empire. She has published on women’s engagement with intellectual cooperation, including on international women’s organisations and intellectual cooperation; women and educational cinematography at the League of Nations; and the relationship between the Bahá'í faith, intellectual co-operation, education and peace. For details of her publications on intellectual co-operation see her [personal wepage](https://www.joycegoodman.org.uk/). Her books include [Girls’ Secondary Education in the Western World](https://www.palgrave.com/gb/book/9780230619463) (Palgrave, 2014 pbk, Greek translation published by [Gutenberg 2019](https://www.politeianet.gr/books/9789600120196-albisetti-c-james-gutenberg-i-deuterobathmia-ekpaideusi-ton-koritsion-ston-dutiko-kosmo-298515)), with James Albisetti and Rebecca Rogers; and [Women and Education: Major Themes in Education](http://www.routledge.com/books/details/9780415549394/) (Routledge, 2011, four volumes), with Jane Martin. She is a past president of the History of Education Society UK and former secretary of ISCHE. She has also served as editor of the journal History of Education. She tweets as [@joycehisted](www.twitter.com/joycehisted).
+Joyce Goodman is [Professor of History of Education at The University of Winchester](https://www.winchester.ac.uk/about-us/leadership-and-governance/staff-directory/staff-profiles/goodman.php), chercheure associée at the [CERLIS](https://www.cerlis.eu/team-view/goodman-joyce/) research centre in Paris. She is an honorary member of the International Standing Conference for the History of Education ([ISCHE](https://www.ische.org/salon-40th-anniversary/)), of the European Educational Research Association ([EERA](https://eera-ecer.de/networks/honorary-network-members/)), and of the British Federation of University Women ([BFWG](https://bfwg.org.uk/bfwg2/)). Her research explores the intersection of women’s work in and for education with internationalism and empire. She has published on women’s engagement with intellectual cooperation, including on international women’s organisations and intellectual cooperation; women and educational cinematography at the League of Nations; and the relationship between the Bahá'í faith, intellectual co-operation, education and peace. For details of her publications on intellectual co-operation see her [personal wepage](https://www.joycegoodman.org.uk/). Her books include [Girls’ Secondary Education in the Western World](https://www.palgrave.com/gb/book/9780230619463) (Palgrave, 2014 pbk, Greek translation published by [Gutenberg 2019](https://www.politeianet.gr/books/9789600120196-albisetti-c-james-gutenberg-i-deuterobathmia-ekpaideusi-ton-koritsion-ston-dutiko-kosmo-298515)), with James Albisetti and Rebecca Rogers; and [Women and Education: Major Themes in Education](http://www.routledge.com/books/details/9780415549394/) (Routledge, 2011, four volumes), with Jane Martin. She is a past president of the History of Education Society UK and former secretary of ISCHE. She has also served as editor of the journal History of Education. She tweets as [@joycehisted](http://www.twitter.com/joycehisted).
 
 ---
 
@@ -148,7 +148,7 @@ Ilaria Scaglia is Senior Lecturer of Modern History at Aston University in Birmi
 
 She has recently published a monograph: _The Emotions of Internationalism: Feeling International Cooperation in the Alps in the Interwar Period_ (Oxford University Press, 2020). She is currently working on a new project, _Taking Pictures at the Archives: Transnational Emotions and Experiences in the Age of Mechanical Reproduction, 1860s–1960s_, which explores the interplay of emotions, archives, technology, and internationalism. Her other publications have dealt with the interplay of art and performative politics in collaborative exhibitions, nation branding and international cooperation, and the moral economy of internationalism. 
 
-To learn more about her activities and publications see her personal website www.ilariascaglia.com and follow her on Twitter [@IlariaScaglia1](www.twitter.com/IlariaScaglia1).
+To learn more about her activities and publications see her personal website www.ilariascaglia.com and follow her on Twitter [@IlariaScaglia1](http://www.twitter.com/IlariaScaglia1).
 
 ---
 
