@@ -27,6 +27,12 @@ Twitter: [@cha_faucher](www.twitter.com/cha_faucher)
 
 ---
 
+## Tomás Irish
+
+Tomás Irish is Senior Lecturer in Modern History at Swansea University, UK. He is the author of a number of works on the history of universities and intellectuals in the era of the First World War and is currently working on a monograph called _Feeding the Mind: Humanitarianism and the reconstruction of European intellectual life, 1919-1933_ for Cambridge University Press. 
+
+---
+
 ## Shriya Patnaik
 
 Shriya Patnaik is a PhD candidate (Department of International History and Politics) at the Graduate Institute of International and Development Studies where her research has been funded by the _Swiss Government Excellence Scholarship_ and the _Swiss National Science Foundation Doc.Ch Grant_. Her research focuses on the historical genealogy surrounding discourses related to prostitution, trafficking, and sex-worker rights in colonial and postcolonial India. In particular, she focuses on the now-extinct matriarchal community of temple-dancers called _Mahari-Devadasis_ in Orissa (a matrilineal community categorized as ‘religious prostitutes’ in colonial India), along with their legal and healthcare rights under international humanitarian conventions. Her research is methodologically reliant on oral histories, colonial-period archival records, along with UN/ILO humanitarian conventions on the rights of marginalized communities in the Global South. Shriya has pursued her Bachelor's in History from Cornell University, and has subsequently pursued her Masters' in International History with a focus on Gender Studies from the Columbia University-London School of Economics dual degree MA-MSc program. Besides her academic interests, Shriya has actively worked in the public policy and NGO/development sectors in India on gender and human rights initiatives, and these experiences have played a crucial role in shaping her research focus on women’s rights and minority rights initiatives in postcolonial societies at a transnational scale. In terms of her linguistic abilities, she is fully-proficient in English, Hindi and Oriya, has medium-proficiency in Sanskrit, and beginner-level proficiency in French. Shriya is also a PhD affiliate with the Graduate Institute Gender Centre and the Global Migration Centre. 
