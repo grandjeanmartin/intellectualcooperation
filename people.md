@@ -6,6 +6,10 @@
 
 This page briefly introduces the people working around intellectual cooperation. While not a complete directory, its purpose is to serve as a resource for those wishing to embrace this field. See also the complete [bibliography](https://intellectualcooperation.org/publications) and the list of past and current [projects](https://intellectualcooperation.org/projects). [Contact us](https://intellectualcooperation.org/about) if you want to appear here.
 
+<a id="Joyce Goodman">This is a link to Joyce Goodman</a>
+
+[click on this link](#martin-grandjean)
+
 ---
 
 ### Thomas Davies
@@ -65,6 +69,7 @@ Website: [martingrandjean.ch](http://www.martingrandjean.ch)
 Twitter: [@GrandjeanMartin](http://www.twitter.com/GrandjeanMartin) 
 
 ---
+<a id="Joyce Goodman">
 
 ### Joyce Goodman
 
