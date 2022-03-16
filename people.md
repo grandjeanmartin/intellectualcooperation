@@ -39,6 +39,16 @@ Twitter: [@cha_faucher](www.twitter.com/cha_faucher)
 
 ---
 
+### Martin Grandjean
+
+---
+
+### Joyce Goodman
+
+Joyce Goodman is [Professor of History of Education at The University of Winchester](https://www.winchester.ac.uk/about-us/leadership-and-governance/staff-directory/staff-profiles/goodman.php), chercheure associée at the [CERLIS](https://www.cerlis.eu/team-view/goodman-joyce/) research centre in Paris. She is an honorary member of the International Standing Conference for the History of Education ([ISCHE](https://www.ische.org/salon-40th-anniversary/)), of the European Educational Research Association ([EERA](https://eera-ecer.de/networks/honorary-network-members/)), and of the British Federation of University Women ([BFWG](https://bfwg.org.uk/bfwg2/)). Her research explores the intersection of women’s work in and for education with internationalism and empire. She has published on women’s engagement with intellectual cooperation, including on international women’s organisations and intellectual cooperation; women and educational cinematography at the League of Nations; and the relationship between the Bahá'í faith, intellectual co-operation, education and peace. For details of her publications on intellectual co-operation see her [personal wepage](https://www.joycegoodman.org.uk/). Her books include [Girls’ Secondary Education in the Western World](https://www.palgrave.com/gb/book/9780230619463) (Palgrave, 2014 pbk, Greek translation published by [Gutenberg 2019](https://www.politeianet.gr/books/9789600120196-albisetti-c-james-gutenberg-i-deuterobathmia-ekpaideusi-ton-koritsion-ston-dutiko-kosmo-298515)), with James Albisetti and Rebecca Rogers; and [Women and Education: Major Themes in Education](http://www.routledge.com/books/details/9780415549394/) (Routledge, 2011, four volumes), with Jane Martin. She is a past president of the History of Education Society UK and former secretary of ISCHE. She has also served as editor of the journal History of Education. She tweets as [@joycehisted](www.twitter.com/joycehisted).
+
+---
+
 ### Tomás Irish
 
 Tomás Irish is Senior Lecturer in Modern History at Swansea University, UK. He is the author of a number of works on the history of universities and intellectuals in the era of the First World War and is currently working on a monograph called _Feeding the Mind: Humanitarianism and the reconstruction of European intellectual life, 1919-1933_ for Cambridge University Press. 
@@ -47,7 +57,7 @@ Tomás Irish is Senior Lecturer in Modern History at Swansea University, UK. He 
 
 ### Kaiyi Li
 
-Dr Kaiyi Li is a postdoctoral researcher at Meida|Transformation, Leibniz-Institute for Educational Media|Georg-Eckert Institute. She is the project leader of the digital transformation of school education in China: Policies, governance-structures and local stakeholders. She wrote her PhD thesis titled Transnational Educational Cooperation Between the League of Nations and China during the Interwar Period. In her PhD thesis, she analyzed how the International Committee on Intellectual Cooperation coordinated the cooperation with four representative events: teaching about the League of Nations, the cooperation in educational films, the League of Nations’ education mission to China in 1931 and Chinese education mission to Europe in 1932. Her thesis has been published by Palgrave Macmillan with the title Transnational Education Between the League of Nations and China. She also published a paper about the Chinese education mission to Europe in Paedagogica Historica. She is currently interested in the activities of Chinese representatives in the International Committee on Intellectual and the program of teaching about the League of Nations during the interwar period.
+Dr Kaiyi Li is a postdoctoral researcher at Media/Transformation, Leibniz-Institute for Educational Media/Georg-Eckert Institute. She is the project leader of the digital transformation of school education in China: Policies, governance-structures and local stakeholders. She wrote her PhD thesis titled Transnational Educational Cooperation Between the League of Nations and China during the Interwar Period. In her PhD thesis, she analyzed how the International Committee on Intellectual Cooperation coordinated the cooperation with four representative events: teaching about the League of Nations, the cooperation in educational films, the League of Nations’ education mission to China in 1931 and Chinese education mission to Europe in 1932. Her thesis has been published by Palgrave Macmillan with the title Transnational Education Between the League of Nations and China. She also published a paper about the Chinese education mission to Europe in Paedagogica Historica. She is currently interested in the activities of Chinese representatives in the International Committee on Intellectual and the program of teaching about the League of Nations during the interwar period.
 
 [Personal homepage](http://www.gei.de/mitarbeiter/dr-des-kaiyi-li.html)
 
@@ -71,7 +81,7 @@ More information about my researcher Bio can be found [here](https://www.graduat
 
 ### Anastassiya Schacht 
 
-[Anastassiya Schacht](https://ifg.univie.ac.at/ueber- uns/mitarbeiterinnen/wissenschaftliche- mitarbeiterinnen/anastassiya-schacht/ ![image](https://user-images.githubusercontent.com/11447413/158592920-96b358a3-711f-4926-94ca-84abbb1823c2.png) works on her PhD at the Department of History of the University of Vienna, where her project received a grant of the Vienna Doctoral School of Historical and Cultural Studies. 
+[Anastassiya Schacht](https://ifg.univie.ac.at/ueber-uns/mitarbeiterinnen/wissenschaftliche-mitarbeiterinnen/anastassiya-schacht/) works on her PhD at the Department of History of the University of Vienna, where her project received a grant of the Vienna Doctoral School of Historical and Cultural Studies. 
 
 In her first academic track she studied English, German, and Historical Literary Studies at the Orenburg University (Russia), and subsequently majored in English Linguistics and Global History at the University of Vienna. 
 
@@ -84,14 +94,7 @@ Her PhD-project explores how the conflict around the political abuse of psychiat
 ### Monika Šipelytė
 
 Dr. Monika Šipelytė is a researcher at Vilnius University, Faculty of History. She has defended her PhD thesis “On the statehood of Lithuania: Diplomacy and Politics of Lithuanians in Switzerland in 1915–1919” in 2019 at the Lithuanian Institute of History. Now she is participating in Post-Doctoral Fellowship at Vilnius University entitled “Juozas Gabrys and his colleagues at the League of Nations in 1927–1939: actions and collective biography”. In connection with this project, she has made two research visits to the Archives and Library of the United Nations in 2020 and 2021. In 2021 she has also participated in TV documentary series “[National Expedition. Lithuania in Europe](https://www.lrt.lt/mediateka/video/nacionaline-ekspedicija-lietuva-europoje)” on Lithuanian National Broadcaster.
-
-Publications:
-•	[Lithuanian Conferences in Switzerland: The Question of the Statehood in 1915–1916](https://www.istorija.lt/data/public/uploads/2021/01/lim-2018-1-5-m.-sipelyte.-konferencijos-sveicarijoje-19151916-m.-p.-145-176.pdf), in: _Lietuvos istorijos metraštis_, 2018 (1), p. 145–176.
-•	[1916 Lithuanian Conferences in Lausanne and the Levels of Lithuania’s Independence](https://www.istorija.lt/data/public/uploads/2021/01/lim-2018-2-4-m.-sipelyte.-lietuviu-konferencijos-lozanoje-p.-73-100.pdf), in: _Lietuvos istorijos metraštis_, 2018 (2), p. 73–100. 
-•	Kingdom of One Hundred Years, in: _Imagining Lithuania: 100 years, 100 visions, 1918–2018_, (edited by N. Černiauskas, M. Drėmaitė, T. Vaiseta), Vilnius: Lithuanian Culture Institute, 2018.
-•	Spiritual children of Fribourg: Lithuanians at the University of Fribourg and their importance for Lithuania, [edited by K. Jagėlienė], Fribourg, 2019.
-•	[Juozas Gabrys and Lithuania at the League of Nations: Press and Business](https://www.zurnalai.vu.lt/lietuvos-istorijos-studijos/article/view/25273/24618), in: _Lietuvos istorijos studijos_, 2021, vol. 48, pp. 33–51.
-•	Juozas Gabrys and Lithuania at the League of Nations: Political Activity, in: _Lietuvos istorijos studijos_, 2022, vol. 49, (in press).
+Publications: [Lithuanian Conferences in Switzerland: The Question of the Statehood in 1915–1916](https://www.istorija.lt/data/public/uploads/2021/01/lim-2018-1-5-m.-sipelyte.-konferencijos-sveicarijoje-19151916-m.-p.-145-176.pdf), in: _Lietuvos istorijos metraštis_, 2018 (1), p. 145–176; [1916 Lithuanian Conferences in Lausanne and the Levels of Lithuania’s Independence](https://www.istorija.lt/data/public/uploads/2021/01/lim-2018-2-4-m.-sipelyte.-lietuviu-konferencijos-lozanoje-p.-73-100.pdf), in: _Lietuvos istorijos metraštis_, 2018 (2), p. 73–100; Kingdom of One Hundred Years, in: _Imagining Lithuania: 100 years, 100 visions, 1918–2018_, (edited by N. Černiauskas, M. Drėmaitė, T. Vaiseta), Vilnius: Lithuanian Culture Institute, 2018; Spiritual children of Fribourg: Lithuanians at the University of Fribourg and their importance for Lithuania, [edited by K. Jagėlienė], Fribourg, 2019; [Juozas Gabrys and Lithuania at the League of Nations: Press and Business](https://www.zurnalai.vu.lt/lietuvos-istorijos-studijos/article/view/25273/24618), in: _Lietuvos istorijos studijos_, 2021, vol. 48, pp. 33–51; Juozas Gabrys and Lithuania at the League of Nations: Political Activity, in: _Lietuvos istorijos studijos_, 2022, vol. 49, (in press).
 
 ---
 
