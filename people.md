@@ -6,9 +6,7 @@
 
 This page briefly introduces the people working around intellectual cooperation. While not a complete directory, its purpose is to serve as a resource for those wishing to embrace this field. See also the complete [bibliography](https://intellectualcooperation.org/publications) and the list of past and current [projects](https://intellectualcooperation.org/projects). [Contact us](https://intellectualcooperation.org/about) if you want to appear here.
 
-<a href="#Goodman">Link to Goodman</a>
-
-[click on this link](#martin-grandjean)
+[Thomas Davies](#Thomas-Davies) | [Annamaria Ducci](#Annamaria-Ducci) // [Charlotte Faucher](#Charlotte-Faucher) // [Camila Gatica Mizala](#Camila-Gatica-Mizala) // [Martin Grandjean](#Martin-Grandjean) // [Joyce Goodman](#Joyce-Goodman) // [Tomás Irish](#Tomás-Irish) // [Leandro Lacquaniti](#Leandro-Lacquaniti) // [Kaiyi Li](#Kaiyi-Li) // [Chloé Maurel](#Chloé-Maurel) // [Marilena Papadaki](#Marilena-Papadaki) // [Shriya Patnaik](#Shriya-Patnaik) // [Roswitha Reinbothe](#Roswitha-Reinbothe) // [Xavier Riondet](#Xavier-Riondet) // [Ilaria Scaglia](#Ilaria-Scaglia) // [Anastassiya Schacht](#Anastassiya-Schacht) // [Monika Šipelytė](#Monika-Šipelytė) // [Jan Stöckmann](#Jan-Stöckmann) // [Itzel Toledo García](#Itzel-Toledo-García) // [Pelle van Dijk](#Pelle-van-Dijk)
 
 ---
 
@@ -69,7 +67,6 @@ Website: [martingrandjean.ch](http://www.martingrandjean.ch)
 Twitter: [@GrandjeanMartin](http://www.twitter.com/GrandjeanMartin) 
 
 ---
-<a id="Goodman">Joyce Goodman</a>
 
 ### Joyce Goodman
 
