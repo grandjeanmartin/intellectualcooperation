@@ -39,6 +39,20 @@ Twitter: [@cha_faucher](www.twitter.com/cha_faucher)
 
 ---
 
+### Camila Gatica Mizala
+
+Camila Gatica Mizala is an Assistant Professor at Universidad de Chile’s Department of Historical Sciences. She was previously a postdoctoral fellow at the Instituto de Historia, Pontificia Universidad Católica de Chile, where she also taught modules on Latin American Contemporary History, Latin American History and Cinema, and Nation and Nationalism in Latin America.
+
+Her current research project (FONDECYT No. 3190267) looks at the relation between the International Educational Cinematographic Institute (part of the League of Nations) and Chile, Argentina, and Mexico. She has published several articles on the Americanization of Chilean society. Her latest article ‘“Not suitable for exhibition”: Cinema censorship and international intervention in Argentina, 1939–1945’ was published in the _Journal of War & Culture Studies_. Her first monograph, _Modernity at the movies: Cinema-going in Buenos Aires and Santiago, 1915-1945_ is under contract with University of Pittsburgh Press.
+
+[Email](camila.gatica@uchile.cl) 
+
+Twitter: [@CamilaGaticaM](www.twitter.com/CamilaGaticaM)
+
+Publications and details: [Academia.edu](https://uchile.academia.edu/CamilaGaticaMizala)
+
+---
+
 ### Martin Grandjean
 
 ---
@@ -52,6 +66,18 @@ Joyce Goodman is [Professor of History of Education at The University of Winches
 ### Tomás Irish
 
 Tomás Irish is Senior Lecturer in Modern History at Swansea University, UK. He is the author of a number of works on the history of universities and intellectuals in the era of the First World War and is currently working on a monograph called _Feeding the Mind: Humanitarianism and the reconstruction of European intellectual life, 1919-1933_ for Cambridge University Press. 
+
+---
+
+### Leandro Lacquaniti
+
+[Leandro Lacquaniti](http://ravignani.institutos.filo.uba.ar/integrante/lacquaniti-leandro) holds a Master in History from the University Torcuato Di Tella. He is doctoral fellow at CONICET and his place of work is the Institute of Argentine and American History “Dr. Emilio Ravignani” of the Faculty of Philosophy and Letters of the University of Buenos Aires.
+
+His research topic is _The National Commission of Culture. State cultural agencies, artists and intellectuals in Argentina (1933-1955)_. As part of this project, he investigates the functioning of the _Argentine Commission for Intellectual Cooperation_ between 1937 and 1948. This was a diplomatic agency of the Argentine State that coordinated its actions with the National Commission of Culture to implement its cultural policies.
+
+He integrates the following research groups: “Cultural history of politics. Argentina, 20th and 21st centuries”; “The representations of the past in Argentina, between historiographical disputes and political battles (1930-1960)”, “Intersections between politics and ideas. Argentina (1890-1943)”, “Liberalism, nationalism and populism in Argentina: the political traditions under discussion (1880-1976)”.
+
+Published works: “The intellectual property law of 1933. Projects and parliamentary debates on copyright in Argentina”; “The 'criollo gaucho' and the debates on the literary canon. The prizes of the National Commission of Culture in the thirties in Argentina (1935-1943)”.
 
 ---
 
@@ -71,11 +97,49 @@ Chloé Maurel est normalienne, agrégée et docteure en histoire, chercheuse par
 
 ---
 
+### Marilena Papadaki
+
+Marilena Papadaki, (BA, Aristotle University of Thessaloniki; MA & PhD, EHESS Paris) is a historian, specialized in the history and philosophy of international law, the history of international relations and the history of international institutions. Her PhD dissertation explores the life of Nicolas Politis (1872-1942), French academic and theorist of international law, Greek diplomat and politician, international lawyer and arbitrator. Through the study of Politis’ activity within the framework of the League of Nations, Papadaki examines the history of international cooperation during the interwar period, mainly the basic role the international elites undertook in order to inform and introduce people of all countries to a new culture of peace and collaboration. Papadaki is currently a scientific associate of the Hellenic Open University and of the “Kalliopi Koufa Foundation for the Promotion of International and Human Rights’ Law”. She has published the conclusion of her research in articles, magazines, conference proceedings and collective volumes in Greece and abroad.
+
+Related articles: [The ‘Government Intellectuals’: Nicolas Politis – An Intellectual Portrait](https://doi.org/10.1093/ejil/chr108); [L’action des juristes internationalistes au service de la paix internationale à la fin du xixe siècle : le cas de Nicolas Politis (1872-1942)](https://journals.openedition.org/cdlm/8051)
+
+---
+
 ### Shriya Patnaik
 
 Shriya Patnaik is a PhD candidate (Department of International History and Politics) at the Graduate Institute of International and Development Studies where her research has been funded by the _Swiss Government Excellence Scholarship_ and the _Swiss National Science Foundation Doc.Ch Grant_. Her research focuses on the historical genealogy surrounding discourses related to prostitution, trafficking, and sex-worker rights in colonial and postcolonial India. In particular, she focuses on the now-extinct matriarchal community of temple-dancers called _Mahari-Devadasis_ in Orissa (a matrilineal community categorized as ‘religious prostitutes’ in colonial India), along with their legal and healthcare rights under international humanitarian conventions. Her research is methodologically reliant on oral histories, colonial-period archival records, along with UN/ILO humanitarian conventions on the rights of marginalized communities in the Global South. Shriya has pursued her Bachelor's in History from Cornell University, and has subsequently pursued her Masters' in International History with a focus on Gender Studies from the Columbia University-London School of Economics dual degree MA-MSc program. Besides her academic interests, Shriya has actively worked in the public policy and NGO/development sectors in India on gender and human rights initiatives, and these experiences have played a crucial role in shaping her research focus on women’s rights and minority rights initiatives in postcolonial societies at a transnational scale. In terms of her linguistic abilities, she is fully-proficient in English, Hindi and Oriya, has medium-proficiency in Sanskrit, and beginner-level proficiency in French. Shriya is also a PhD affiliate with the Graduate Institute Gender Centre and the Global Migration Centre. 
 
 More information about my researcher Bio can be found [here](https://www.graduateinstitute.ch/discover-institute/shriya-patnaik).
+
+---
+
+### Roswitha Reinbothe
+
+PD Dr. [Roswitha Reinbothe](www.uni-due.de/germanistik/reinbothe), University of Duisburg-Essen. Research in the history of German as a language of science, multilingualism in international scientific associations, congresses and publications, German schools in China, lecturer at universities in Shanghai, Samsun (Turkey), Berlin, Frankfurt/M., Duisburg-Essen.
+
+Publications: Deutsch als internationale Wissenschaftssprache und der Boykott nach dem Ersten Weltkrieg, 2., Äberarbeitete und erweiterte Auflage, Berlin/Boston 2019; Der Boykott gegen die deutschen Wissenschaftler und die deutsche Sprache nach dem Ersten Weltkrieg. Deutsche Medizinische Wochenschrift 138/51-52, 2013; Die deutsche Sprache in der Baltischen GeodÅtischen Kommission (1924-1939). In Michael Prinz, Jarmo Korhonen (Hrsg.), Deutsch als Wissenschaftssprache im Ostseeraum – Geschichte und Gegenwart, Frankfurt/M. 2011; L’exclusion des scientifiques allemands et de la langue allemande des congrÑs scientifiques internationaux après la Première Guerre mondiale. Revue Germanique Internationale 12/2010; Languages and Politics of International Scientific Communication in Central Eastern Europe after World War I. In Martin Kohlrausch, Katrin Steffen, Stefan Wiederkehr (eds.), Expert Cultures in Central Eastern Europe. The Internationalization of Knowledge and the Transformation of Nation States since World War I, Osnabrück 2010; Tongji-Universität in Shanghai. Dokumente zur Gründungsgeschichte, Wiesbaden 2009; Mehrsprachigkeit in der internationalen Wissenschaftskommunikation vor dem Ersten Weltkrieg, Deutsch als Fremdsprache 45/1 2008; Die Anfänge der auswärtigen Kulturpolitik in der Zeit des Kaiserreichs. In Armin Wolff, Harald Tanzer (Hrsg.), Sprache – Kultur –Politik, Regensburg 2000; Kulturexport und Wirtschaftsmacht, Deutsche Schulen in China vor dem Ersten Weltkrieg, Frankfurt/M. 1992.
+
+---
+
+### Xavier Riondet 
+
+Xavier Riondet is a professor in educational sciences at Rennes2 University in France. His research focuses on changes in school form, thought frameworks reflecting on inequalities and emancipation in education, and specific educational practices.
+
+In his work in the history of education, he is interested in school values and the evolution of school culture by studying the deployment of French textbooks at the end of the nineteenth century and then their questioning as part of reflections on the revision of textbooks during the interwar period. On this occasion, he was able to reflect on how certain networks related to Intellectual Cooperation have addressed the issue of school knowledge and national school cultures.
+
+References: Hofstetter, R, et Riondet, X. (2018). International Institutions, Pacifism, and the Attack on Warmongering Textbooks. In E. Fuchs et E. Roldán, (dir.), _Textbooks and War - Historical and Multinational Perspectives_, pp.201-232. Palgrave Macmillan; Riondet, X. (2020). L’Institut international de coopération intellectuelle : comment promouvoir un enseignement répondant à l’idéal internationaliste (1931-1937) ?  _Relations internationales_, 183/3, 77-93; Riondet, X. (2020). La résolution Casarès, ou les premiers pas difficiles de la Coopération Intellectuelle au sujet des manuels scolaires (1925-1939). In R. Hofstetter et J. Droux, (dir.), _L’internationalisme éducatif entre débats et combats (1919-1939)_, pp.141-171. Bern : Peter Lang.
+
+Projects: Postdoctoral research (2013-2014) in connection with the FNS Project « Figures of knowledge production and the construction of new disciplinary scenes of knowledge » (Subside Sinergia CRSII1-147688, ERHISE, University of Geneva. Research « La fabrique du commun dans les manuels scolaires de la IIIe République (2019-2021) » conducted at the Bibliothèque Nationale de France (BNF) in the "Philosophy, History, Human Sciences" (PHS) department directed by Fabien Plazannet, in the "social sciences" service of Laurence Jung.
+
+---
+
+### Ilaria Scaglia
+
+Ilaria Scaglia is Senior Lecturer of Modern History at Aston University in Birmingham, UK. Previously, she taught at Columbus State University in Columbus, GA, USA (2013–2018), she was a Volkswagen–Mellon Postdoctoral Fellows for Research in Germany, Free University and Centre History of Emotions at MPI in Berlin (2016–2017), and a Visiting Fellow for Research at the Graduate Institute in Geneva (2014). She has offered a broad range of undergraduate and (post)graduate modules on global history, the history of internationalism, and the history of emotions.
+
+She has recently published a monograph: _The Emotions of Internationalism: Feeling International Cooperation in the Alps in the Interwar Period_ (Oxford University Press, 2020). She is currently working on a new project, _Taking Pictures at the Archives: Transnational Emotions and Experiences in the Age of Mechanical Reproduction, 1860s–1960s_, which explores the interplay of emotions, archives, technology, and internationalism. Her other publications have dealt with the interplay of art and performative politics in collaborative exhibitions, nation branding and international cooperation, and the moral economy of internationalism. 
+
+To learn more about her activities and publications see her personal website www.ilariascaglia.com and follow her on Twitter [@IlariaScaglia1](www.twitter.com/IlariaScaglia1).
 
 ---
 
@@ -101,6 +165,18 @@ Publications: [Lithuanian Conferences in Switzerland: The Question of the Stateh
 ### Jan Stöckmann
 
 Jan Stöckmann is a lecturer in Modern History at Helmut-Schmidt-Universität, Hamburg. His book, _The Architects of International Relations: Building a Discipline, Designing the World, 1914–1940_ (Cambridge, 2022), provides a new and stimulating history of IR as an academic discipline, paying particular attention to the League of Nations and its bodies for intellectual cooperation. His articles have appeared in _The International History Review_, the _Review of International Studies_, and _Past & Present_. Having completed his dissertation at the University of Oxford in 2017, he has held research fellowships at Yale University and at the Université libre de Bruxelles before moving to Hamburg in 2019. 
+
+---
+
+### Itzel Toledo García
+
+Dr Itzel Toledo García is currently a Humboldt Postdoctoral Fellow at the Lateinamerika-Institut of the Freie Universität Berlin. She holds a PhD in History and an MSc in International Relations from the University of Essex, and a BA in History from the Universidad Nacional Autónoma de México. Her research focusses on Mexico’s international relations during the interwar period. One of the topics she explores is the exercise of cultural diplomacy by the Postrevolutionary State. For example, she has analysed the role played by writer and diplomat Alfonso Reyes to improve Mexican - French relations in traditional bilateral spheres and through the participation at the International Institute of Intellectual Cooperation (IICI). She is currently working on the career of educator and diplomat Palma Guillén, who took part of Mexican activities towards intellectual cooperation at the IICI, the International Educational Cinematographic Institute, and the League of Nations.
+
+Publications: “Alfonso Reyes, Genaro Estrada y Jean Périer: el fortalecimiento de los lazos intelectuales entre México y Francia (1924-1928)”, _Boletín del Archivo General de la Nación_, 3. Novena época (2019), p. 72-95; _El dilema entre la revolución y la estabilización: México y las potencias europeas_ (México: Secretaría de Relaciones Exteriores, 2020).
+
+[ORCID](https://orcid.org/0000-0001-9720-6512)
+
+[Academia.edu](fu-berlin.academia.edu/ItzelToledoGarcía)
 
 ---
 
