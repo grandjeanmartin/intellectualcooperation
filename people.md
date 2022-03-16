@@ -27,6 +27,25 @@ Twitter: [@cha_faucher](www.twitter.com/cha_faucher)
 
 ---
 
+## Shriya Patnaik
+
+Shriya Patnaik is a PhD candidate (Department of International History and Politics) at the Graduate Institute of International and Development Studies where her research has been funded by the _Swiss Government Excellence Scholarship_ and the _Swiss National Science Foundation Doc.Ch Grant_. Her research focuses on the historical genealogy surrounding discourses related to prostitution, trafficking, and sex-worker rights in colonial and postcolonial India. In particular, she focuses on the now-extinct matriarchal community of temple-dancers called _Mahari-Devadasis_ in Orissa (a matrilineal community categorized as ‘religious prostitutes’ in colonial India), along with their legal and healthcare rights under international humanitarian conventions. Her research is methodologically reliant on oral histories, colonial-period archival records, along with UN/ILO humanitarian conventions on the rights of marginalized communities in the Global South. Shriya has pursued her Bachelor's in History from Cornell University, and has subsequently pursued her Masters' in International History with a focus on Gender Studies from the Columbia University-London School of Economics dual degree MA-MSc program. Besides her academic interests, Shriya has actively worked in the public policy and NGO/development sectors in India on gender and human rights initiatives, and these experiences have played a crucial role in shaping her research focus on women’s rights and minority rights initiatives in postcolonial societies at a transnational scale. In terms of her linguistic abilities, she is fully-proficient in English, Hindi and Oriya, has medium-proficiency in Sanskrit, and beginner-level proficiency in French. Shriya is also a PhD affiliate with the Graduate Institute Gender Centre and the Global Migration Centre. 
+
+More information about my researcher Bio can be found [here](https://www.graduateinstitute.ch/discover-institute/shriya-patnaik).
+
+---
+
 ## Jan Stöckmann
 
 Jan Stöckmann is a lecturer in Modern History at Helmut-Schmidt-Universität, Hamburg. His book, _The Architects of International Relations: Building a Discipline, Designing the World, 1914–1940_ (Cambridge, 2022), provides a new and stimulating history of IR as an academic discipline, paying particular attention to the League of Nations and its bodies for intellectual cooperation. His articles have appeared in _The International History Review_, the _Review of International Studies_, and _Past & Present_. Having completed his dissertation at the University of Oxford in 2017, he has held research fellowships at Yale University and at the Université libre de Bruxelles before moving to Hamburg in 2019. 
+
+---
+
+## Pelle van Dijk
+
+Pelle van Dijk is a PhD researcher at the European University Institute in Florence (2017-2022). He is currently finishing his thesis focusing on the cooperation between the League’s Information Section and the League of Nations societies, the civil society organisations promoting the League in the member states. Looking at the activities of these various actors, he studies how the League had an active role in promoting moral disarmament. Using his case studies on India, Italy, the Netherlands and the United States, he shows how League officials and supporters tried to anchor both the League’s ideals as the institution itself firmly in the international world order.  Previously, he completed his BA and MA (2016) at the University of Amsterdam, where he studied interwar Dutch public diplomacy. 
+
+Twitter: [@pellevandijk](https://twitter.com/pellevandijk)  
+
+---
+
