@@ -29,5 +29,5 @@ Several research projects on intellectual cooperation have taken place in recent
 
 ## Social Media
 
-Please use #IntellectualCooperation(https://twitter.com/search?q=%23IntellectualCooperation&src=typed_query&f=live) on Twitter. Follow the LONTAD project ([@Lontadinho](https://twitter.com/lontadinho)) and the United Nations Library&Archives ([@UNOGLibrary](https://twitter.com/UNOGLibrary)). 
+Please use [#IntellectualCooperation](https://twitter.com/search?q=%23IntellectualCooperation&src=typed_query&f=live) on Twitter. Follow the LONTAD project ([@Lontadinho](https://twitter.com/lontadinho)) and the United Nations Library&Archives ([@UNOGLibrary](https://twitter.com/UNOGLibrary)). 
 
