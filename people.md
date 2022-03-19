@@ -6,7 +6,19 @@
 
 This page briefly introduces the people working around intellectual cooperation. While not a complete directory, its purpose is to serve as a resource for those wishing to embrace this field. See also the complete [bibliography](https://intellectualcooperation.org/publications) and the list of past and current [projects](https://intellectualcooperation.org/projects). [Contact us](https://intellectualcooperation.org/about) if you want to appear here.
 
-**Quick links:** [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Charlotte Faucher](#charlotte-faucher) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Tomás Irish](#tomás-irish) // [Leandro Lacquaniti](#leandro-lacquaniti) // [Kaiyi Li](#kaiyi-li) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Pelle van Dijk](#pelle-van-dijk)
+**Quick links:** [Elisabet Carbó-Catalan](#elisabet-carbo-catalan) // [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Charlotte Faucher](#charlotte-faucher) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Tomás Irish](#tomás-irish) // [Leandro Lacquaniti](#leandro-lacquaniti) // [Kaiyi Li](#kaiyi-li) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Diana Roig-Sanz](#diana-roig-sanz) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Pelle van Dijk](#pelle-van-dijk)
+
+---
+
+### Elisabet Carbó-Catalan
+
+Elisabet Carbó-Catalan is a PhD candidate at Universitat Oberta de Catalunya (Spain) and KU Leuven (Belgium). Currently member of the [ERC project “Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity, 1898-1959”](http://globals.research.uoc.edu/erc/), in her dissertation she examines the participation of Ibero-American cultural mediators in events and projects promoted by the International Institute of Intellectual Cooperation, with a special focus on literary activities. She is currently working on a collective volume entitled _Culture as Soft Power. Bridging Cultural Relations, Intellectual Cooperation and Cultural Diplomacy_, coedited with Diana Roig-Sanz (De Gruyter, 2022). Her publications can be consulted [here](https://orcid.org/0000-0002-7808-8335). 
+
+Previously she studied a double degree in Translation and Interpreting + French Philology (Universitat Autònoma de Barcelona). She completed an Erasmus Mundus Master Course in European Literary Cultures (Université de Strasbourg and Alma Mater Studiorum Università di Bologna), where she specialized in sociology of translation and the circulation of peripheral literatures. She has worked as a lecturer of Catalan studies (Università di Bologna, 2016-2018) and is a sworn translator.
+
+Her research interests include global approaches to literature, cultural and literary circulation, translation history, and the relationships between power/politics and culture.
+
+[↑ back to the top](#people)
 
 ---
 
@@ -167,6 +179,16 @@ In his work in the history of education, he is interested in school values and t
 References: Hofstetter, R, et Riondet, X. (2018). International Institutions, Pacifism, and the Attack on Warmongering Textbooks. In E. Fuchs et E. Roldán, (dir.), _Textbooks and War - Historical and Multinational Perspectives_, pp.201-232. Palgrave Macmillan; Riondet, X. (2020). L’Institut international de coopération intellectuelle : comment promouvoir un enseignement répondant à l’idéal internationaliste (1931-1937) ?  _Relations internationales_, 183/3, 77-93; Riondet, X. (2020). La résolution Casarès, ou les premiers pas difficiles de la Coopération Intellectuelle au sujet des manuels scolaires (1925-1939). In R. Hofstetter et J. Droux, (dir.), _L’internationalisme éducatif entre débats et combats (1919-1939)_, pp.141-171. Bern : Peter Lang.
 
 Projects: Postdoctoral research (2013-2014) in connection with the FNS Project « Figures of knowledge production and the construction of new disciplinary scenes of knowledge » (Subside Sinergia CRSII1-147688, ERHISE, University of Geneva. Research « La fabrique du commun dans les manuels scolaires de la IIIe République (2019-2021) » conducted at the Bibliothèque Nationale de France (BNF) in the "Philosophy, History, Human Sciences" (PHS) department directed by Fabien Plazannet, in the "social sciences" service of Laurence Jung.
+
+[↑ back to the top](#people)
+
+---
+
+### Diana Roig-Sanz
+
+Diana Roig-Sanz, coordinator of GlobaLS, is an ICREA Senior Research Professor and an ERC Starting Grant holder at the IN3 (UOC). She coordinates the Global Literary Studies Research Lab and is the principal investigator (alongside [Laura Fólica](https://demos.grupopatterson.net/uoc/team-member/laura-folica/)) of the research line _[Global Translation Flows](https://demos.grupopatterson.net/uoc/research_lines/global-translation-flows/)_. She is also the PI of the ERC StG project “Social Networks of the Past. Mapping Hispanic and Lusophone Literary Modernity, 1898-1959” ([Grant Agreement: 803860](https://demos.grupopatterson.net/uoc/erc/)). She has been a Ramón y Cajal Research Fellow and a visiting professor at the Oxford Internet Institute at the University of Oxford and has conducted research residencies and postdoctoral fellowships at top-ranked institutions, such as the Centre for Translation Studies (KU Leuven), the IHMC (École Normale Supérieure), the Department of European and Intercultural Studies (La Sapienza), and the Amsterdam School for Cultural Analyses (Amsterdam). Her research interests deal with cultural and global literary history and sociology of translation from a digital humanities approach. 
+
+Selected bibliography: Carbó-Catalan, Elisabet and Diana Roig-Sanz. _Culture as Soft Power. Bridging Cultural Relations, Intellectual History and Cultural Diplomacy_. Berlin: De Gruyter, 2022; Roig-Sanz, Diana and Laura Fólica. "[Big Translation History. Data Science Applied to Translated Literature in the Spanish-speaking World, 1898-1945](https://doi.org/10.1075/ts.21012.roi)”, _Translation Spaces_, vol. 10, no. 2, 2021, pp. 1-29; Roig-Sanz, Diana, and Jaume Subirana (eds.). _[Cultural Organisations, Networks and Mediators in Contemporary Ibero-America](https://www.routledge.com/Cultural-Organizations-Networks-and-Mediators-in-Contemporary-Ibero-America/Roig-Sanz-Subirana/p/book/9780367280505)_. Routledge, 2020, 333 pp.; Roig-Sanz, Diana. “[Specialization and Institutionalization: The Transnational Professionalization of European Literary Criticism during the Interwar Period](https://www.tandfonline.com/doi/abs/10.1080/14780038.2020.1723308)”. _Cultural and Social History_, vol. 17, no. 1, 2020, pp. 29-48.
 
 [↑ back to the top](#people)
 
