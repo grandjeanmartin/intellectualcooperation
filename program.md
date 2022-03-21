@@ -41,7 +41,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 |  |  |  |
 | --- | --- | --- |
 | 09:00 | **OPENING SESSION** | 
-|| Martin Grandjean | Welcome |
+|| Martin Grandjean &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Welcome |
 || UNOG | The archives of intellectual cooperation |
 | 09:45 | **SESSION 6** | **Asia and Intellectual Cooperation: a Long-Distance Relationship** |
 || Arnab Dutta | Towards the Invention of a Common Language of Science: The League of Nations’ Committee for Intellectual Cooperation and the Colonial Question in British India |
