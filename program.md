@@ -14,7 +14,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 || Marilena Papadaki | N. Politis (1872-1942), a “governments’ intellectual’: the promotion of the idea of intellectual cooperation as a basis for world peace |
 ||Pelle Van Dijk | Mobilising international public opinion: Moral disarmament as the public diplomacy of the League of Nations | 
 | 10:45 | Coffee pause	
-| 11:15 | **SESSION 2** | **Foundations of Intellectual Cooperation** | 
+| 11:15 | **SESSION 2** | **Foundations of Intellectual Cooperation** (chair: Daniel Laqua) | 
 || Jonathan Voges | In the engine room of intellectual cooperation. A prosographic approach to the civil servants of the Institut international de coopération intellectuelle in Paris | 
 || Ilaria Scaglia | A League of Minds with a Heart: Intellectual Cooperation and Emotions in the Interwar Period and Beyond | 
 || Gabriel Galvez-Behar | Intellectual Cooperation and the Institutionalization of Scientific Research | 
