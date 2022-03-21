@@ -65,7 +65,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 || Diana Roig Sanz | A Global and Gender Perspective to the Historiography of Intellectual Cooperation |
 || Itzel Toledo Garcia | Women in International Cooperation during the Interwar Period: the case of Mexican Palma Guillén |
 | 16:00 | Pause	
-| 16:30 | **SESSION 10** | Literary questions at the League of Nations |
+| 16:30 | **SESSION 10** | **Literary questions at the League of Nations** |
 || Elisabet Carbo-Catalan | Translation activities in the Organization of Intellectual Cooperation |
 || Thomas Davies | Three Approaches to Transnational Intellectual Cooperation: The Entente Committee of the Royal Society of Literature, International PEN, and the Co-ordinating Committee of the Major International Associations, 1916-1939 |
 | 17:10 | **CLOSING SESSION** |
