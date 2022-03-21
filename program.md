@@ -53,7 +53,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 || Kaiyi Li | Teaching about the League of Nations: An attempt of cultivating international consensus during the interwar period |
 || Xavier Riondet | How to guide and justify the work of the Intellectual Cooperation on textbooks? About the constitution and the action of the Committee of Experts de 1931 |
 | 12:15 | Lunch	|
-| 13:30 |	**SESSION 8** |	**Intellectual Cooperation Facing Political Challenges in Western Europe** |
+| 13:30 |	**SESSION 8** |	**Intellectual Cooperation Facing Political Challenges in Western Europe** (chair: Sacha Zala)|
 || Tomás Irish | ‘The League Committee of Intellectual Cooperation […] has never attracted much sympathy in Great Britain’: Britain and Intellectual Co-operation in the Interwar Period |
 || Benjamin Martin | Fascist Cultural Internationalism? Intellectual Cooperation in Mussolini’s Italy, 1925-1937 |
 || Jan Stöckmann | Academic Refugees and Intellectual Cooperation at the League of Nations
