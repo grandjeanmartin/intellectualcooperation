@@ -5,7 +5,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 ## Thursday May 12 2022
 
 |  |  |  |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 09:00 | **WELCOME SESSION** |  
 || Organizers | Welcome | 
 || Martin Grandjean | Introduction to the conference |
@@ -39,7 +39,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 ## Friday May 13 2022
 
 |  |  |  |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 09:00 | **OPENING SESSION** | 
 || Martin Grandjean | Welcome |
 || UNOG | The archives of intellectual cooperation |
