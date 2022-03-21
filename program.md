@@ -4,7 +4,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 
 ---
 
-## Thursday May 12		
+## Thursday May 12 2022
 
 |  |  |  |
 | --- | --- | --- |
@@ -38,7 +38,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 
 --- 
 
-## Friday May 13
+## Friday May 13 2022
 
 |  |  |  |
 | --- | --- | --- |
