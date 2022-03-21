@@ -9,7 +9,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 | 09:00 | **WELCOME SESSION** |  
 || Organizers | Welcome | 
 || Martin Grandjean | Introduction to the conference |
-| 09:45 | **SESSION 1** | **Intellectual Cooperation in the Diplomatic Field** | 
+| 09:45 | **SESSION 1** | **Intellectual Cooperation in the Diplomatic Field** (chair: Ludovic Tournès) | 
 || Charlotte Faucher | European cultural diplomacies and the International Committee on Intellectual Cooperation (ICIC) | 
 || Marilena Papadaki | N. Politis (1872-1942), a “governments’ intellectual’: the promotion of the idea of intellectual cooperation as a basis for world peace |
 ||Pelle Van Dijk | Mobilising international public opinion: Moral disarmament as the public diplomacy of the League of Nations | 
