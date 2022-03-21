@@ -8,6 +8,8 @@ The conference will take place at the United Nations Library in Geneva (Palais d
 
 <img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/access.png">
 
+The entrance to the Palais des Nations is from the Pregny gate (nearest bus stop: Appia). Those registered for the in-person conference will receive further information.
+
 ---
 
 ## Registration
