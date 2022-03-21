@@ -19,7 +19,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 || Ilaria Scaglia | A League of Minds with a Heart: Intellectual Cooperation and Emotions in the Interwar Period and Beyond | 
 || Gabriel Galvez-Behar | Intellectual Cooperation and the Institutionalization of Scientific Research | 
 | 12:15 | Lunch | |
-| 13:30 | **SESSION 3** | **Central and Eastern Europe, Fertile Ground for Intellectual Cooperation** | 
+| 13:30 | **SESSION 3** | **Central and Eastern Europe, Fertile Ground for Intellectual Cooperation** (chair: Sandrine Kott)| 
 || Johannes Feichtinger | Central Europe and The Making of Intellectual Cooperation |
 || Anastassiya Schacht | Scholar amidst borders: Soviet representative to the League's committee on intellectual cooperation as a case study for an attempt of cross-ideological cooperation in the interwar Europe | 
 || Monika Šipelytė | Gabrielle Radziwill: the story of Eastern European princess at the service of Intellectual Cooperation | 
