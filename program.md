@@ -2,8 +2,6 @@
 
 All times are in Geneva time (Central European Summer Time, UTC+2)
 
----
-
 ## Thursday May 12 2022
 
 |  |  |  |
@@ -36,7 +34,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 || Nelva Mildred Hernandez Sosa and Alexandra Pita Gonzalez | Mexico and the Permanent International Studies Conference. The Sense of the International, 1928-1939 |
 | 17:10 | End of the first day | 
 
---- 
+<br/>
 
 ## Friday May 13 2022
 
