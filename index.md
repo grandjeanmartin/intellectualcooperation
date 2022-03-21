@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/centenary%202022.png" width="450">
 ### International Conference, May 12-13 2022, UN Geneva
 
-_The program will be published at the end of March. Registration will open soon._ 
+| [Program](/program) | [Registration](/registration) | 
 
 Created in 1922, the International Committee on Intellectual Cooperation is a consultative body of the League of Nations which focuses on scientific and cultural issues. In 1926, the International Institute of Intellectual Cooperation is founded in Paris to serve as its executive branch. It is considered to be one of the foundations of UNESCO.
 
