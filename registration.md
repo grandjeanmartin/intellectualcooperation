@@ -12,6 +12,6 @@ Prior to the conference, you will receive an invitation to register in the UN vi
 
 ### Online participation
 
-Prior to the conference, you will receive instructions to connect to the video conference.
+Prior to the conference, you will receive instructions to connect to the Webex interface.
 
 [<img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/registration.png">](https://unog.libcal.com/calendar/archivestraining/IntellectualCooperationConference)
