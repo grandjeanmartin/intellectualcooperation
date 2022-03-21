@@ -41,7 +41,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 |  |  |  |
 | --- | --- | --- |
 | 09:00 | **OPENING SESSION** | 
-|| Martin Grandjean &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Welcome |
+|| Martin Grandjean | Welcome |
 || UNOG | The archives of intellectual cooperation |
 | 09:45 | **SESSION 6** | **Asia and Intellectual Cooperation: a Long-Distance Relationship** |
 || Arnab Dutta | Towards the Invention of a Common Language of Science: The League of Nations’ Committee for Intellectual Cooperation and the Colonial Question in British India |
@@ -65,7 +65,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 | 16:00 | Pause	
 | 16:30 | **SESSION 10** | **Literary questions at the League of Nations** |
 || Elisabet Carbo-Catalan | Translation activities in the Organization of Intellectual Cooperation |
-|| Thomas Davies | Three Approaches to Transnational Intellectual Cooperation: The Entente Committee of the Royal Society of Literature, International PEN, and the Co-ordinating Committee of the Major International Associations, 1916-1939 |
+|| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thomas Davies &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Three Approaches to Transnational Intellectual Cooperation: The Entente Committee of the Royal Society of Literature, International PEN, and the Co-ordinating Committee of the Major International Associations, 1916-1939 |
 | 17:10 | **CLOSING SESSION** |
 || Organizers | Conclusion |
 | 17:30 | End of the conference	|
