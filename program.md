@@ -24,7 +24,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 || Anastassiya Schacht | Scholar amidst borders: Soviet representative to the League's committee on intellectual cooperation as a case study for an attempt of cross-ideological cooperation in the interwar Europe | 
 || Monika Šipelytė | Gabrielle Radziwill: the story of Eastern European princess at the service of Intellectual Cooperation | 
 | 14:30 | Coffee pause | 
-| 15:00 | **SESSION 4** | **Arts and Culture at the League of Nations** (chair: Diana Roig Sanz) | 
+| 15:00 | **SESSION 4** | **Arts and Culture at the League of Nations** (chair: Diana Roig Sanz) | 
 || Camila Gatica Mizala | ‘Le film, éducateur universel”. The reception of the International Educational Cinematographic Institute in Chile | 
 || Annamaria Ducci | The League of Nations and Cultural Heritage. For an intellectual history of a notion | 
 || Christiane Sibille | « Les relations internationales au point de vue musical » – Music and Intellectual Cooperation | 
@@ -48,7 +48,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 || Takashi Saikawa | Nationalism of Intellectual Co-operation: Aikitsu Tanakadate and the Romanization of Japanese |
 || Jennifer Chang | Beyond Representation: The Bibliothèque Sino-Internationale and the International Committee on Intellectual Cooperation, 1933-1939 |
 | 10:45 | Coffee pause |
-| 11:15 | **SESSION 7** | **The League of Nations and Educational Issues** (chair: Corinne Pernet) |
+| 11:15 | **SESSION 7** | **The League of Nations and Educational Issues** (chair: Corinne Pernet) |
 || Emeline Brylinski and Rita Hofstetter | Education and childhood, a coveted field. The International Bureau of Education, an intergovernmental body seized in its relational network |
 || Kaiyi Li | Teaching about the League of Nations: An attempt of cultivating international consensus during the interwar period |
 || Xavier Riondet | How to guide and justify the work of the Intellectual Cooperation on textbooks? About the constitution and the action of the Committee of Experts de 1931 |
