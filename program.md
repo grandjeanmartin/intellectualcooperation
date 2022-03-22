@@ -58,7 +58,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 || Benjamin Martin | Fascist Cultural Internationalism? Intellectual Cooperation in Mussolini’s Italy, 1925-1937 |
 || Jan Stöckmann | Academic Refugees and Intellectual Cooperation at the League of Nations
 | 14:30 | Coffee pause	
-| 15:00 |	**SESSION 9** | **The Central Role of Women in Intellectual Cooperation** |
+| 15:00 |	**SESSION 9** | **The Central Role of Women in Intellectual Cooperation** (chair: Tomás Irish) |
 || Joyce Goodman | Laura Dreyfus-Barney (1897-1974), the International Council of Women and International Intellectual Cooperation at Paris, Geneva, and Rome |
 || Diana Roig Sanz | A Global and Gender Perspective to the Historiography of Intellectual Cooperation |
 || Itzel Toledo Garcia | Women in International Cooperation during the Interwar Period: the case of Mexican Palma Guillén |
