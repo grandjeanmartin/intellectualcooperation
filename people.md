@@ -6,7 +6,7 @@
 
 This page briefly introduces the people working around intellectual cooperation. While not a complete directory, its purpose is to serve as a resource for those wishing to embrace this field. See also the complete [bibliography](https://intellectualcooperation.org/publications) and the list of past and current [projects](https://intellectualcooperation.org/projects). [Contact us](https://intellectualcooperation.org/about) if you want to appear here.
 
-**Quick links:** [Elisabet Carbó-Catalan](#elisabet-carbo-catalan) // [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Charlotte Faucher](#charlotte-faucher) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Tomás Irish](#tomás-irish) // [Leandro Lacquaniti](#leandro-lacquaniti) // [Kaiyi Li](#kaiyi-li) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Diana Roig-Sanz](#diana-roig-sanz) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Pelle van Dijk](#pelle-van-dijk)
+**Quick links:** [Elisabet Carbó-Catalan](#elisabet-carbo-catalan) // [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Charlotte Faucher](#charlotte-faucher) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Tomás Irish](#tomás-irish) // [Leandro Lacquaniti](#leandro-lacquaniti) // [Kaiyi Li](#kaiyi-li) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Diana Roig-Sanz](#diana-roig-sanz) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Ludovic Tournès](#ludovic-tournès) // [Pelle van Dijk](#pelle-van-dijk)
 
 ---
 
@@ -246,6 +246,14 @@ Publications: “Alfonso Reyes, Genaro Estrada y Jean Périer: el fortalecimient
 [ORCID](https://orcid.org/0000-0001-9720-6512)
 
 [Academia.edu](fu-berlin.academia.edu/ItzelToledoGarcía)
+
+[↑ back to the top](#people)
+
+---
+
+### Ludovic Tournès
+
+Ludovic Tournès is professor of international history at the university of Geneva. A specialist of cultural and scientific transnational circulations, cultural dipomacy and US-Europe relations, he has published numerous books and articles among which New Orleans Sur Seine. Histoire du jazz en France (Fayard, 1999), Du phonographe au MP3 (Autrement, 2008, rééd. 2011), L’Argent de l’influence. Les fondations américaines et leurs réseaux européens (Autrement, 2010), Sciences de l’homme et politiques. Les fondations philanthropiques américaines en France au XXe siècle (Garnier, 2011), Les Etats-Unis et la Société des Nations (1914-1946) : le système international face à l’émergence d’une superpuissance (Peter Lang, 2015, english translation : Phillanthropic Foundations at the League of Nations : An Americanized League ? Routledge, 2022) ; Global Exchanges : Scholarships and Transnational Circulations in the Contemporary World (19-21st centuries), in cooperation with Giles Scott-Smith (Berghahn Books, 2017). His last book, Américanisation. Une histoire mondiale XVIIIe-XXIes siècles (Fayard, 2020), has been awarded the « Grand Prix des Rendez-vous de l’Histoire de Blois » in 2021. He is one of the coordinators of a collective research project entitled « Rockefeller fellows as heralds of globalization : the circulation of knowledge, elites and practices of modernization (1920s-1970s). [See a detailed list of his publications here](https://www.unige.ch/lettres/istge/corps-enseignant/hco/tournes/).
 
 [↑ back to the top](#people)
 
