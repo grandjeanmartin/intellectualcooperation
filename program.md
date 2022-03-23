@@ -64,7 +64,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 || [Itzel Toledo Garcia](https://intellectualcooperation.org/people#itzel-toledo-garc%C3%ADa) | Women in International Cooperation during the Interwar Period: the case of Mexican Palma Guillén |
 | 16:00 | Pause	
 | 16:30 | **SESSION 10** | **Literary questions at the League of Nations** (chair: Alexandra Pita Gonzalez) |
-|| [Elisabet Carbo-Catalan](https://intellectualcooperation.org/people#elisabet-carbo-catalan) | Translation activities in the Organization of Intellectual Cooperation |
+|| [Elisabet Carbo-Catalan](https://intellectualcooperation.org/people#elisabet-carbó-catalan) | Translation activities in the Organization of Intellectual Cooperation |
 || [Thomas Davies](https://intellectualcooperation.org/people#thomas-davies) | Three Approaches to Transnational Intellectual Cooperation: The Entente Committee of the Royal Society of Literature, International PEN, and the Co-ordinating Committee of the Major International Associations, 1916-1939 |
 | 17:10 | **CLOSING SESSION** |
 || Organizers | Conclusion |
