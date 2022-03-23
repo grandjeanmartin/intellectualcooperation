@@ -50,7 +50,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 | 10:45 | Coffee pause |
 | 11:15 | **SESSION 7** | **The League of Nations and Educational Issues** (chair: Corinne Pernet) |
 || Emeline Brylinski and Rita Hofstetter | Education and childhood, a coveted field. The International Bureau of Education, an intergovernmental body seized in its relational network |
-|| Kaiyi Li | Teaching about the League of Nations: An attempt of cultivating international consensus during the interwar period |
+|| [Kaiyi Li](https://intellectualcooperation.org/people#kaiyi-li) | Teaching about the League of Nations: An attempt of cultivating international consensus during the interwar period |
 || [Xavier Riondet](https://intellectualcooperation.org/people#xavier-riondet) | How to guide and justify the work of the Intellectual Cooperation on textbooks? About the constitution and the action of the Committee of Experts de 1931 |
 | 12:15 | Lunch	|
 | 13:30 |	**SESSION 8** |	**Intellectual Cooperation Facing Political Challenges in Western Europe** (chair: Sacha Zala)|
