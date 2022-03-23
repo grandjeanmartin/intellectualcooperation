@@ -43,7 +43,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 | 09:00 | **OPENING SESSION** | 
 || Martin Grandjean | Welcome |
 || UNOG | The archives of intellectual cooperation |
-| 09:45 | **SESSION 6** | **Asia and Intellectual Cooperation: a Long-Distance Relationship** |
+| 09:45 | **SESSION 6** | **Asia and Intellectual Cooperation: a Long-Distance Relationship** (chair: Harumi Goto-Shibata) |
 || Arnab Dutta | Towards the Invention of a Common Language of Science: The League of Nations’ Committee for Intellectual Cooperation and the Colonial Question in British India |
 || Takashi Saikawa | Nationalism of Intellectual Co-operation: Aikitsu Tanakadate and the Romanization of Japanese |
 || Jennifer Chang | Beyond Representation: The Bibliothèque Sino-Internationale and the International Committee on Intellectual Cooperation, 1933-1939 |
