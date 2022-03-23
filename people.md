@@ -6,7 +6,7 @@
 
 This page briefly introduces the people working around intellectual cooperation. While not a complete directory, its purpose is to serve as a resource for those wishing to embrace this field. See also the complete [bibliography](https://intellectualcooperation.org/publications) and the list of past and current [projects](https://intellectualcooperation.org/projects). [Contact us](https://intellectualcooperation.org/about) if you want to appear here. 
 
-**Quick links:** [Elisabet Carbó-Catalan](#elisabet-carbó-catalan) // [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Charlotte Faucher](#charlotte-faucher) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Harumi Goto-Shibata](#harumi-goto-shibata) // [Tomás Irish](#tomás-irish) // [Leandro Lacquaniti](#leandro-lacquaniti) // [Kaiyi Li](#kaiyi-li) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Diana Roig-Sanz](#diana-roig-sanz) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Ludovic Tournès](#ludovic-tournès) // [Pelle van Dijk](#pelle-van-dijk)
+**Quick links:** [Elisabet Carbó-Catalan](#elisabet-carbó-catalan) // [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Charlotte Faucher](#charlotte-faucher) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Harumi Goto-Shibata](#harumi-goto-shibata) // [Tomás Irish](#tomás-irish) // [Leandro Lacquaniti](#leandro-lacquaniti) // [Kaiyi Li](#kaiyi-li) // [Benjamin Martin](#benjamin-martin) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Diana Roig-Sanz](#diana-roig-sanz) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Ludovic Tournès](#ludovic-tournès) // [Pelle van Dijk](#pelle-van-dijk)
 
 ---
 
@@ -135,6 +135,14 @@ Dr Kaiyi Li is a postdoctoral researcher at Media/Transformation, Leibniz-Instit
 [Personal homepage](http://www.gei.de/mitarbeiter/dr-des-kaiyi-li.html)
 
 [Email address](li@gei.de)
+
+[↑ back to the top](#people)
+
+---
+
+### Benjamin Martin
+
+A graduate of the University of Chicago and Columbia University, Benjamin G. Martin is senior lecturer in the Department of History of Science and Ideas at Uppsala University, where he is lead researcher on the project ‘International Ideas at UNESCO: Digital Approaches to Global Conceptual History’, funded by the Swedish Research Council. Several of his publications explore the relationship of fascist Italy and Nazi Germany to the world of interwar intellectual cooperation, including a 2021 article on “[The Birth of the Cultural Treaty in Europe’s Age of Crisis](https://doi.org/10.1017/S0960777321000023)” in _Contemporary European History_, an article on “[Fascist Italy’s Illiberal Cultural Networks](https://edizionicafoscari.unive.it/it/edizioni/libri/978-88-6969-318-2/fascist-italys-illiberal-cultural-networks/)” in a 2019 edited volume, and his book, _[The Nazi-Fascist New Order for European Culture](https://www.hup.harvard.edu/catalog.php?isbn=9780674545748)_ (Harvard University Press, 2016), which won the 2020 Culbert Family Book Prize of the International Association for Media and History.
 
 [↑ back to the top](#people)
 
