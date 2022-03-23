@@ -55,7 +55,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 | 12:15 | Lunch	|
 | 13:30 |	**SESSION 8** |	**Intellectual Cooperation Facing Political Challenges in Western Europe** (chair: Sacha Zala)|
 || [Tomás Irish](https://intellectualcooperation.org/people#tom%C3%A1s-irish) | ‘The League Committee of Intellectual Cooperation […] has never attracted much sympathy in Great Britain’: Britain and Intellectual Co-operation in the Interwar Period |
-|| Benjamin Martin | Fascist Cultural Internationalism? Intellectual Cooperation in Mussolini’s Italy, 1925-1937 |
+|| [Benjamin Martin](https://intellectualcooperation.org/people#benjamin-martin) | Fascist Cultural Internationalism? Intellectual Cooperation in Mussolini’s Italy, 1925-1937 |
 || [Jan Stöckmann](https://intellectualcooperation.org/people#jan-st%C3%B6ckmann) | Academic Refugees and Intellectual Cooperation at the League of Nations
 | 14:30 | Coffee pause	
 | 15:00 |	**SESSION 9** | **The Central Role of Women in Intellectual Cooperation** (chair: [Tomás Irish](https://intellectualcooperation.org/people#tom%C3%A1s-irish)) |
