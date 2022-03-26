@@ -31,7 +31,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 | 16:00 | Pause	| 
 | 16:30 | **SESSION 5** | **Latin American intellectual cooperation** | 
 || [Leandro Lacquaniti](https://intellectualcooperation.org/people#leandro-lacquaniti) | La Comisión Argentina de Cooperación Intelectual. Itinerario de la diplomacia cultural del Estado argentino a lo largo de una década (1937-1947) |
-|| Nelva Mildred Hernandez Sosa and Alexandra Pita Gonzalez | Mexico and the Permanent International Studies Conference. The Sense of the International, 1928-1939 |
+|| Nelva Mildred Hernandez Sosa and [Alexandra Pita Gonzalez](https://intellectualcooperation.org/people#alexandra-pita-gonz%C3%A1lez) | Mexico and the Permanent International Studies Conference. The Sense of the International, 1928-1939 |
 | 17:10 | End of the first day | 
 
 <br/>
