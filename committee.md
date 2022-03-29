@@ -10,6 +10,10 @@
 * **Hermine Diebolt**, United Nations Library and Archives Geneva, Switzerland
 * **Colin Wells**, United Nations Library and Archives Geneva, Switzerland
 
+Technical support:
+* **Fabrice Arlot**, United Nations Library and Archives Geneva, Switzerland
+* **Nadia Al Droubi**, United Nations Library and Archives Geneva, Switzerland
+
 ---
 
 ## Host Institutions
