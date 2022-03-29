@@ -7,7 +7,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 |  |  |  |
 | --- | --- | --- |
 | 09:00 | **WELCOME SESSION** |  
-|| Organizers | Welcome | 
+|| Francesco Pisano and Blandine Blukacz-Louisfert | Welcome | 
 || [Martin Grandjean](https://intellectualcooperation.org/people#martin-grandjean) | Introduction to the conference |
 | 09:45 | **SESSION 1** | **Intellectual Cooperation in the Diplomatic Field** (chair: [Ludovic Tournès](https://intellectualcooperation.org/people#ludovic-tourn%C3%A8s)) | 
 || [Charlotte Faucher](https://intellectualcooperation.org/people#charlotte-faucher) | European cultural diplomacies and the International Committee on Intellectual Cooperation (ICIC) | 
@@ -42,7 +42,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 | --- | --- | --- |
 | 09:00 | **OPENING SESSION** | 
 || [Martin Grandjean](https://intellectualcooperation.org/people#martin-grandjean) | Welcome |
-|| UNOG | The archives of intellectual cooperation |
+|| UNOG and UNESCO | The archives of intellectual cooperation |
 | 09:45 | **SESSION 6** | **Asia and Intellectual Cooperation: a Long-Distance Relationship** (chair: [Harumi Goto-Shibata](https://intellectualcooperation.org/people#harumi-goto-shibata)) |
 || Arnab Dutta | Towards the Invention of a Common Language of Science: The League of Nations’ Committee for Intellectual Cooperation and the Colonial Question in British India |
 || Takashi Saikawa | Nationalism of Intellectual Co-operation: Aikitsu Tanakadate and the Romanization of Japanese |
