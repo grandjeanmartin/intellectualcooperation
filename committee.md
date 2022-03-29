@@ -6,6 +6,9 @@
 
 * **Blandine Blukacz-Louisfert**, United Nations Library and Archives Geneva, Switzerland
 * Dr. **Martin Grandjean**, Swiss National Science Foundation / University of Lausanne, Switzerland
+* **Pierre-Etienne Bourneuf**, United Nations Library and Archives Geneva, Switzerland
+* **Hermine Diebolt**, United Nations Library and Archives Geneva, Switzerland
+* **Colin Wells**, United Nations Library and Archives Geneva, Switzerland
 
 ---
 
