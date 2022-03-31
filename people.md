@@ -220,7 +220,7 @@ Selected bibliography: Carbó-Catalan, Elisabet and Diana Roig-Sanz. _Culture as
 
 ### Takashi Saikawa
 
-Takashi SAIKAWA (Dr. phil., Ruprecht-Karls-Universität Heidelberg) is associate professor of Global History, Takasaki City University of Economics in Japan. His main fields of research interests lie in the history of international organizations and the history of international cultural exchange. His publications include "Returning to the International Community: UNESCO and Postwar Japan, 1945-1951" in Poul Duedahl ed., _A History of UNESCO: Global Actions and Impacts_, New York: Palgrave Macmillan, 2016, and "From Intellectual Co-operation to International Cultural Exchange: Japan and China in the International Committee on Intellectual Co-operation of the League of Nations, 1922-1939", Ph.D. Thesis, Ruprecht-Karls-Universität Heidelberg, 2014.![image](https://user-images.githubusercontent.com/11447413/161095170-6a604bd9-10e3-48d8-b9af-fdef812730e9.png)
+Takashi SAIKAWA (Dr. phil., Ruprecht-Karls-Universität Heidelberg) is associate professor of Global History, Takasaki City University of Economics in Japan. His main fields of research interests lie in the history of international organizations and the history of international cultural exchange. His publications include "Returning to the International Community: UNESCO and Postwar Japan, 1945-1951" in Poul Duedahl ed., _A History of UNESCO: Global Actions and Impacts_, New York: Palgrave Macmillan, 2016, and "From Intellectual Co-operation to International Cultural Exchange: Japan and China in the International Committee on Intellectual Co-operation of the League of Nations, 1922-1939", Ph.D. Thesis, Ruprecht-Karls-Universität Heidelberg, 2014.
 
 [↑ back to the top](#people)
 
