@@ -46,10 +46,10 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 | 09:45 | **SESSION 6** | **Asia and Intellectual Cooperation: a Long-Distance Relationship** (chair: [Harumi Goto-Shibata](https://intellectualcooperation.org/people#harumi-goto-shibata)) |
 || Arnab Dutta | Towards the Invention of a Common Language of Science: The League of Nations’ Committee for Intellectual Cooperation and the Colonial Question in British India |
 || [Takashi Saikawa](https://intellectualcooperation.org/people#takashi-saikawa) | Nationalism and Internationalism in Intellectual Co-operation: Aikitsu Tanakadate and the Romanization of Japanese Language |
-|| Jennifer Chang | Beyond Representation: The Bibliothèque Sino-Internationale and the International Committee on Intellectual Cooperation, 1933-1939 |
+|| [Jennifer Chang](https://intellectualcooperation.org/people#jennifer-y-chang) | Beyond Representation: The Bibliothèque Sino-Internationale and the International Committee on Intellectual Cooperation, 1933-1939 |
 | 10:45 | Coffee pause |
 | 11:15 | **SESSION 7** | **The League of Nations and Educational Issues** (chair: Corinne Pernet) |
-|| Emeline Brylinski and Rita Hofstetter | Education and childhood, a coveted field. The International Bureau of Education, an intergovernmental body seized in its relational network |
+|| [Emeline Brylinski](https://intellectualcooperation.org/people#%C3%A9meline-brylinski) and [Rita Hofstetter](https://intellectualcooperation.org/people#rita-hofstetter) | Education and childhood, a coveted field. The International Bureau of Education, an intergovernmental body seized in its relational network |
 || [Kaiyi Li](https://intellectualcooperation.org/people#kaiyi-li) | Teaching about the League of Nations: An attempt of cultivating international consensus during the interwar period |
 || [Xavier Riondet](https://intellectualcooperation.org/people#xavier-riondet) | How to guide and justify the work of the Intellectual Cooperation on textbooks? About the constitution and the action of the Committee of Experts de 1931 |
 | 12:15 | Lunch	|
