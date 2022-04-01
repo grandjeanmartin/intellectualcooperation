@@ -6,7 +6,15 @@
 
 This page briefly introduces the people working around intellectual cooperation. While not a complete directory, its purpose is to serve as a resource for those wishing to embrace this field. See also the complete [bibliography](https://intellectualcooperation.org/publications) and the list of past and current [projects](https://intellectualcooperation.org/projects). [Contact us](https://intellectualcooperation.org/about) if you want to appear here. 
 
-**Quick links:** [Elisabet Carbó-Catalan](#elisabet-carbó-catalan) // [Jennifer Y. Chang](#jennifer-y-chang) // [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Charlotte Faucher](#charlotte-faucher) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Harumi Goto-Shibata](#harumi-goto-shibata) // [Tomás Irish](#tomás-irish) // [Leandro Lacquaniti](#leandro-lacquaniti) // [Kaiyi Li](#kaiyi-li) // [Benjamin Martin](#benjamin-martin) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Alexandra Pita González](#alexandra-pita-gonzález) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Diana Roig-Sanz](#diana-roig-sanz) // [Takashi Saikawa](#takashi-saikawa) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Ludovic Tournès](#ludovic-tournès) // [Pelle van Dijk](#pelle-van-dijk)
+**Quick links:** [Émeline Brylinski](#émeline-brylinski) // [Elisabet Carbó-Catalan](#elisabet-carbó-catalan) // [Jennifer Y. Chang](#jennifer-y-chang) // [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Charlotte Faucher](#charlotte-faucher) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Harumi Goto-Shibata](#harumi-goto-shibata) // [Rita Hofstetter](#rita-hofstetter) // [Tomás Irish](#tomás-irish) // [Leandro Lacquaniti](#leandro-lacquaniti) // [Kaiyi Li](#kaiyi-li) // [Benjamin Martin](#benjamin-martin) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Alexandra Pita González](#alexandra-pita-gonzález) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Diana Roig-Sanz](#diana-roig-sanz) // [Takashi Saikawa](#takashi-saikawa) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Ludovic Tournès](#ludovic-tournès) // [Pelle van Dijk](#pelle-van-dijk)
+
+---
+
+### Émeline Brylinski
+
+Émeline Brylinski, is a PhD Candidate at the University of Geneva, in the Research Team in Social History of Education (ERHISE). Her thesis explores forms of intergovernmental cooperation experimented at the International Bureau of Education (1930-1958). She is also involved in a collective research project, supported by SEFRI, to study the premises of a global governance model implemented by the IBE more recently (1964-1990). MA Graduate from _Teachers College_, Columbia University (2014’), New-York, her research is informed by her professional experience at UNESCO-GEMR and IBE-UNESCO (2014-2017) as well as consultancy research works conducted for international organizations and networks, such as Amnesty International (2017) and NORRAG (2018-2020), and years of teaching experiences.
+
+[↑ back to the top](#people)
 
 ---
 
@@ -113,6 +121,19 @@ Joyce Goodman is [Professor of History of Education at The University of Winches
 ### Harumi Goto-Shibata
 
 Harumi GOTO-SHIBATA (D.Phil., University of Oxford) is a Professor of International History at the Department of Advanced Social and International Studies, Graduate School of Arts and Sciences, University of Tokyo. Her publications in English include _The League of Nations and the East Asian Imperial Order, 1920-1946_ (Palgrave Macmillan, 2020), ‘Britain, the League of Nations, and Russian Women Refugees in China in the Interwar Period’ in A. Best (ed.), _Britain’s Retreat from Empire in East Asia, 1905-1980_ (Routledge, 2017), and _Japan and Britain in Shanghai, 1925-31_ (Macmillan, St Antony’s series, 1995). Her research has been on the international history of East Asia in the inter-war period as well as the League of Nations’ social and other technical works in the region. 
+
+[↑ back to the top](#people)
+
+---
+
+### Rita Hofstetter
+
+Rita Hofstetter is full professor in History of education at the University of Geneva (habilitation in History in 2009, University of Paris IV–Sorbonne, France). She is director of the [Jean-Jacques Rousseau Institute’s archives](http://www.unige.ch/archives/aijjr/), and co-coordinator of [ERHISE](https://cms.unige.ch/fapse/SSE/erhise) (Social History of Education Research Group).
+Her current research areas:
+* Construction of the teaching state and transformation of school culture 
+* From local to global: transnational and social approaches to educational phenomena
+* The International Bureau of Education as a platform for educational internationalism
+* History of educational sciences and the new conceptions of childhood in Europe during the 20th century.
 
 [↑ back to the top](#people)
 
