@@ -6,7 +6,7 @@
 
 This page briefly introduces the people working around intellectual cooperation. While not a complete directory, its purpose is to serve as a resource for those wishing to embrace this field. See also the complete [bibliography](https://intellectualcooperation.org/publications) and the list of past and current [projects](https://intellectualcooperation.org/projects). [Contact us](https://intellectualcooperation.org/about) if you want to appear here. 
 
-**Quick links:** [Elisabet Carbó-Catalan](#elisabet-carbó-catalan) // [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Charlotte Faucher](#charlotte-faucher) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Harumi Goto-Shibata](#harumi-goto-shibata) // [Tomás Irish](#tomás-irish) // [Leandro Lacquaniti](#leandro-lacquaniti) // [Kaiyi Li](#kaiyi-li) // [Benjamin Martin](#benjamin-martin) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Alexandra Pita González](#alexandra-pita-gonzález) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Diana Roig-Sanz](#diana-roig-sanz) // [Takashi Saikawa](#takashi-saikawa) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Ludovic Tournès](#ludovic-tournès) // [Pelle van Dijk](#pelle-van-dijk)
+**Quick links:** [Elisabet Carbó-Catalan](#elisabet-carbó-catalan) // [Jennifer Y. Chang](#jennifer-y-chang) // [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Charlotte Faucher](#charlotte-faucher) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Harumi Goto-Shibata](#harumi-goto-shibata) // [Tomás Irish](#tomás-irish) // [Leandro Lacquaniti](#leandro-lacquaniti) // [Kaiyi Li](#kaiyi-li) // [Benjamin Martin](#benjamin-martin) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Alexandra Pita González](#alexandra-pita-gonzález) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Diana Roig-Sanz](#diana-roig-sanz) // [Takashi Saikawa](#takashi-saikawa) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Ludovic Tournès](#ludovic-tournès) // [Pelle van Dijk](#pelle-van-dijk)
 
 ---
 
@@ -17,6 +17,18 @@ Elisabet Carbó-Catalan is a PhD candidate at Universitat Oberta de Catalunya (S
 Previously she studied a double degree in Translation and Interpreting + French Philology (Universitat Autònoma de Barcelona). She completed an Erasmus Mundus Master Course in European Literary Cultures (Université de Strasbourg and Alma Mater Studiorum Università di Bologna), where she specialized in sociology of translation and the circulation of peripheral literatures. She has worked as a lecturer of Catalan studies (Università di Bologna, 2016-2018) and is a sworn translator.
 
 Her research interests include global approaches to literature, cultural and literary circulation, translation history, and the relationships between power/politics and culture.
+
+[↑ back to the top](#people)
+
+---
+
+### Jennifer Y. Chang
+
+[Jennifer Y. Chang](https://www.mh.sinica.edu.tw/UserDetail.aspx?userID=822&mid=38&tmid=2) is a Postdoctoral Research Fellow at the Institute of Modern History at Academia Sinica in Taipei, Taiwan. She researches the history of modern China, with a focus on visual culture, interwar internationalism, and wartime diplomacy. Jennifer’s theoretical interests include the intellectual, cultural, and political consequences of institutional loss and recovery associated with struggles rooted in regime change and global processes of modernization. Her postdoctoral research topic is _Library as Embassy: Art, Diplomacy, and the Bibliothèque Sino-Internationale, 1933-1993_.
+
+Jennifer is the author of _Universe, Power, Hsiao Chin_ (National Taiwan Museum of Fine Arts, 2014) and the forthcoming book _Re-visioning “Little Artists”: Abstraction and Children’s Art Education in Postwar Taiwan_ (Mandarin Daily News, 2022).
+
+Jennifer is a graduate of University of California at Berkeley, Columbia University, and received her Ph.D. from Sichuan University.
 
 [↑ back to the top](#people)
 
