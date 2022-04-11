@@ -20,7 +20,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 || Gabriel Galvez-Behar | Intellectual Cooperation and the Institutionalization of Scientific Research | 
 | 12:15 | Lunch | |
 | 13:30 | **SESSION 3** | **Central and Eastern Europe, Fertile Ground for Intellectual Cooperation** (chair: Sandrine Kott)| 
-|| Johannes Feichtinger | Central Europe and The Making of Intellectual Cooperation |
+|| [Johannes Feichtinger](https://intellectualcooperation.org/people#johannes-feichtinger) | Central Europe and The Making of Intellectual Cooperation |
 || [Anastassiya Schacht](https://intellectualcooperation.org/people#anastassiya-schacht) | Scholar amidst borders: Soviet representative to the League's committee on intellectual cooperation as a case study for an attempt of cross-ideological cooperation in the interwar Europe | 
 || [Monika Šipelytė](https://intellectualcooperation.org/people#monika-%C5%A1ipelyt%C4%97) | Gabrielle Radziwill: the story of Eastern European princess at the service of Intellectual Cooperation | 
 | 14:30 | Coffee pause | 
