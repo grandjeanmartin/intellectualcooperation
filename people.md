@@ -6,7 +6,7 @@
 
 This page briefly introduces the people working around intellectual cooperation. While not a complete directory, its purpose is to serve as a resource for those wishing to embrace this field. See also the complete [bibliography](https://intellectualcooperation.org/publications) and the list of past and current [projects](https://intellectualcooperation.org/projects). [Contact us](https://intellectualcooperation.org/about) if you want to appear here. 
 
-**Quick links:** [Émeline Brylinski](#émeline-brylinski) // [Elisabet Carbó-Catalan](#elisabet-carbó-catalan) // [Jennifer Y. Chang](#jennifer-y-chang) // [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Charlotte Faucher](#charlotte-faucher) // [Johannes Feichtinger](#johannes-feichtinger ) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Harumi Goto-Shibata](#harumi-goto-shibata) // [Rita Hofstetter](#rita-hofstetter) // [Tomás Irish](#tomás-irish) // [Leandro Lacquaniti](#leandro-lacquaniti) // [Kaiyi Li](#kaiyi-li) // [Benjamin Martin](#benjamin-martin) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Alexandra Pita González](#alexandra-pita-gonzález) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Diana Roig-Sanz](#diana-roig-sanz) // [Takashi Saikawa](#takashi-saikawa) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Ludovic Tournès](#ludovic-tournès) // [Pelle van Dijk](#pelle-van-dijk)
+**Quick links:** [Émeline Brylinski](#émeline-brylinski) // [Elisabet Carbó-Catalan](#elisabet-carbó-catalan) // [Jennifer Y. Chang](#jennifer-y-chang) // [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Charlotte Faucher](#charlotte-faucher) // [Johannes Feichtinger](#johannes-feichtinger ) // [Gabriel Galvez-Behar](#gabriel-galvez-behar) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Harumi Goto-Shibata](#harumi-goto-shibata) // [Rita Hofstetter](#rita-hofstetter) // [Tomás Irish](#tomás-irish) // [Leandro Lacquaniti](#leandro-lacquaniti) // [Kaiyi Li](#kaiyi-li) // [Benjamin Martin](#benjamin-martin) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Alexandra Pita González](#alexandra-pita-gonzález) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Diana Roig-Sanz](#diana-roig-sanz) // [Takashi Saikawa](#takashi-saikawa) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Ludovic Tournès](#ludovic-tournès) // [Pelle van Dijk](#pelle-van-dijk)
 
 ---
 
@@ -85,6 +85,18 @@ Twitter: [@cha_faucher](http://www.twitter.com/cha_faucher)
 Johannes Feichtinger is a Senior Research Associate at the Austrian Academy of Sciences and he currently directs the Institute of Culture Studies and Theatre History (2022). He coordinates the Cultures of Knowledge-research cluster and heads the research unit History of Science. Austria in Global Context. He is a Faculty Member of the Vienna Doctoral School for Historical and Cultural Studies at the University of Vienna and Member of the European History of Academies Research Network (initiated by the German National Academy of Sciences Leopoldina). His research interests include history of science, intellectual history, memory studies and the history of the Habsburg Empire in global context.
 
 To learn more about his research activities and publications see [his institutional website](https://www.oeaw.ac.at/en/ikt/the-institute/staff/research-staff/johannes-feichtinger).
+
+[↑ back to the top](#people)
+
+---
+
+### Gabriel Galvez-Behar
+
+As a professor of contemporary history at the University of Lille, I contribute to the development of a history of innovation, at the crossroads of economic history and the history of science and technology. My research has focused on the definition and uses of intellectual property in contemporary times. In my opinion, intellectual property is a relevant observatory of practices, norms and values related to innovation. So I am also interested in the history of research commodification through a project devoted to the history of scientific property (Galvez-Behar, 2020). It provides a basis for reflection on the political economy of science, articulating material and symbolic economies. Thanks to this project, I was led to work on the sources of the International Institute of Intellectual Cooperation. The IICI was, in fact, a central stage in the debates on scientific property in the interwar period.
+
+Currently, my work continues to focus on the history of the valorization of research and intellectual property. I am also Dean of the Faculty of Humanities at the University of Lille.
+
+References: Galvez-Behar, Gabriel. 2020. _Posséder la science : La propriété scientifique au temps du capitalisme industriel_. Éditions de l’École des Hautes Études en Sciences Sociales.
 
 [↑ back to the top](#people)
 
