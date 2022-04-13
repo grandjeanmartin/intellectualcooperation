@@ -17,7 +17,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 | 11:15 | **SESSION 2** | **Foundations of Intellectual Cooperation** (chair: Daniel Laqua) | 
 || Jonathan Voges | In the engine room of intellectual cooperation. A prosographic approach to the civil servants of the Institut international de coopération intellectuelle in Paris | 
 || [Ilaria Scaglia](https://intellectualcooperation.org/people#ilaria-scaglia) | A League of Minds with a Heart: Intellectual Cooperation and Emotions in the Interwar Period and Beyond | 
-|| Gabriel Galvez-Behar | Intellectual Cooperation and the Institutionalization of Scientific Research | 
+|| [Gabriel Galvez-Behar](https://intellectualcooperation.org/people#gabriel-galvez-behar) | Intellectual Cooperation and the Institutionalization of Scientific Research | 
 | 12:15 | Lunch | |
 | 13:30 | **SESSION 3** | **Central and Eastern Europe, Fertile Ground for Intellectual Cooperation** (chair: Sandrine Kott)| 
 || [Johannes Feichtinger](https://intellectualcooperation.org/people#johannes-feichtinger) | Central Europe and The Making of Intellectual Cooperation |
