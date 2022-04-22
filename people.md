@@ -20,11 +20,8 @@ This page briefly introduces the people working around intellectual cooperation.
 
 ### Elisabet Carbó-Catalan
 
-Elisabet Carbó-Catalan is a PhD candidate at Universitat Oberta de Catalunya (Spain) and KU Leuven (Belgium). Currently member of the [ERC project “Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity, 1898-1959”](http://globals.research.uoc.edu/erc/), in her dissertation she examines the participation of Ibero-American cultural mediators in events and projects promoted by the International Institute of Intellectual Cooperation, with a special focus on literary activities. She is currently working on a collective volume entitled _Culture as Soft Power. Bridging Cultural Relations, Intellectual Cooperation and Cultural Diplomacy_, coedited with Diana Roig-Sanz (De Gruyter, 2022). Her publications can be consulted [here](https://orcid.org/0000-0002-7808-8335). 
+Elisabet Carbó-Catalan is a PhD candidate at Universitat Oberta de Catalunya (Spain) and KU Leuven (Belgium). Currently member of the [ERC project “Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity, 1898-1959”](http://globals.research.uoc.edu/erc/), in her dissertation she examines the participation of Ibero-American cultural mediators in events and projects promoted by the International Institute of Intellectual Cooperation. Her research interests include global approaches to literature, translation history, and the relationships between power/politics and culture. Her [main publications](https://orcid.org/0000-0002-7808-8335) seek to historicize forms of public support to translation and foreign cultural action.
 
-Previously she studied a double degree in Translation and Interpreting + French Philology (Universitat Autònoma de Barcelona). She completed an Erasmus Mundus Master Course in European Literary Cultures (Université de Strasbourg and Alma Mater Studiorum Università di Bologna), where she specialized in sociology of translation and the circulation of peripheral literatures. She has worked as a lecturer of Catalan studies (Università di Bologna, 2016-2018) and is a sworn translator.
-
-Her research interests include global approaches to literature, cultural and literary circulation, translation history, and the relationships between power/politics and culture.
 
 [↑ back to the top](#people)
 
