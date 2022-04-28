@@ -14,12 +14,12 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 || [Marilena Papadaki](https://intellectualcooperation.org/people#marilena-papadaki) | N. Politis (1872-1942), a “governments’ intellectual’: the promotion of the idea of intellectual cooperation as a basis for world peace |
 || [Pelle Van Dijk](https://intellectualcooperation.org/people#pelle-van-dijk) | Mobilising international public opinion: Moral disarmament as the public diplomacy of the League of Nations | 
 | 10:45 | Coffee pause	
-| 11:15 | **SESSION 2** | **Foundations of Intellectual Cooperation** (chair: Daniel Laqua) | 
+| 11:15 | **SESSION 2** | **Foundations of Intellectual Cooperation** (chair: [Daniel Laqua](https://intellectualcooperation.org/people#daniel-laqua)) | 
 || Jonathan Voges | In the engine room of intellectual cooperation. A prosographic approach to the civil servants of the Institut international de coopération intellectuelle in Paris | 
 || [Ilaria Scaglia](https://intellectualcooperation.org/people#ilaria-scaglia) | A League of Minds with a Heart: Intellectual Cooperation and Emotions in the Interwar Period and Beyond | 
 || [Gabriel Galvez-Behar](https://intellectualcooperation.org/people#gabriel-galvez-behar) | Intellectual Cooperation and the Institutionalization of Scientific Research | 
 | 12:15 | Lunch | |
-| 13:30 | **SESSION 3** | **Central and Eastern Europe, Fertile Ground for Intellectual Cooperation** (chair: Sandrine Kott)| 
+| 13:30 | **SESSION 3** | **Central and Eastern Europe, Fertile Ground for Intellectual Cooperation** (chair: [Sandrine Kott](https://intellectualcooperation.org/people#sandrine-kott))| 
 || [Johannes Feichtinger](https://intellectualcooperation.org/people#johannes-feichtinger) | Central Europe and The Making of Intellectual Cooperation |
 || [Anastassiya Schacht](https://intellectualcooperation.org/people#anastassiya-schacht) | Scholar amidst borders: Soviet representative to the League's committee on intellectual cooperation as a case study for an attempt of cross-ideological cooperation in the interwar Europe | 
 || [Monika Šipelytė](https://intellectualcooperation.org/people#monika-%C5%A1ipelyt%C4%97) | Gabrielle Radziwill: the story of Eastern European princess at the service of Intellectual Cooperation | 
