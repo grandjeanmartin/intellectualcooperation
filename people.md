@@ -6,7 +6,7 @@
 
 This page briefly introduces the people working around intellectual cooperation. While not a complete directory, its purpose is to serve as a resource for those wishing to embrace this field. See also the complete [bibliography](https://intellectualcooperation.org/publications) and the list of past and current [projects](https://intellectualcooperation.org/projects). [Contact us](https://intellectualcooperation.org/about) if you want to appear here. 
 
-**Quick links:** [Émeline Brylinski](#émeline-brylinski) // [Elisabet Carbó-Catalan](#elisabet-carbó-catalan) // [Jennifer Y. Chang](#jennifer-y-chang) // [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Charlotte Faucher](#charlotte-faucher) // [Johannes Feichtinger](#johannes-feichtinger ) // [Gabriel Galvez-Behar](#gabriel-galvez-behar) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Harumi Goto-Shibata](#harumi-goto-shibata) // [Rita Hofstetter](#rita-hofstetter) // [Tomás Irish](#tomás-irish) // [Leandro Lacquaniti](#leandro-lacquaniti) // [Kaiyi Li](#kaiyi-li) // [Benjamin Martin](#benjamin-martin) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Alexandra Pita González](#alexandra-pita-gonzález) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Diana Roig-Sanz](#diana-roig-sanz) // [Takashi Saikawa](#takashi-saikawa) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Ludovic Tournès](#ludovic-tournès) // [Pelle van Dijk](#pelle-van-dijk)
+**Quick links:** [Émeline Brylinski](#émeline-brylinski) // [Elisabet Carbó-Catalan](#elisabet-carbó-catalan) // [Jennifer Y. Chang](#jennifer-y-chang) // [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Charlotte Faucher](#charlotte-faucher) // [Johannes Feichtinger](#johannes-feichtinger ) // [Gabriel Galvez-Behar](#gabriel-galvez-behar) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Harumi Goto-Shibata](#harumi-goto-shibata) // [Rita Hofstetter](#rita-hofstetter) // [Tomás Irish](#tomás-irish) // [Sandrine Kott](#sandrine-kott) //  [Leandro Lacquaniti](#leandro-lacquaniti) // [Daniel Laqua](#daniel-laqua) // [Kaiyi Li](#kaiyi-li) // [Benjamin Martin](#benjamin-martin) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Alexandra Pita González](#alexandra-pita-gonzález) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Diana Roig-Sanz](#diana-roig-sanz) // [Takashi Saikawa](#takashi-saikawa) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Ludovic Tournès](#ludovic-tournès) // [Pelle van Dijk](#pelle-van-dijk)
 
 ---
 
@@ -164,6 +164,17 @@ Tomás Irish is Senior Lecturer in Modern History at Swansea University, UK. He 
 
 [↑ back to the top](#people)
 
+
+---
+
+### Sandrine Kott
+
+[Sandrine Kott](https://www.unige.ch/lettres/istge/corps-enseignant/enseignants/enseignants-chercheurs/kott/) is full professor of Modern European History at the University of Geneva since 2004 and visiting professor at New York University since 2017. Her main field of expertise is the international and European history of social welfare and labor.
+
+Among her last publications : _Organiser le monde. Une autre histoire de la guerre froide_ (Paris, Le Seuil, 2021), _Sozialstaat und Gesellschaft. Das deutsche Kaiserreich in Europa_ (Göttingen, Vandenhoeck und Ruprecht, Kritische Studien, 2014, with Kiran Patel), _Nazism across Borders. The Social Policies of the Third Reich and their Global Appeal_ (Oxford University Press, 2018, with Michel Christian and Ondrej Matejka), _Planning in Cold War Europe. Competition, Cooperation, circulation (1950s-1970s)_ (Oldenburg, De Gruyter, 2018, with Stefan-Ludwig Hoffmann, Peter Romijn & Olivier Wieviorka), _Seeking Peace in the Wake of War. Europe, 1943-1947_ (Amsterdam University Press, 2015, with Joëlle Droux), _Globalizing social rights. The ILO and beyond_ (London, Palgrave, 2013).
+ 
+ [↑ back to the top](#people)
+ 
 ---
 
 ### Leandro Lacquaniti
@@ -175,6 +186,14 @@ His research topic is _The National Commission of Culture. State cultural agenci
 He integrates the following research groups: “Cultural history of politics. Argentina, 20th and 21st centuries”; “The representations of the past in Argentina, between historiographical disputes and political battles (1930-1960)”, “Intersections between politics and ideas. Argentina (1890-1943)”, “Liberalism, nationalism and populism in Argentina: the political traditions under discussion (1880-1976)”.
 
 Published works: “The intellectual property law of 1933. Projects and parliamentary debates on copyright in Argentina”; “The 'criollo gaucho' and the debates on the literary canon. The prizes of the National Commission of Culture in the thirties in Argentina (1935-1943)”.
+
+[↑ back to the top](#people)
+
+---
+
+### Daniel Laqua
+
+Daniel Laqua is Associate Professor of European History at Northumbria University, Newcastle upon Tyne. His research is particularly concerned with the manifold histories of internationalism and transnational activism. In addition to publishing a range of articles, book chapters and themed journal issues, he has written the monograph _The Age of Internationalism and Belgium, 1880–1930: Peace, Progress and Prestige_ (Manchester, 2013), edited the volume _Internationalism Reconfigured: Transnational Ideas and Movements between the World Wars_ (London, 2011) and co-edited the study _International Organizations and Global Civil Society: Histories of the Union of International Associations_ (London, 2019). He has examined the League of Nations’ work in the field of intellectual cooperation in several of his works, notably via articles in the _Journal of Global History_ (2011), _Critique Internationale_ (2011) and – with a focus on League interactions with student activists – _The English Historical Review_ (2017).
 
 [↑ back to the top](#people)
 
