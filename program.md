@@ -31,7 +31,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 | 16:00 | Pause	| 
 | 16:30 | **SESSION 5** | **Latin American intellectual cooperation** | 
 || [Leandro Lacquaniti](https://intellectualcooperation.org/people#leandro-lacquaniti) | The Argentine Commission for Intellectual Cooperation. The itinerary of a cultural diplomacy agency of the Argentine State (1936-1948) |
-|| Nelva Mildred Hernandez Sosa and [Alexandra Pita Gonzalez](https://intellectualcooperation.org/people#alexandra-pita-gonz%C3%A1lez) | Mexico and the Permanent International Studies Conference. The Sense of the International, 1928-1939 |
+|| [Nelva Mildred Hernandez Sosa](https://intellectualcooperation.org/people#nelva-mildred-hernandez-sosa) and [Alexandra Pita Gonzalez](https://intellectualcooperation.org/people#alexandra-pita-gonz%C3%A1lez) | Mexico and the Permanent International Studies Conference. The Sense of the International, 1928-1939 |
 | 17:10 | End of the first day | 
 
 <br/>
@@ -44,7 +44,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 || [Martin Grandjean](https://intellectualcooperation.org/people#martin-grandjean) | Welcome |
 || UNOG and UNESCO | The archives of intellectual cooperation |
 | 09:45 | **SESSION 6** | **Asia and Intellectual Cooperation: a Long-Distance Relationship** (chair: [Harumi Goto-Shibata](https://intellectualcooperation.org/people#harumi-goto-shibata)) |
-|| Arnab Dutta | Towards the Invention of a Common Language of Science: The League of Nations’ Committee for Intellectual Cooperation and the Colonial Question in British India |
+|| [Arnab Dutta](https://intellectualcooperation.org/people#arnab-dutta) | Towards the Invention of a Common Language of Science: The League of Nations’ Committee for Intellectual Cooperation and the Colonial Question in British India |
 || [Takashi Saikawa](https://intellectualcooperation.org/people#takashi-saikawa) | Nationalism and Internationalism in Intellectual Co-operation: Aikitsu Tanakadate and the Romanization of Japanese Language |
 || [Jennifer Chang](https://intellectualcooperation.org/people#jennifer-y-chang) | Beyond Representation: The Bibliothèque Sino-Internationale and the International Committee on Intellectual Cooperation, 1933-1939 |
 | 10:45 | Coffee pause |
