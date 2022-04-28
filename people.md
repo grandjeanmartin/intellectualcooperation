@@ -6,7 +6,7 @@
 
 This page briefly introduces the people working around intellectual cooperation. While not a complete directory, its purpose is to serve as a resource for those wishing to embrace this field. See also the complete [bibliography](https://intellectualcooperation.org/publications) and the list of past and current [projects](https://intellectualcooperation.org/projects). [Contact us](https://intellectualcooperation.org/about) if you want to appear here. 
 
-**Quick links:** [Émeline Brylinski](#émeline-brylinski) // [Elisabet Carbó-Catalan](#elisabet-carbó-catalan) // [Jennifer Y. Chang](#jennifer-y-chang) // [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Charlotte Faucher](#charlotte-faucher) // [Johannes Feichtinger](#johannes-feichtinger ) // [Gabriel Galvez-Behar](#gabriel-galvez-behar) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Harumi Goto-Shibata](#harumi-goto-shibata) // [Rita Hofstetter](#rita-hofstetter) // [Tomás Irish](#tomás-irish) // [Sandrine Kott](#sandrine-kott) //  [Leandro Lacquaniti](#leandro-lacquaniti) // [Daniel Laqua](#daniel-laqua) // [Kaiyi Li](#kaiyi-li) // [Benjamin Martin](#benjamin-martin) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Alexandra Pita González](#alexandra-pita-gonzález) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Diana Roig-Sanz](#diana-roig-sanz) // [Takashi Saikawa](#takashi-saikawa) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Ludovic Tournès](#ludovic-tournès) // [Pelle van Dijk](#pelle-van-dijk)
+**Quick links:** [Émeline Brylinski](#émeline-brylinski) // [Elisabet Carbó-Catalan](#elisabet-carbó-catalan) // [Jennifer Y. Chang](#jennifer-y-chang) // [Thomas Davies](#thomas-davies) // [Annamaria Ducci](#annamaria-ducci) // [Arnab Dutta](arnab-dutta) // [Charlotte Faucher](#charlotte-faucher) // [Johannes Feichtinger](#johannes-feichtinger ) // [Gabriel Galvez-Behar](#gabriel-galvez-behar) // [Camila Gatica Mizala](#camila-gatica-mizala) // [Martin Grandjean](#martin-grandjean) // [Joyce Goodman](#joyce-goodman) // [Harumi Goto-Shibata](#harumi-goto-shibata) // [Nelva Mildred Hernandez Sosa](#nelva-mildred-hernandez-sosa) // [Rita Hofstetter](#rita-hofstetter) // [Tomás Irish](#tomás-irish) // [Sandrine Kott](#sandrine-kott) //  [Leandro Lacquaniti](#leandro-lacquaniti) // [Daniel Laqua](#daniel-laqua) // [Kaiyi Li](#kaiyi-li) // [Benjamin Martin](#benjamin-martin) // [Chloé Maurel](#chloé-maurel) // [Marilena Papadaki](#marilena-papadaki) // [Shriya Patnaik](#shriya-patnaik) // [Alexandra Pita González](#alexandra-pita-gonzález) // [Roswitha Reinbothe](#roswitha-reinbothe) // [Xavier Riondet](#xavier-riondet) // [Diana Roig-Sanz](#diana-roig-sanz) // [Takashi Saikawa](#takashi-saikawa) // [Ilaria Scaglia](#ilaria-scaglia) // [Anastassiya Schacht](#anastassiya-schacht) // [Monika Šipelytė](#monika-šipelytė) // [Jan Stöckmann](#jan-stöckmann) // [Itzel Toledo García](#itzel-toledo-garcía) // [Ludovic Tournès](#ludovic-tournès) // [Pelle van Dijk](#pelle-van-dijk)
 
 ---
 
@@ -58,6 +58,16 @@ She is member of the “Research Network on the History of the Idea of Europe”
 [Email](annamaria.ducci@gmail.com)
 
 [Academia.edu](https://inha-fr.academia.edu/AnnamariaDucci)
+
+[↑ back to the top](#people)
+
+---
+
+### Arnab Dutta
+
+Arnab Dutta is a final-year PhD candidate of Modern History at the Graduate School for the Humanities, Rijksuniversiteit Groningen, the Netherlands. He is also a visiting doctoral fellow at the Department of History of Ideas, Uppsala University, Sweden (2019-20), European University Institute Florence, Italy (2021) and Global Intellectual History Graduate School, Freie Universität Berlin, Germany (2021, with a DAAD visiting PhD grant). His research interests are in cultural and intellectual history of South Asia, Interwar Germany, and Postcolonial Studies. Drawing on a wide range of sources and concepts derived from the language-worlds of Bangla, Hindi, Sanskrit, English, German, French and Italian, his doctoral dissertation project explores the notion of intellectual entanglements between Interwar Germany and India. Besides, with a Vossius Fellowship in the History of the Humanities and Sciences from the University of Amsterdam, the Netherlands, Arnab is currently embarking on a research project on India’s role in the League of Nations’ Committee for Intellectual Cooperation. Among others, he has been awarded with the Duke of Arenberg Award 2018, RuG Sustainable Society Intercontinental PhD Grant 2019, and the International Weimar Award 2020 from the Klassik Stiftung Weimar, Germany.
+
+Twitter: [@arnabduttahist](https://twitter.com/arnabduttahist)
 
 [↑ back to the top](#people)
 
@@ -140,6 +150,14 @@ Joyce Goodman is [Professor of History of Education at The University of Winches
 ### Harumi Goto-Shibata
 
 Harumi GOTO-SHIBATA (D.Phil., University of Oxford) is a Professor of International History at the Department of Advanced Social and International Studies, Graduate School of Arts and Sciences, University of Tokyo. Her publications in English include _The League of Nations and the East Asian Imperial Order, 1920-1946_ (Palgrave Macmillan, 2020), ‘Britain, the League of Nations, and Russian Women Refugees in China in the Interwar Period’ in A. Best (ed.), _Britain’s Retreat from Empire in East Asia, 1905-1980_ (Routledge, 2017), and _Japan and Britain in Shanghai, 1925-31_ (Macmillan, St Antony’s series, 1995). Her research has been on the international history of East Asia in the inter-war period as well as the League of Nations’ social and other technical works in the region. 
+
+[↑ back to the top](#people)
+
+---
+
+### Nelva Mildred Hernandez Sosa
+
+Internationalist from the University of Colima, Master of Development Policy by the Korean Development Institute, works at the Embassy of the Islamic Republic of Pakistan as a Trade Development Officer. Since college she is dedicated to the historical study of international relations as a university discipline.
 
 [↑ back to the top](#people)
 
