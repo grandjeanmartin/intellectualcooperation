@@ -27,8 +27,7 @@ Items published since 2010. For older publications, links, DOI and other classif
 * **Stöckmann, Jan**. [The Architects of International Relations: Building a Discipline, Designing the World, 1914-1940](https://www.cambridge.org/core/books/architects-of-international-relations/C6E07BAF508290BC87A8E551B02D6D90). Cambridge University Press, 2022.
 * **Voges, Jonathan**. ‘[Scientific Internationalism in a Time of Crisis. The Month of Intellectual Cooperation at the 1937 Paris World Fair](https://doi.org/10.5040/9781350254831.0014)’. In Placing Internationalism: International Conferences and the Making of the Modern World, edited by Stephen Legg, Mike Heffernan, Jake Hodder, and Benjamin Thorpe, 104–17. Bloomsbury Academic, 2022.
 
-
-##### --2022 Conference papers of the Centenary
+#### --2022 sub-category: Conference papers of the Centenary
 
 * **Brylinski, Emeline**, and **Rita Hofstetter**. ‘Education and Childhood, a Coveted Field. The International Bureau of Education, an Intergovernmental Body Seized in Its Relational Network’. In Centenary of the International Committee on Intellectual Cooperation of the League of Nations. Geneva, 2022.
 * **Carbó-Catalan, Elisabet**. ‘Translation Activities in the Organization of Intellectual Cooperation’. In Centenary of the International Committee on Intellectual Cooperation of the League of Nations. Geneva, 2022.
