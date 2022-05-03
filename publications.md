@@ -15,7 +15,7 @@ Access to this bibliography is public and does not require to have a Zotero acco
 ## Recent publications on Intellectual cooperation
 
 Items published since 2010. For older publications, links, DOI and other classification criteria, [use the Zotero library](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). 
-> Last update: Jan. 2022
+> Last update: May 2022
 
 ### 2022
 * **Carbó-Catalan, Elisabet**. ‘Foreign Catalan Projection. An Overview of the Catalan Case’. Comparative Literature Studies, 2022.
