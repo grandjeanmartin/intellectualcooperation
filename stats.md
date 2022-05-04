@@ -12,7 +12,7 @@ As of May 1, 2022, the bibliography contains 320 references, of which 274 are af
 
 [An interactive version of this visualization can be seen here](https://public.tableau.com/app/profile/grandjeanmartin/viz/IntellectualCooperation/Citations) (click on the dots to display the references).
 
-<a href="https://public.tableau.com/app/profile/grandjeanmartin/viz/IntellectualCooperation/Citations"><img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/citations.png" style="border: 1px black;">
+<a href="https://public.tableau.com/app/profile/grandjeanmartin/viz/IntellectualCooperation/Citations"><img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/citations.png" style="border: 1px;">
  
 --- 
  
