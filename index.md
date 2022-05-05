@@ -4,6 +4,8 @@
 
 ## [Program](/program) | [Registration](/registration) 
 
+Hybrid conference. Registration is open until **May 8** (in person attendance) or **May 10** (online)
+
 Created in 1922, the International Committee on Intellectual Cooperation is a consultative body of the League of Nations which focuses on scientific and cultural issues. In 1926, the International Institute of Intellectual Cooperation is founded in Paris to serve as its executive branch. It is considered to be one of the foundations of UNESCO.
 
 | <a href="https://www.unil.ch/hist/home.html"><img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/UNIL_hist.png" width="150" align="left"> | <a href="https://www.ungeneva.org/en/knowledge/archives"><img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/UNOG_library_archives.jpg" width="170" align="left"> | <a href="http://www.snf.ch/en/Pages/default.aspx"><img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/SwissNationalScienceFoundation2021.png" width="200" align="left"> |
