@@ -21,7 +21,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 | 12:15 | Lunch | |
 | 13:30 | **SESSION 3** | **Central and Eastern Europe, Fertile Ground for Intellectual Cooperation** (chair: [Sandrine Kott](https://intellectualcooperation.org/people#sandrine-kott))| 
 || [Johannes Feichtinger](https://intellectualcooperation.org/people#johannes-feichtinger) | Central Europe and The Making of Intellectual Cooperation |
-|| [Anastassiya Schacht](https://intellectualcooperation.org/people#anastassiya-schacht) | Scholar amidst borders: Soviet representative to the League's committee on intellectual cooperation as a case study for an attempt of cross-ideological cooperation in the interwar Europe | 
+|| [Anastassiya Schacht](https://intellectualcooperation.org/people#anastassiya-schacht) | Scholars amidst borders: Soviet representation to the League’s Committee on Intellectual Cooperation as an attempt of cross-ideological cooperation in the interwar Europe | 
 || [Monika Šipelytė](https://intellectualcooperation.org/people#monika-%C5%A1ipelyt%C4%97) | Gabrielle Radziwill: the story of Eastern European princess at the service of Intellectual Cooperation | 
 | 14:30 | Coffee pause | 
 | 15:00 | **SESSION 4** | **Arts and Culture at the League of Nations** (chair: [Diana Roig Sanz](https://intellectualcooperation.org/people#diana-roig-sanz)) | 
