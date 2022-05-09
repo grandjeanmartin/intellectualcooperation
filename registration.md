@@ -4,7 +4,7 @@ Registration for this conference is free and open to all. This is a hybrid event
 
 [→ To the registration form](https://unog.libcal.com/calendar/archivestraining/IntellectualCooperationConference)
 
-Please note that **registration closes on May 8** for in person attendance and on **May 10** for online participation.
+Registration is now closed for in-person participation, but open until **May 10** for **online** participation.
 
 ### Attendance in person in Geneva
 
