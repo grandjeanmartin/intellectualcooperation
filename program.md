@@ -29,7 +29,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 || [Annamaria Ducci](https://intellectualcooperation.org/people#annamaria-ducci) | The League of Nations and Cultural Heritage. For an intellectual history of a notion | 
 || Christiane Sibille | « Les relations internationales au point de vue musical » – Music and Intellectual Cooperation | 
 | 16:00 | Pause	| 
-| 16:30 | **SESSION 5** | **Latin American intellectual cooperation** (chair: [Martin Grandjean](https://intellectualcooperation.org/people#martin-grandjean))| 
+| 16:30 | **SESSION 5** | **Latin American intellectual cooperation** (chair: [Martin Grandjean](https://intellectualcooperation.org/people#martin-grandjean))| 
 || [Leandro Lacquaniti](https://intellectualcooperation.org/people#leandro-lacquaniti) | The Argentine Commission for Intellectual Cooperation. The itinerary of a cultural diplomacy agency of the Argentine State (1936-1948) |
 || [Nelva Mildred Hernandez Sosa](https://intellectualcooperation.org/people#nelva-mildred-hernandez-sosa) and [Alexandra Pita Gonzalez](https://intellectualcooperation.org/people#alexandra-pita-gonz%C3%A1lez) | Mexico and the Permanent International Studies Conference. The Sense of the International, 1928-1939 |
 | 17:10 | End of the first day | 
