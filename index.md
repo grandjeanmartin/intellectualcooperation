@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/centenary%202022.png" width="450">
 ### International Conference, May 12-13 2022, UN Geneva
 
-## [Program](/program) | [Registration](/registration) 
+## | [Program](/program) | 
 
 Hybrid conference. Registration is now closed for in-person participation, but open until **May 10** for **online** participation.
 
