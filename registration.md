@@ -1,16 +1,12 @@
 # Registration
 
-Registration for this conference is free and open to all. This is a hybrid event (in person in Geneva and online), please specify how you will attend.
-
-[→ To the registration form](https://unog.libcal.com/calendar/archivestraining/IntellectualCooperationConference)
-
-Registration is now closed for in-person participation, but open until **May 10** for **online** participation.
+Registration is now closed.
 
 ### Attendance in person in Geneva
 
 Prior to the conference, you will receive an invitation to register in the UN visitor system. If you do not already have a United Nations badge, you must complete a registration form for the security service (registered participants will receive a mail a few days before the conference with instructions).
 
-More information on the exact location will be provided on the "[practical information](https://intellectualcooperation.org/informations)" page.
+More information on the exact location will be provided on the "[practical information](https://intellectualcooperation.org/informations)" page and via email.
 
 ### Online participation
 
