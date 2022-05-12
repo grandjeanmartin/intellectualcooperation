@@ -42,7 +42,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 | --- | --- | --- |
 | 09:00 | **OPENING SESSION** | 
 || [Martin Grandjean](https://intellectualcooperation.org/people#martin-grandjean) | Welcome |
-|| UNOG and UNESCO | The archives of intellectual cooperation |
+|| Blandine Blukacz-Louisfert and Adama Pam | The archives of intellectual cooperation |
 | 09:45 | **SESSION 6** | **Asia and Intellectual Cooperation: a Long-Distance Relationship** (chair: [Harumi Goto-Shibata](https://intellectualcooperation.org/people#harumi-goto-shibata)) |
 || [Arnab Dutta](https://intellectualcooperation.org/people#arnab-dutta) | Towards the Invention of a Common Language of Science: The League of Nations’ Committee for Intellectual Cooperation and the Colonial Question in British India |
 || [Takashi Saikawa](https://intellectualcooperation.org/people#takashi-saikawa) | Nationalism and Internationalism in Intellectual Co-operation: Aikitsu Tanakadate and the Romanization of Japanese Language |
