@@ -14,7 +14,7 @@ These two collections have recently been fully digitized and are now available o
 
 > The Total Digital Access to the League of Nations Archives Project (LONTAD) will ensure state-of-the-art free online access and the digital and physical preservation of approximately 15 million pages, or almost three linear kilometers, the entirety of the archives of the League of Nations (1920-1946), the first global intergovernmental organization aiming to establish international peace and cooperation, and the predecessor of the United Nations. The LONTAD project is made possible through a generous donation of a private Swiss foundation. [*Read more...*](https://lontad-project.unog.ch/about-the-project)
 
-The archives can be seen here: https://archives.ungeneva.org/ You can also visit the [Total Digital Access to the League of Nations Archives Project](https://lontad-project.unog.ch/) website. The UN Library & Archives in Geneva are also maintaining an [online guide on Intellectual Cooperation](https://libraryresources.unog.ch/lonintellectualcooperation).
+The archives can be seen here: [archives.ungeneva.org](https://archives.ungeneva.org/) You can also visit the [Total Digital Access to the League of Nations Archives Project](https://lontad-project.unog.ch/) website. The UN Library & Archives in Geneva are also maintaining an [online guide on Intellectual Cooperation](https://libraryresources.unog.ch/lonintellectualcooperation).
 
 ---
 
