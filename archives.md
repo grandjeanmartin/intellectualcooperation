@@ -26,7 +26,7 @@ The archives can be seen here: [archives.ungeneva.org](https://archives.ungeneva
 
 > In 2015, UNESCO launched a fundraising project to digitize the Organization’s archives dating back to its predecessors, including the League of Nations’ International Institute for Intellectual Cooperation. The project is an important step in preserving key parts of our collective memory and in making these records more readily available to the public. Two years later, thanks to the generous support of the Government of Japan, UNESCO launched a major two-year initiative. In partnership with the digitization company Picturae BV, an on-site laboratory was installed at the UNESCO Headquarters in Paris in February of 2018. [*Read more...*](https://digital.archives.unesco.org/en/about-the-project)
 
-Visit the [Digitizing our Shared UNESCO History](https://digital.archives.unesco.org/en/) website or browse the [IIIC archives](https://digital.archives.unesco.org/en/collection/iici-documents/).
+Visit the [Digitizing our Shared UNESCO History](https://digital.archives.unesco.org/en/) website or browse the [IIIC archives](https://digital.archives.unesco.org/en/collection/iici-documents/). The UNESCO Archives are also maintaining an [online guide on the Institute](https://unesco.libguides.com/iici).
 
 ---
 
