@@ -1,7 +1,8 @@
-<p align="center">CONFERENCE PAPER</p>
-<h2 align="center">Intellectual Cooperation, a Short Historiographical Overview</h2>
-<p align="center">Martin Grandjean, University of Lausanne</p>
+CONFERENCE PAPER
 
+<h2>Intellectual Cooperation, a Short Historiographical Overview</h2>
+
+Martin Grandjean, University of Lausanne
 
 <hr>
 
@@ -9,9 +10,7 @@
 
 <hr>
 
-<p align="center">
 Table of contents |  Download the PDF 
-</p>
 
 <iframe src="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" width="620px" height="700px">
 
