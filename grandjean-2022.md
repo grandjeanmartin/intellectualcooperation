@@ -1,6 +1,6 @@
 CONFERENCE PAPER
 
-## Intellectual Cooperation, a Short Historiographical Overview</h2>
+## Intellectual Cooperation, a Short Historiographical Overview
 
 Martin Grandjean, University of Lausanne
 
