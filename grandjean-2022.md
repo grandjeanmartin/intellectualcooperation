@@ -12,7 +12,7 @@ Martin Grandjean, University of Lausanne
 
 #### [Table of contents](url) |  [Download the PDF](url) 
 
-<iframe src="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" width="620px" height="700px">
+<iframe src="files/IntellectualCooperation_2022.pdf" width="620px" height="700px">
 
   
   
