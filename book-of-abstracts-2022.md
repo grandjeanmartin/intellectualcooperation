@@ -16,7 +16,7 @@ Published by the United Nations Library and Archives Geneva and the University o
 
 [Download the full PDF](files/IntellectualCooperation_2022.pdf) or access each paper in the list below.
 
-|  |  | |
+|  |  | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | --- | --- | --- |
 |  | Table of contents | 3 |
 |  | The Centenary of Intellectual Cooperation | 6 |
