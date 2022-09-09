@@ -2,7 +2,10 @@ BOOK OF ABSTRACTS
 
 # Centenary of the International Committee on Intellectual Cooperation of the League of Nations
 
+<br>
+
 <a href="files/IntellectualCooperation_2022.pdf"><img src="images/IntellectualCooperation_2022_cover.png" width="200" style="border:1px solid black; float:right" hspace="30" vspace="10"></a>
+
 
 Edited by Martin Grandjean
 
@@ -18,7 +21,7 @@ Published by the United Nations Library and Archives Geneva and the University o
 
 |  |  | |
 | --- | --- | --- |
-|  | Table of contents | 3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|  | Table of contents | 3 |
 |  | The Centenary of Intellectual Cooperation | 6 |
 | Martin Grandjean | [Intellectual Cooperation, a Short Historiographical Overview](/grandjean-2022) | 7-12 |
 | Charlotte Faucher | [European cultural diplomacies and the International Committee on Intellectual Cooperation (ICIC)](/faucher-2022) | 13-14 |
