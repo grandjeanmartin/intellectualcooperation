@@ -2,7 +2,7 @@ BOOK OF ABSTRACTS
 
 # Centenary of the International Committee on Intellectual Cooperation of the League of Nations
 
-<a href="files/IntellectualCooperation_2022.pdf"><img src="images/IntellectualCooperation_2022_cover.png" width="200" style="float:right" hspace="30" vspace="10"></a>
+<a href="files/IntellectualCooperation_2022.pdf"><img src="images/IntellectualCooperation_2022_cover.png" width="200" style="border:1px solid black; float:right" hspace="30" vspace="10"></a>
 
 Edited by Martin Grandjean
 
