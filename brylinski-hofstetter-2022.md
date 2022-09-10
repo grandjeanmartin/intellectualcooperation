@@ -12,9 +12,9 @@ Rita Hofstetter, University of Geneva, Switzerland
 
 <hr>
 
-#### [Table of contents](url) |  [Download the PDF](url) 
+#### [Table of contents](/book-of-abstracts-2022) |  [Download the PDF](/files/brylinski-hofstetter-2022) 
 
-<iframe src="files/" width="620px" height="700px">
+<iframe src="files/brylinski-hofstetter-2022" width="620px" height="700px">
 
   
   
