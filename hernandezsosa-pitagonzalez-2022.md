@@ -12,9 +12,9 @@ Alexandra Pita Gonzalez, University of Colima, Mexico
 
 <hr>
 
-#### [Table of contents](url) |  [Download the PDF](url) 
+#### [Table of contents](/book-of-abstracts-2022) |  [Download the PDF](/files/hernandezsosa-pitagonzalez-2022.pdf) 
 
-<iframe src="files/" width="620px" height="700px">
+<iframe src="files/hernandezsosa-pitagonzalez-2022.pdf" width="620px" height="700px">
 
   
   
