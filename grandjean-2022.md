@@ -10,9 +10,9 @@ Martin Grandjean, University of Lausanne, Switzerland
 
 <hr>
 
-#### [Table of contents](url) |  [Download the PDF](url) 
+#### [Table of contents](/book-of-abstracts-2022) |  [Download the PDF](/files/grandjean-2022.pdf) 
 
-<iframe src="files/IntellectualCooperation_2022.pdf" width="620px" height="700px">
+<iframe src="files/grandjean-2022.pdf" width="620px" height="700px">
 
   
   
