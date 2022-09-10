@@ -10,9 +10,9 @@ Charlotte Faucher, Université Paris 3 Sorbonne Nouvelle, France
 
 <hr>
 
-#### [Table of contents](url) |  [Download the PDF](url) 
+#### [Table of contents](/book-of-abstracts-2022) |  [Download the PDF](/files/faucher-2022.pdf) 
 
-<iframe src="files/" width="620px" height="700px">
+<iframe src="files/faucher-2022.pdf" width="620px" height="700px">
 
   
   
