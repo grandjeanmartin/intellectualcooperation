@@ -10,9 +10,9 @@ Thomas Davies, City, University of London, United Kingdom
 
 <hr>
 
-#### [Table of contents](url) |  [Download the PDF](url) 
+#### [Table of contents](/book-of-abstracts-2022) |  [Download the PDF](/files/davies-2022.pdf) 
 
-<iframe src="files/" width="620px" height="700px">
+<iframe src="files/davies-2022.pdf" width="620px" height="700px">
 
   
   
