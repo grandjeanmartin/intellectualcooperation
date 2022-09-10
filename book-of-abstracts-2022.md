@@ -31,7 +31,7 @@ Published by the United Nations Library and Archives Geneva and the University o
 | Ilaria Scaglia | [A League of Minds with a Heart: Intellectual Cooperation and Emotions in the Interwar Period and Beyond](/scaglia-2022) | 22-23 |
 | Johannes Feichtinger | [Central Europe and The Making of Intellectual Cooperation](/feichtinger-2022) | 24-26 |
 | Anastassiya Schacht | [Scholars amidst borders: Soviet representation to the League’s Committee on Intellectual Cooperation as an attempt of cross-ideological cooperation in the interwar Europe](/schacht-2022) | 27-29 |
-| Monika Šipelytė | [ Gabrielle Radziwill: the story of Eastern European princess at the service of Intellectual Cooperation](/radziwill-2022) | 30-31 |
+| Monika Šipelytė | [ Gabrielle Radziwill: the story of Eastern European princess at the service of Intellectual Cooperation](/sipelyte-2022) | 30-31 |
 | Camila Gatica Mizala | [‘Le film, éducateur universel”. The reception of the International Educational Cinematographic Institute in Chile](/gaticamizala-2022) | 32-33 |
 | Annamaria Ducci | [The League of Nations and Cultural Heritage. For an intellectual history of a notion](/ducci-2022) | 34-35 |
 | Christiane Sibille | [« Les relations internationales au point de vue musical » – Music and Intellectual Cooperation](/sibille-2022) | 36 |
