@@ -39,7 +39,7 @@ Published by the United Nations Library and Archives Geneva and the University o
 | Nelva Mildred Hernandez Sosa and Alexandra Pita Gonzalez | [Mexico and the Permanent International Studies Conference. The Sense of the International, 1928-1939](/hernandezsosa-pitagonzalez-2022) | 45 |
 | Arnab Dutta | [Towards the Invention of a Common Language of Science: The League of Nations’ Committee for Intellectual Cooperation and the Colonial Question in British India](/dutta-2022) | 46-48 |
 | Takashi Saikawa | [Nationalism and Internationalism in Intellectual Co-operation: Aikitsu Tanakadate and the Romanization of Japanese Language](/saikawa-2022) | 49 |
-| Jennifer Chang | [Beyond Representation: The Bibliothèque Sino-Internationale and the International Committee on Intellectual Cooperation, 1933-1939](/chang-2022) | 50-51 |
+| Jennifer Chang | [The Bibliothèque Sino-Internationale and the International Committee on Intellectual Cooperation, 1933-1939](/chang-2022) | 50-51 |
 | Emeline Brylinski and Rita Hofstetter | [Education and childhood, a coveted field. The International Bureau of Education, an intergovernmental body seized in its relational network](/brylinski-hofstetter-2022) | 52-54 |
 | Kaiyi Li | [Teaching about the League of Nations: An attempt of cultivating international consensus during the interwar period](/li-2022) | 55-56 |
 | Xavier Riondet | [How to guide and justify the work of the Intellectual Cooperation on textbooks? About the constitution and the action of the Committee of Experts de 1931](/riondet-2022) | 57-58 |
