@@ -17,6 +17,8 @@ Published by the United Nations Library and Archives Geneva and the University o
 
 <hr>
 
+<img src="images/Open-Access-logo.jpg" width="60" style="float:left">
+
 [Download the full PDF](files/IntellectualCooperation_2022.pdf) or access each paper in the list below.
 
 |  |  | |
