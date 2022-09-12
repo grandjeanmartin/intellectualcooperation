@@ -11,13 +11,13 @@ Edited by Martin Grandjean
 
 Published by the United Nations Library and Archives Geneva and the University of Lausanne
 
+<img src="images/Open-Access-logo.jpg" width="60">
+
 <hr>
 
 <small>Grandjean, M. (ed). _Centenary of the International Committee on Intellectual Cooperation of the League of Nations_. Geneva, 2022, 94 pages.</small>
 
 <hr>
-
-<img src="images/Open-Access-logo.jpg" width="60">
 
 [Download the full PDF](files/IntellectualCooperation_2022.pdf) or access each paper in the list below.
 
