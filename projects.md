@@ -33,6 +33,17 @@ Swiss National Science Foundation 194909
 
 ---
 
+### Autour de la conférence sur le désarmement (1932-33) : les aspirations transnationales en faveur d’un désarmement moral dans le cadre de la SDN et de l’IICI (années 1930)
+**Chloé Maurel** 
+
+Pensée et élaborée dès 1926, dans le contexte des aspirations pacifistes des Européens dans l’entre-deux-guerres, la « Conférence pour la réduction et la limitation des armements » de 1932-1934 a été organisée par la Société des Nations (SDN) en collaboration avec les Etats-Unis et l’URSS, Elle s’est tenue à Genève en public et a été présidée par l’homme politique britannique Arthur Henderson. Elle a été marquée notamment par la proposition de l’URSS d’effectuer un désarmement général, et par le départ du Japon en mars 1933 et de l’Allemagne nazie en octobre 1933. Plus de 60 pays ont néanmoins participé à cette conférence, c’est-à-dire l’essentiel des pays existant à cette époque. Les Etats-Unis ont aussi participé, proposant un plan original, distinguant les armes « offensives » et « défensives », et préconisant l’interdiction des armes offensives. Avec le retrait de l’Allemagne et du Japon, beaucoup d’observateurs ont jugé que la conférence du désarmement était vouée à l’échec. Cependant, l’analyse de sources nouvelles permet d’élargir la perspective en étudiant l’ensemble des efforts en vue d’un « désarmement moral » menés dans le cadre de l’Institut international de coopération intellectuelle (IICI) durant les années 1930. 
+
+L’analyse de publications de l’époque (voir références), et de documents d’archives de l’IICI, permet d’apporter des nouveaux éléments sur cette histoire, et de retracer les différents efforts en vue du désarmement moral menés, de manière transnationale, dans les années 1930. Ainsi, le rapport du Directeur de la CICI en 1933, récapitule les efforts menés et montre que cela illustre l’aspiration à la compréhension internationale . Ce qui est remarquable aussi est la participation d’étudiants de différents pays à des réflexions en vue d’un désarmement moral. Les représentants des organisations internationales d’étudiants se sont réunis en conférence de 1931 à 1933 pour contribuer à cet objectif pacifiste . Enfin, l’IICI et plus largement la SDN ont suscité un échange transnational de conférenciers sur la question du désarmement durant ces années, au cœur des périls et des tensions internationales de l’entre-deux-guerres . 
+
+Ainsi, ce projet de recherche, qui s’inscrit dans le champ de l’histoire transnationale et de l’histoire des organisations internationales, vise à s’interroger sur les circulations intellectuelles qui se sont déployées dans l’Europe et le monde de l’entre-deux-guerres au moyen de l’IICI et de la SDN, permettant ainsi une pacification des esprits, notamment des jeunes, dans un contexte marqué par la montée des périls et des totalitarismes. Cet effort sera repris au lendemain de la Seconde Guerre mondiale par l’ONU et l’Unesco et aboutira à plusieurs traités et des conférences, dont il est intéressant de retracer la généalogie sur le temps long du XXe siècle. 
+
+---
+
 ## Past projects
 
 ---
