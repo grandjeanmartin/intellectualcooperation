@@ -15,7 +15,7 @@ Access to this bibliography is public and does not require to have a Zotero acco
 ## Recent publications on Intellectual cooperation
 
 Items published since 2010. For older publications, links, DOI and other classification criteria, [use the Zotero library](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). 
-> Last update: May 2022
+> Last update: 1 May 2023
 
 ### 2023
 * **Caccia Gherardini, Susanna**. ‘Patrimoine Collectif Des Nations/Patrimoine Commun de l’Humanité. At the Origins of the Debate on the Conservation of World Heritage’. Restauro Archeologico, 2022, 30–35.
