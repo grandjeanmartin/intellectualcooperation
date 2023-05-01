@@ -4,7 +4,7 @@
 
 ## A shared bibliography
 
-The shared bibliography on Intellectual Cooperation currently contains already **320 items** (more than 160 publications since 2010). [You can access it here](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). Due to the important publishing activity around the League of Nations or the history of international relations, this bibliography contains only those publications which deal directly with the International Committee on Intellectual Cooperation or the International Institute of Intellectual Cooperation.
+The shared bibliography on Intellectual Cooperation currently contains already **350 items** (more than 200 publications since 2010). [You can access it here](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). Due to the important publishing activity around the League of Nations or the history of international relations, this bibliography contains only those publications which deal directly with the International Committee on Intellectual Cooperation or the International Institute of Intellectual Cooperation.
 
 [<img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/ZoteroGroupIntellectualCooperation.png">](https://www.zotero.org/groups/2817289/intellectual_cooperation/library)
 
@@ -17,15 +17,31 @@ Access to this bibliography is public and does not require to have a Zotero acco
 Items published since 2010. For older publications, links, DOI and other classification criteria, [use the Zotero library](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). 
 > Last update: May 2022
 
+### 2023
+* **Caccia Gherardini, Susanna**. ‘Patrimoine Collectif Des Nations/Patrimoine Commun de l’Humanité. At the Origins of the Debate on the Conservation of World Heritage’. Restauro Archeologico, 2022, 30–35.
+* **Carbó-Catalan, Elisabet**. ‘[Literary Translation: Between Intellectual Cooperation and Cultural Diplomacy: The Ibero-American Collection (1930-1940)](https://doi.org/10.1075/tris.22004.car)’. Translation in Society, 2023.
+* **Grandjean, Martin**. ‘[The International Bureaux and Intellectual Cooperation Section](https://serval.unil.ch/notice/serval:BIB_5A8CC377D4BE)’. In League of Nations Secretariat Research Guide, 2023.
+
 ### 2022
 * **Carbó-Catalan, Elisabet**. ‘Foreign Catalan Projection. An Overview of the Catalan Case’. Comparative Literature Studies, 2022.
 * **Carbó-Catalan, Elisabet**, and **Reine Meylaerts**. ‘Translation Policies in the Long Durée. From the International Institute of Intellectual Cooperation to UNESCO’. In Global Literary Studies: Key Concepts, edited by Diana Roig-Sanz and Neus Rotger. Berlin: De Gruyter, 2022.
-* **Carbó-Catalan, Elisabet**, and **Diana Roig-Sanz**. Culture as Soft Power. Bridging Cultural Relations, Intellectual Cooperation and Cultural Diplomacy. Berlin: De Gruyter, 2022.
+* **Carbó-Catalan, Elisabet**, and **Diana Roig-Sanz**. [Culture as Soft Power. Bridging Cultural Relations, Intellectual Cooperation and Cultural Diplomacy](https://doi.org/10.1515/9783110744552). Berlin: De Gruyter, 2022.
 * **Dumont, Juliette**. ‘[Pan-American Intellectual Cooperation. Emergence, Institutionalization, and Fields of Action](https://doi.org/10.4324/9781003252672-5)’. In The New Pan-Americanism and the Structuring of Inter-American Relations, edited by Juan Pablo Scarfi and David M. K. Sheinin. Routledge, 2022.
+* **Dumont, Juliette**. ‘[Chilean Cultural Diplomacy and Cultural Internationalisms: An Entangled History (1927–1940s)](https://doi.org/10.1515/9783110744552-005)’. In Culture as Soft Power. Bridging Cultural Relations, Intellectual Cooperation, and Cultural Diploma, edited by Elisabet Carbó-Catalan and Diana Roig-Sanz, 99–120. Berlin: De Gruyter, 2022.
+* **Garbisu, Margarita**. ‘[The Europäische Revue and the European Cultural Union: Culture and Soft Power in the Interwar Period](https://doi.org/10.1515/9783110744552-010)’. In Culture as Soft Power Bridging Cultural Relations, Intellectual Cooperation, and Cultural Diplomacy, edited by Elisabet Carbó-Catalan and Diana Roig-Sanz, 217–32. Berlin: De Gruyter, 2022.
 * **Grandjean, Martin**. ‘[The Paris/Geneva Divide. A Network Analysis of the Archives of the International Committee on Intellectual Cooperation of the League of Nations](https://halshs.archives-ouvertes.fr/halshs-03760539/)’. In Culture as Soft Power. Bridging Cultural Relations, Intellectual Cooperation, and Cultural Diplomacy, edited by Elisabet Carbó-Catalan and Diana Roig-Sanz. Berlin: De Gruyter, 2022, 65-98.
+* **González, Alexandra Pita**. ‘[De París a La Habana: el Centro Internacional (americano) de Cooperación Intelectual](https://doi.org/10.22201/iih.24485004e.2022.1e.77713)’. Estudios de Historia Moderna y Contemporánea de México, no. 1 (25 August 2022): 135–60.
+* **Humphreys, Adam**. ‘[Articulating Britishness: Cultural Mediators and the Development of the British Institute of Florence](https://doi.org/10.1515/9783110744552-008)’. In Culture as Soft Power Bridging Cultural Relations, Intellectual Cooperation, and Cultural Diplomacy, edited by Elisabet Carbó-Catalan and Diana Roig-Sanz, 169–90. Berlin: De Gruyter, 2022.
+* **Maurel, Chloé**. ‘[1932, La Conférence Sur Le Désarmement](https://www.humanite.fr/histoire/paix/1932-la-conference-sur-le-desarmement-765607)’. L’Humanité, 29 September 2022.
+* **Mizala, Camila Gatica**. ‘[Cinema and Education: Translating the International Educational Cinematographic Institute to 1930s Chile](https://doi.org/10.1515/9783110744552-007)’. In Culture as Soft Power Bridging Cultural Relations, Intellectual Cooperation, and Cultural Diplomacy, edited by Elisabet Carbó-Catalan and Diana Roig-Sanz, 147–68. Berlin: De Gruyter, 2022.
 * **Navascués, Santiago de**. ‘[El fermento y la masa. discusiones frustradas en torno al espíritu europeo en el Instituto Internacional de Cooperación Intelectual (1933-1936)](https://doi.org/10.18042/hp.2022.AL.03)’. Historia y Politica, 2022, 1–24.
+* **Pita, Alexandra**. ‘[Peace? Debates on Intellectual Cooperation in America. Santiago, 1939](https://doi.org/10.1515/9783110744552-006)’. In Culture as Soft Power Bridging Cultural Relations, Intellectual Cooperation, and Cultural Diplomacy, edited by Elisabet Carbó-Catalan and Diana Roig-Sanz, 121–46. Berlin: De Gruyter, 2022.
+* **Simone, Giulia**. ‘[“A League of Minds”? Uses and Abuses of the League of Nations’ Internationalism by Fascist Italy](https://doi.org/10.1080/1354571X.2022.2148399)’. Journal of Modern Italian Studies, 2022, 1–19.
 * **Stöckmann, Jan**. [The Architects of International Relations: Building a Discipline, Designing the World, 1914-1940](https://www.cambridge.org/core/books/architects-of-international-relations/C6E07BAF508290BC87A8E551B02D6D90). Cambridge University Press, 2022.
+* **Stöckmann, Jan**. ‘[Peace in the Minds of Men and Women](https://doi.org/10.1017/9781009053341.004)’. In The Architects of International Relations: Building a Discipline, Designing the World, 1914-1940, 119–60. Cambridge University Press, 2022.
+* **Trötschel-Daniels, Bianka**. ‘[Cultural Diplomacy and Cultural Heritage: Envisioned, Refused, Denied, Accomplished (1889–1969)](https://doi.org/10.1515/9783110744552-013)’. In Culture as Soft Power Bridging Cultural Relations, Intellectual Cooperation, and Cultural Diplomacy, edited by Elisabet Carbó-Catalan and Diana Roig-Sanz, 269–96. Berlin: De Gruyter, 2022.
 * **Voges, Jonathan**. ‘[Scientific Internationalism in a Time of Crisis. The Month of Intellectual Cooperation at the 1937 Paris World Fair](https://doi.org/10.5040/9781350254831.0014)’. In Placing Internationalism: International Conferences and the Making of the Modern World, edited by Stephen Legg, Mike Heffernan, Jake Hodder, and Benjamin Thorpe, 104–17. Bloomsbury Academic, 2022.
+* **Voges, Jonathan**. ‘“Erziehung Im Sinner Der Völkerversöhnung”. Der Völkerbund Als Gegenstand Des Geschichtsunterrichts in Der Weimarer Republik’. In Bildung Und Demokratie in Der Weimarer Republik, edited by Andreas Braune, Sebastian Elsbach, and Ronny Noak, 165–80. Stuttgart: Franz Steiner Verlag, 2022.
 
 #### --2022 sub-category: Conference papers of the Centenary
 
@@ -69,6 +85,7 @@ Items published since 2010. For older publications, links, DOI and other classif
 * **Voges, Jonathan**. ‘[The International Institute for Intellectual Co-Operation at the World Fair 1937 in Paris: Profiling Internationalism in a “Hyper-Nationalistic” Context?](https://doi.org/10.1163/9789004500327_015)’ In World Fairs and the Global Moulding of National Identities, edited by Joep Leerssen and Eric Storm, 356–74. Brill, 2021.
 
 ### 2020
+* **Cattani, Paola**. ‘Ecrivains Ou Diplomates? Hommes de Lettres et Construction Discursive de l’identité Européenne à La Société Des  Nations’. In Du Singulier Au Collectif: Construction(s) Discursive(s) de l’identité Collective Dans Les Débats Publics, edited by Paola Paissa and Roselyne Koren, 163–75. Limoges: Editions  Lambert-Lucas, 2020.
 * **De-Navascués-Martínez, Santiago**. ‘[La trayectoria política e intelectual de Salvador de Madariaga](https://dadun.unav.edu/handle/10171/59717)’, 2020.
 * **Feichtinger, Johannes**. ‘[On the Fraught Internationalism of Intellectuals: Alfons Dopsch, Austria, and the League’s Intellectual Cooperation Programme](https://doi.org/10.1093/oso/9780198854685.003.0008)’. In Remaking Central Europe: The League of Nations and the Former Habsburg Lands, edited by Peter Becker and Natasha Wheatley. Oxford: Oxford University Press, 2020.
 * **Fólica, Laura**, and **Ventsislav Ikoff**. ‘Between the Local and the International: Enrique Gómez Carrillo and Antonio Aita at the International Institute of Intellectual Cooperation’. In Cultural Organizations, Networks and Mediators in Contemporary Ibero-America. Routledge, 2020.
@@ -93,6 +110,7 @@ Items published since 2010. For older publications, links, DOI and other classif
 * **Vuljevic, Suzana**. ‘[The Crisis of Spirit: Pan-Balkan Idealism, Transnational Cultural-Diplomatic Networks and Intellectual Cooperation in Interwar Southeast Europe, 1930–1941](https://www.proquest.com/docview/2406954536/abstract/C2EF9CDCD7D54519PQ/1)’. Ph.D., 2020.
 
 ### 2019
+* **Cattani, Paola**. ‘Paul Valéry et La Société Des Esprits: Un Idéaliste Réaliste à La Société Des Nations’. In Paul Valéry et La Méditerranée, 263–87. Saint Clément de rivière: Fata Morgana, 2019.
 * **Galvez-Behar, Gabriel**. ‘[L’impossible institutionnalisation de la propriété scientifique, 1919-1939](https://doi.org/10.4000/books.septentrion.35497)’, 2019.
 * **García, Itzel Toledo**. ‘[Alfonso Reyes, Genaro Estrada y Jean Périer: el fortalecimiento de los lazos intelectuales entre México y Francia (1924-1928)](https://doi.org/10.31911/bagn.2019.9.3.272)’. Boletín del Archivo General de la Nación 9, no. 03 (1 November 2019): 72–95.
 * **Grandjean, Martin**, and **Marco Van Leeuwen**. ‘[Mapping Internationalism: Congresses and Organisations in the Nineteenth and Twentieth Centuries](https://halshs.archives-ouvertes.fr/halshs-01857353v1)’. In International Organizations and Global Civil Society: Histories of the Union of International Associations, edited by Daniel Laqua, Wouter Van Acker, and Christophe Verbruggen, 225–42. London: Bloomsbury, 2019.
@@ -106,6 +124,7 @@ Items published since 2010. For older publications, links, DOI and other classif
 * **Voges, Jonathan**. ‘[Eine Internationale Der „Geistesarbeiter“? Institutionalisierte Intellektuelle Zusammenarbeit Im Rahmen Des Völkerbundes](https://doi.org/10.5771/9783748901501-355)’. In Grenzüberschreitende Institutionalisierte Zusammenarbeit von Der Antike Bis Zur Gegenwart, edited by Christian Henrich-Franke, Claudia Hiepel, Guido Thiemeyer, and Henning Türk, 355–84. Nomos, 2019.
 
 ### 2018
+* **Cattani, Paola**. ‘Polémiques et “Indénonçables”: Le Débat Sur l’Europe à La Société Des Nations Pendant l’entre-Deux-Guerres’. Le Discours et La Langue, no. 10.1 (2018): 41–56.
 * **Chagnon, Marie-Eve**, and **Tomás Irish**. ‘[Introduction: The Academic World in the Era of the Great War](https://doi.org/10.1057/978-1-349-95266-3_1)’. In The Academic World in the Era of the Great War, edited by Marie-Eve Chagnon and Tomás Irish, 1–18. London: Palgrave Macmillan UK, 2018.
 * **Hartmann, Maj Antonie**. ‘[The Exchange of Educational Publications in the 1920s and New Forms of Cooperation Between Publishers and the State](https://lirias.kuleuven.be/1988271)’. Tokyo, 2018.
 * **Goodman, Joyce**. ‘["Shaping the Mentality of Races and Especially of Young People”: The League of Nations and the Educational Cinematography Congress, 1934](https://winchester.elsevierpure.com/en/publications/shaping-the-mentality-of-races-and-especially-of-young-people-the)’. League of Nations: Histories, Legacies and Impact, 16 July 2018, 197–213.
@@ -121,6 +140,7 @@ Items published since 2010. For older publications, links, DOI and other classif
 
 
 ### 2017
+* **Cattani, Paola**. ‘[Europe as a Nation? Intellectuals and Debate on Europe in the Inter-War Period](https://doi.org/10.1080/01916599.2016.1202126)’. History of European Ideas 43, no. 6 (18 August 2017): 674–82.
 * **Goto-Shibata, Harumi**. ‘[Britain, the League of Nations and Russian Women Refugees in China in the Interwar Period](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315889603-5/britain-league-nations-russian-women-refugees-china-interwar-period-harumi-goto-shibata)’. In Britain’s Retreat from Empire in East Asia, 1905–1980, edited by Anthony Best. Routledge, 2017.
 * **Grandjean, Martin**. ‘[Analisi e Visualizzazioni Delle Reti in Storia. L’esempio Della Cooperazione Intellettuale Della Societa Delle Nazioni](https://serval.unil.ch/resource/serval:BIB_2BAC4C3B55A4.P001/REF)’. Memoria e Ricerca 55, no. 2 (2017): 371–93.
 * **Laqua, Daniel**. ‘[Activism in the ‘Students’ League of Nations’: International Student Politics and the Confédération Internationale des Étudiants, 1919–1939](https://doi.org/10.1093/ehr/cex153)’. The English Historical Review 132, no. 556 (2017): 605–37.
@@ -142,6 +162,7 @@ Items published since 2010. For older publications, links, DOI and other classif
 
 ### 2015
 * **Brzeziński, Andrzej M.** ‘Organizacja i Formy Międzynarodowej Współpracy Intelektualnej w Ramach Ligi Narodów(1922-1939)’. Przegląd Zachodni 356, no. 03 (2015): 7–24.
+* **Cattani, Paola**. ‘[« L’Avenir de la culture » : polémique et contre-discours dans les débats des écrivains de l’entre-deux-guerres](https://doi.org/10.4000/aad.2029)’. Argumentation et Analyse du Discours, no. 15 (19 September 2015): 1–17.
 * **Ducci, Annamaria**. ‘[Le musée d’art populaire contre le folklore. L’Institut International de Coopération Intellectuelle à l’époque du Congrès de Prague](http://journals.openedition.org/rgi/1525)’. Revue germanique internationale, no. 21 (2015): 133–48.
 * **Dumont, Juliette**. ‘[Latin America at the Crossroads : The Inter-American Institute of Intellectual Cooperation, the League of Nations and the Pan American Union](https://halshs.archives-ouvertes.fr/halshs-01455439)’. In Beyond Geopolitics: New Histories of Latin America at the League of Nations, 155–67. University of New Mexico Press, 2015.
 * **Hofstetter, Rita**. ‘[Building an “International Code for Public Education”: Behind the Scenes at the International Bureau of Education (1925–1946)](https://doi.org/10.1007/s11125-015-9336-3)’. PROSPECTS 45, no. 1 (2015): 31–48.
@@ -149,6 +170,7 @@ Items published since 2010. For older publications, links, DOI and other classif
 * **Irish, Tomás**. The University at War, 1914-25: Britain, France, and the United States. Springer, 2015.
 * **Millet, Lauriane**. ‘[“Esprit Japonais” et Prémices Du Multiculturalisme: Le Japon et l’Organisation de Coopération Intellectuelle Dans l’entre-Deux-Guerres](https://www.cairn.info/revue-relations-internationales-2015-2-page-31.htm?ref=doi)’. Relations Internationales 162, no. 3 (2015): 31–44.
 * **Papadaki, Marilena**. ‘[L’action des juristes internationalistes au service de la paix internationale à la fin du xixe siècle : le cas de Nicolas Politis (1872-1942)](https://doi.org/10.4000/cdlm.8051)’. Cahiers de la Méditerranée, no. 91 (1 December 2015): 21–31.
+* **Pernet, Corinne**. ‘“The Spirit of Harmony” and the Politics of (Latin American) History at the League of Nations’. In Beyond Geopolitics: Latin America at the League of Nations, edited by Alan McPherson and Yannick Wehrli, 135–53. Mexico: University of Mexico Press, 2015.
 * **Pita, Alexandra Cristina**. ‘[Jaime Torres Bodet and the Intellectual/International Cooperation of Postwar](http://www.journals.univ-danubius.ro/index.php/internationalis/article/view/3120)’. Acta Universitatis Danubius. Relationes Internationales 8, no. 2 (2015).
 * **Popa, Anisoara**. ‘[Culture and Cooperation during the Interwar Period](http://www.proceedings.univ-danubius.ro/index.php/eirp/article/view/1659)’. EIRP Proceedings 10 (2015).
 * **Scaglia, Ilaria**. ‘The Aesthetics of Internationalism: Culture and Politics on Display at the 1935-1936 International Exhibition of  Chinese Art’. Journal of World History 26, no. 1 (2015): 105–37.
@@ -176,6 +198,7 @@ Items published since 2010. For older publications, links, DOI and other classif
 * **Kott, Christina**. ‘[The German Museum Curators and the International Museums Office, 1926–1937](https://doi.org/10.1515/9783110298826.205)’. In The German Museum Curators and the International Museums Office, 1926–1937, 205–18. De Gruyter, 2013.
 * **Resende, José Armando Zema de**. ‘[A cooperação intelectual internacional da Sociedade das Nações e o Brasil (1922-1938): dinâmicas de um processo](http://repositorio.unb.br/handle/10482/14343)’. Universidade de Brasília, 2013.
 * **Roig Sanz, Diana**. ‘Dues Fites En La Collaboracio Catalana a l’IICI, La UNESCO i El PEN Club Internacional (1927 i  1959)’. In Lectures Dels Anys Cinquanta, edited by Enric Gallen and José Francisco Ruiz Casanova, 155–89. Lleida: Punctum, 2013.
+* **Roldán, Jesús Manuel Bermejo**. ‘[Virgínia de Castro e Almeida and Women’s Presence in International Cooperation during the Interwar Period](https://doi.org/10.1080/09612025.2023.2204235)’. Women’s History Review, 23 April 2023, 1–18.
 * **Tronchet, Guillaume**. [Diplomatie universitaire ou diplomatie culturelle ? La Cité internationale universitaire de Paris entre deux rives (1920-1940)](https://halshs.archives-ouvertes.fr/halshs-01366503/document). Presses universitaires de Rennes, 2013.
 
 ### 2012
