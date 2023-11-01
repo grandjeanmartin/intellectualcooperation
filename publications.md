@@ -15,7 +15,7 @@ Access to this bibliography is public and does not require to have a Zotero acco
 ## Recent publications on Intellectual cooperation
 
 Items published since 2010. For older publications, links, DOI and other classification criteria, [use the Zotero library](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). 
-> Last update: 1 May 2023
+> Last update: 1 November 2023
 
 ### 2023
 * **Bermejo Roldán, Jesús Manuel**. ‘[Nationalist Interests in the Intellectual Cooperation Work of the League of Nations: The Case of Portugal](https://doi.org/10.1177/00220094231195773)’. Journal of Contemporary History, 30 August 2023, 00220094231195773.
