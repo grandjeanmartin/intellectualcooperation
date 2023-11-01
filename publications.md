@@ -27,7 +27,7 @@ Items published since 2010. For older publications, links, DOI and other classif
 * **Irish, Tomás**. Feeding the Mind: Humanitarianism and the Reconstruction of European Intellectual Life, 1919–1933. Cambridge University Press, 2023.
 * **Li, Kaiyi**, and **Huimei Zhou**. ‘[The International Committee on Intellectual Cooperation and Chinese Cultural Diplomacy during the Interwar Period](https://doi.org/10.1080/07075332.2023.2260386)’. The International History Review, 2023, 1–18.
 * **Lor, Peter Johan**. ‘[IFLA in the International Arena before the Second World War: Evidence from the Actes Du Comité International Des Bibliothèques, and the Digitized League of Nations Archives](https://repository.ifla.org/handle/123456789/2811)’. Mons: International Federation of Library Associations and Institutions (IFLA), 2023.
-* **Schläpfer, Anne-Frédérique**. ‘L’histoire Littéraire Au Prisme Des Institutions Internationales’. Colloquium Helveticum, no. 52 (2023): 101–16.
+* **Schläpfer, Anne-Frédérique**. ‘L’histoire littéraire au prisme des institutions internationales’. Colloquium Helveticum, no. 52 (2023): 101–16.
 
 ### 2022
 * **Carbó-Catalan, Elisabet**. ‘Foreign Catalan Projection. An Overview of the Catalan Case’. Comparative Literature Studies, 2022.
@@ -43,7 +43,7 @@ Items published since 2010. For older publications, links, DOI and other classif
 * **Mizala, Camila Gatica**. ‘[Cinema and Education: Translating the International Educational Cinematographic Institute to 1930s Chile](https://doi.org/10.1515/9783110744552-007)’. In Culture as Soft Power Bridging Cultural Relations, Intellectual Cooperation, and Cultural Diplomacy, edited by Elisabet Carbó-Catalan and Diana Roig-Sanz, 147–68. Berlin: De Gruyter, 2022.
 * **Navascués, Santiago de**. ‘[El fermento y la masa. discusiones frustradas en torno al espíritu europeo en el Instituto Internacional de Cooperación Intelectual (1933-1936)](https://doi.org/10.18042/hp.2022.AL.03)’. Historia y Politica, 2022, 1–24.
 * **Pita, Alexandra**. ‘[Peace? Debates on Intellectual Cooperation in America. Santiago, 1939](https://doi.org/10.1515/9783110744552-006)’. In Culture as Soft Power Bridging Cultural Relations, Intellectual Cooperation, and Cultural Diplomacy, edited by Elisabet Carbó-Catalan and Diana Roig-Sanz, 121–46. Berlin: De Gruyter, 2022.
-* **Schläpfer, Anne-Frédérique**. ‘La Collection Ibéro-Américaine de l’Institut International de Coopération Intellectuelle (1930-1939). Un Exemple de Glocalisation’. Colloquium Helveticum, no. 51 (2022): 101–12.
+* **Schläpfer, Anne-Frédérique**. ‘La Collection ibéro-américaine de l’institut international de coopération intellectuelle (1930-1939). Un exemple de glocalisation’. Colloquium Helveticum, no. 51 (2022): 101–12.
 * **Simone, Giulia**. ‘[“A League of Minds”? Uses and Abuses of the League of Nations’ Internationalism by Fascist Italy](https://doi.org/10.1080/1354571X.2022.2148399)’. Journal of Modern Italian Studies, 2022, 1–19.
 * **Stöckmann, Jan**. [The Architects of International Relations: Building a Discipline, Designing the World, 1914-1940](https://www.cambridge.org/core/books/architects-of-international-relations/C6E07BAF508290BC87A8E551B02D6D90). Cambridge University Press, 2022.
 * **Stöckmann, Jan**. ‘[Peace in the Minds of Men and Women](https://doi.org/10.1017/9781009053341.004)’. In The Architects of International Relations: Building a Discipline, Designing the World, 1914-1940, 119–60. Cambridge University Press, 2022.
