@@ -8,7 +8,7 @@ EDITED VOLUME ON INTELLECTUAL COOPERATION
 <a href=""><img src="images/intellectualcooperationattheleagueofnations2025.png" width="200" style="border:1px solid black; float:right" hspace="30" vspace="10"></a>
 
 
-Edited by Martin Grandjean and Daniel Laqua
+Edited by **Martin Grandjean** and **Daniel Laqua**
 
 United Nations Historical Series N°5
 
