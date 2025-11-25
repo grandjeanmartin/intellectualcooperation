@@ -8,6 +8,8 @@ But the idea of intellectual cooperation nonetheless inspired the work of bodies
  
 The centenary of the creation of the ICIC is an opportunity for historians to step back and examine the achievements but also the limitations of this enterprise, its lack of diversity and cultural representativeness. In recent years, there has been a renewed interest in this field of research (see bibliography), in parallel with a renewed interest in the League of Nations as a whole, in a context of doubts about the capacity of multilateral institutions. Without attempting to cover all the areas that remain to be studied in relation to intellectual cooperation and soft power diplomacy in the interwar period, such an event therefore seems to be a useful place of exchange at the crossroads between the archives, teaching and research communities. To do this, the scientific committee invites participants to reflect in particular on the renewal of our methods: whether it is about new approaches or the use of innovative digital tools, the aim of this conference is not only to look at the past but also to inspire future research. 
 
+---
+
 ## Program
 
 ### Thursday May 12 2022
