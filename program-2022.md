@@ -1,8 +1,16 @@
-# Conference program
+# Conference presentation and program
 
-All times are in Geneva time (Central European Summer Time, UTC+2)
+## The Centenary of Intellectual Cooperation
 
-## Thursday May 12 2022
+On August 1, 1922, on the shores of Lake Geneva, the International Committee on Intellectual Cooperation (ICIC) met for the first time in what would later become the "Palais Wilson". Although this was the first time that these twelve international personalities from the sciences and arts, including Henri Bergson, Kristine Bonnevie, Marie Curie-Sklodowska, Albert Einstein, Gilbert Murray, Jules Destrée and George E. Hale, came together, the idea of creating such a coordinating body for intellectual matters predates the founding of the League of Nations and has its origins in the internationalist movements of the late 19th century. What would later be considered by its actors as an attempt to build a "General Republic of Intelligence"  or a "League of the Minds",  was just one element of the vast diplomatic and bureaucratic machine that was set up at the end of the Great War to try to pacify Europe and create a new world order based on multilateral cooperation.
+ 
+But the idea of intellectual cooperation nonetheless inspired the work of bodies and institutions that operated for nearly 20 years, trying to find their place and define their missions in a rapidly changing context. From a consultative committee, it quickly grew to become a real center of activity with the founding of the International Institute of Intellectual Cooperation (IIIC) in Paris in 1926 and other third-party structures like the International Educational Cinematographic Institute (Rome, 1928). Not without generating some tensions with the League of Nations at the turn of the 1930s, this institutionalization led to intellectual cooperation gradually becoming independent from the League’s Secretariat. Although the Second World War interrupted the transformation of the Committee and the Institute into a full-fledged international organisation, UNESCO would resume and expand the activity in this field at the end of the conflict.
+ 
+The centenary of the creation of the ICIC is an opportunity for historians to step back and examine the achievements but also the limitations of this enterprise, its lack of diversity and cultural representativeness. In recent years, there has been a renewed interest in this field of research (see bibliography), in parallel with a renewed interest in the League of Nations as a whole, in a context of doubts about the capacity of multilateral institutions. Without attempting to cover all the areas that remain to be studied in relation to intellectual cooperation and soft power diplomacy in the interwar period, such an event therefore seems to be a useful place of exchange at the crossroads between the archives, teaching and research communities. To do this, the scientific committee invites participants to reflect in particular on the renewal of our methods: whether it is about new approaches or the use of innovative digital tools, the aim of this conference is not only to look at the past but also to inspire future research. 
+
+## Program
+
+### Thursday May 12 2022
 
 |  |  |  |
 | --- | --- | --- |
@@ -36,7 +44,7 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 
 <br/>
 
-## Friday May 13 2022
+### Friday May 13 2022
 
 |  |  |  |
 | --- | --- | --- |
@@ -70,3 +78,40 @@ All times are in Geneva time (Central European Summer Time, UTC+2)
 || Organizers | Conclusion |
 | 17:30 | End of the conference	|
 | | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+---
+
+## Organisation
+
+* **Blandine Blukacz-Louisfert**, United Nations Library and Archives Geneva, Switzerland
+* Dr. **Martin Grandjean**, Swiss National Science Foundation / University of Lausanne, Switzerland
+* **Pierre-Etienne Bourneuf**, United Nations Library and Archives Geneva, Switzerland
+* **Hermine Diebolt**, United Nations Library and Archives Geneva, Switzerland
+* **Colin Wells**, United Nations Library and Archives Geneva, Switzerland
+
+Technical support:
+* **Fabrice Arlot**, United Nations Library and Archives Geneva, Switzerland
+* **Nadia Al Droubi**, United Nations Library and Archives Geneva, Switzerland
+
+---
+
+## Host Institutions
+
+| <a href="https://www.unil.ch/hist/home.html"><img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/UNIL_hist.png" width="150" align="left"> | <a href="https://www.ungeneva.org/en/knowledge/archives"><img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/UNOG_library_archives.jpg" width="170" align="left"> | <a href="http://www.snf.ch/en/Pages/default.aspx"><img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/SwissNationalScienceFoundation2021.png" width="200" align="left"> |
+
+## Scientific Committee
+
+* **Jens Boel**, Independent, formerly UNESCO Archives and Library, France
+* Dr. **Juliette Dumont**, Université Paris 3 Sorbonne Nouvelle, France
+* Prof. **Harumi Goto-Shibata**, University of Tokyo, Japan
+* Prof. **Madeleine Herren-Oesch**, University of Basel, Switzerland
+* Dr. **Tomás Irish**, Swansea University, United Kingdom
+* Prof. **Sandrine Kott**, University of Geneva, New York University, Switzerland
+* Dr. **Daniel Laqua**, Northumbria University Newcastle, United Kingdom
+* Dr. **Adama Pam**, UNESCO Archives and Library, France
+* Prof. **Corinne Pernet**, Zurich University of Teacher Education, Switzerland
+* Dr. **Alexandra Pita González**, Universidad de Colima, México
+* Prof. **Davide Rodogno**, Graduate Institute Geneva, Switzerland
+* Prof. **Diana Roig Sanz**, Universitat Oberta de Catalunya, Spain
+* Prof. **Ludovic Tournès**, University of Geneva, Switzerland
+* Prof. **Sacha Zala**, Diplomatic Documents of Switzerland
