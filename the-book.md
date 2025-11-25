@@ -18,9 +18,9 @@ United Nations Historical Series N°5
 
 <hr>
 
-# | PDF | Print | 
+| PDF | Print | 
 | :------: | :------: | 
-| [Download](https://www.un-ilibrary.org/content/series/25194992) | [Order Print](https://shop.un.org/books/communicating-league-nations-26141)   | 
+| [🖥️ Download](https://www.un-ilibrary.org/content/series/25194992) | [📙 Order Print](https://shop.un.org/books/communicating-league-nations-26141)   | 
 | DOI | ISBN | 
 
 <img src="images/Open-Access-logo.jpg" width="60">
