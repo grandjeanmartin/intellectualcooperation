@@ -1,7 +1,7 @@
 ![International Committee on Intellectual Cooperation](https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/intellectualcooperationconference_large.png)
 # Intellectual Cooperation at the League of Nations
 
-<a href="/the-book"><img src="images/intellectualcooperationattheleagueofnations.png" width="120" style="border:1px solid black; float:right" hspace="30" vspace="10"></a>
+<a href="/the-book"><img src="images/intellectualcooperationattheleagueofnations2025.png" width="120" style="border:1px solid black; float:right" hspace="30" vspace="10"></a>
 
 ## | [Discover the 2025 book](/the-book) | 
 
