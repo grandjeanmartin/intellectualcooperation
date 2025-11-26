@@ -1,1 +1,1 @@
-Conference website located on /gh-pages
+Conference website located on [/gh-pages](https://github.com/grandjeanmartin/intellectualcooperation/tree/gh-pages)
