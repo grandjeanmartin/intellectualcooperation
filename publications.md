@@ -4,7 +4,7 @@
 
 ## A shared bibliography
 
-The shared bibliography on Intellectual Cooperation currently contains already **350 items** (more than 200 publications since 2010). [You can access it here](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). Due to the important publishing activity around the League of Nations or the history of international relations, this bibliography contains only those publications which deal directly with the International Committee on Intellectual Cooperation or the International Institute of Intellectual Cooperation.
+The shared bibliography on Intellectual Cooperation currently contains already more than **400 items** (more than 200 publications since 2010). [You can access it here](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). Due to the important publishing activity around the League of Nations or the history of international relations, this bibliography contains only those publications which deal directly with the International Committee on Intellectual Cooperation or the International Institute of Intellectual Cooperation.
 
 [<img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/ZoteroGroupIntellectualCooperation.png">](https://www.zotero.org/groups/2817289/intellectual_cooperation/library)
 
@@ -16,6 +16,12 @@ Access to this bibliography is public and does not require to have a Zotero acco
 
 Items published since 2010. For older publications, links, DOI and other classification criteria, [use the Zotero library](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). 
 > Last update: 1 November 2023
+
+### 2025
+* **Bensaude-Vincent, Bernadette**, and **Francis Duck**. ‘[Restoring Science and Peace](https://doi.org/10.1007/978-3-031-95260-9_9)’. In Paul Langevin:  Physicist and Social Activist, edited by Bernadette Bensaude-Vincent and Francis Duck. Springer, 2025.
+
+### 2024
+* **Boutier, Jean**. ‘Historians in a World in Crisis (1919–1944)’. In Social Scientists in the Civic Space. Routledge India, 2024.
 
 ### 2023
 * **Bermejo Roldán, Jesús Manuel**. ‘[Nationalist Interests in the Intellectual Cooperation Work of the League of Nations: The Case of Portugal](https://doi.org/10.1177/00220094231195773)’. Journal of Contemporary History, 30 August 2023, 00220094231195773.
@@ -30,6 +36,7 @@ Items published since 2010. For older publications, links, DOI and other classif
 * **Schläpfer, Anne-Frédérique**. ‘L’histoire littéraire au prisme des institutions internationales’. Colloquium Helveticum, no. 52 (2023): 101–16.
 
 ### 2022
+* **Brylinski, Emeline**. ‘[Recommander l’utopie ? Construction d’une Coopération Intergouvernementale Par Le Bureau International d’Éducation Au Milieu Du 20e Siècle](https://archive-ouverte.unige.ch/unige:164046)’. Thèse de doctorat, Université de Genève, 2022
 * **Carbó-Catalan, Elisabet**. ‘Foreign Catalan Projection. An Overview of the Catalan Case’. Comparative Literature Studies, 2022.
 * **Carbó-Catalan, Elisabet**, and **Reine Meylaerts**. ‘Translation Policies in the Long Durée. From the International Institute of Intellectual Cooperation to UNESCO’. In Global Literary Studies: Key Concepts, edited by Diana Roig-Sanz and Neus Rotger. Berlin: De Gruyter, 2022.
 * **Carbó-Catalan, Elisabet**, and **Diana Roig-Sanz**. [Culture as Soft Power. Bridging Cultural Relations, Intellectual Cooperation and Cultural Diplomacy](https://doi.org/10.1515/9783110744552). Berlin: De Gruyter, 2022.
@@ -222,6 +229,7 @@ Items published since 2010. For older publications, links, DOI and other classif
 * **Richard, Anne-Isabelle**. ‘Huizinga, Intellectual Cooperation and the Spirit of Europe, 1933-1945’. In Europe in Crisis, Intellectuals and the European Idea, 1917-1957, edited by Mark Hewitson and Matthew D’Auria, 243–56. New York, Oxford: Berghahn Books, 2012.
 
 ### 2011
+* **Azouvi, François**. ‘Henri Bergson à la Société des Nations’. In La République des Lettres dans la tourmente (1919-1939), edited by Antoine Compagnon. CNRS/Alain Baudry et Cie, 2011.
 * **Bumbaca, Maria Pia**. ‘[Lo spirito e le idee. L’organizzazione della cooperazione intellettuale nella Società delle Nazioni](http://padis.uniroma1.it/handle/10805/2233)’. Doctoral Thesis, Universita di Roma (Sapienza), 2011.
 * **Caillot, Marie**. La Revue Mouseion (1927-1946): Les Musées et La Coopération Culturelle Internationale. 2 vols. Paris: Ecole Nationale des Chartes, 2011.
 * **Grandjean, Martin**. ‘[Les Cours Universitaires de Davos 1928-1931. Au Centre de l’Europe Intellectuelle](https://serval.unil.ch/resource/serval:BIB_S_000000015950.P002/REF)’. Université de Lausanne, 2011.
