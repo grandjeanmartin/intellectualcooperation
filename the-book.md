@@ -20,11 +20,9 @@ United Nations Historical Series N°5
 
 See also: [table of contents with links to the chapters](/book-chapters)
 
-### Access
-
 | 🖥️ PDF | 📙 Print | 
 | :------: | :------: | 
-| [Download](https://www.un-ilibrary.org/content/series/25194992) | [Order Print](https://shop.un.org/books/communicating-league-nations-26141)   | 
+| **[Download](https://www.un-ilibrary.org/content/series/25194992)** | **[Order Print](https://shop.un.org/books/communicating-league-nations-26141)**   | 
 | DOI | ISBN | 
 
 ### Description
