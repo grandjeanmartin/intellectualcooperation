@@ -4,7 +4,7 @@
 
 ## A shared bibliography
 
-The shared bibliography on Intellectual Cooperation currently contains already more than **400 items** (more than 200 publications since 2010). [You can access it here](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). Due to the important publishing activity around the League of Nations or the history of international relations, this bibliography contains only those publications which deal directly with the International Committee on Intellectual Cooperation or the International Institute of Intellectual Cooperation.
+The shared bibliography on Intellectual Cooperation currently contains already more than **400 items** (more than 250 publications since 2010). [You can access it here](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). Due to the important publishing activity around the League of Nations or the history of international relations, this bibliography contains only those publications which deal directly with the International Committee on Intellectual Cooperation or the International Institute of Intellectual Cooperation.
 
 [<img src="https://raw.githubusercontent.com/grandjeanmartin/intellectualcooperation/gh-pages/images/ZoteroGroupIntellectualCooperation.png">](https://www.zotero.org/groups/2817289/intellectual_cooperation/library)
 
@@ -15,7 +15,7 @@ Access to this bibliography is public and does not require to have a Zotero acco
 ## Recent publications on Intellectual cooperation
 
 Items published since 2010. For older publications, links, DOI and other classification criteria, [use the Zotero library](https://www.zotero.org/groups/2817289/intellectual_cooperation/library). 
-> Last update: 1 November 2023
+> Last update: 26 November 2025
 
 ### 2026
 * **Grandjean, Martin**. [La coopération intellectuelle: relations scientifiques et diplomatie culturelle à la Société des Nations (1919-1939)](https://www.alphil.com/accueil/1484-1842-la-cooperation-intellectuelle-.html). Alphil Presses Universitaires Suisses, 2026.
