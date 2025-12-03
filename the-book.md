@@ -31,3 +31,4 @@ The construction of a new global order after the First World War required not on
 
 Edited by Martin Grandjean and Daniel Laqua, this book brings together the research of [17 scholars](/book-chapters), highlighting the breadth of the League’s work in the field of intellectual cooperation and detailing a range of transnational connections across a variety of cultural fields.
 
+<iframe src="files/IntellectualCooperation_2025.pdf" width="620px" height="700px">
