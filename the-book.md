@@ -5,7 +5,7 @@ EDITED VOLUME ON INTELLECTUAL COOPERATION
 
 <br>
 
-<a href=""><img src="images/intellectualcooperationattheleagueofnations2025.png" width="200" style="border:1px solid black; float:right" hspace="30" vspace="10"></a>
+<a href="https://doi.org/10.18356/9789211072808"><img src="images/intellectualcooperationattheleagueofnations2025.png" width="200" style="border:1px solid black; float:right" hspace="30" vspace="10"></a>
 
 
 Edited by **Martin Grandjean** and **Daniel Laqua**
