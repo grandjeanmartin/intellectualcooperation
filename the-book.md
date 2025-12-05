@@ -22,7 +22,7 @@ See also: [table of contents with links to the chapters](/book-chapters)
 
 | 🖥️ Online | 📄 PDF | 📙 Print | 
 | :------: | :------: | :------: | 
-| **[Read online](https://www.un-ilibrary.org/content/books/9789211072808)** | **[Download](https://digitallibrary.un.org/record/4093948?ln=en&v=pdf)** | **Order Print** (available soon)  | 
+| **[Read online](https://www.un-ilibrary.org/content/books/9789211072808)** | **[Download](https://digitallibrary.un.org/record/4093948?ln=en&v=pdf)** | **[Order Print](https://shop.un.org/books/intllectul-coop-league-nations-26839)** (available soon)  | 
 | DOI: [10.18356/9789211072808](https://doi.org/10.18356/9789211072808) | | ISBN: 9789211072808 | 
 
 ### Description
