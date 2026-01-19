@@ -29,7 +29,7 @@ Elisabet Carbó-Catalan is a PhD candidate at Universitat Oberta de Catalunya (S
 
 ### Jennifer Y. Chang
 
-[Jennifer Y. Chang](https://www.mh.sinica.edu.tw/UserDetail.aspx?userID=822&mid=38&tmid=2) is a Postdoctoral Research Fellow at the Institute of Modern History at Academia Sinica in Taipei, Taiwan. She researches the history of modern China, with a focus on visual culture, interwar internationalism, and wartime diplomacy. Jennifer’s theoretical interests include the intellectual, cultural, and political consequences of institutional loss and recovery associated with struggles rooted in regime change and global processes of modernization. Her postdoctoral research topic is _Library as Embassy: Art, Diplomacy, and the Bibliothèque Sino-Internationale, 1933-1993_.
+[Jennifer Y. Chang](https://www.mh.sinica.edu.tw/UserDetail.aspx?userID=822&mid=38&tmid=2) is a Postdoctoral Research Fellow at the Institute of Modern History at Academia Sinica. She researches the history of modern China, with a focus on visual culture, interwar internationalism, and wartime diplomacy. Jennifer’s theoretical interests include the intellectual, cultural, and political consequences of institutional loss and recovery associated with struggles rooted in regime change and global processes of modernization. Her postdoctoral research topic is _Library as Embassy: Art, Diplomacy, and the Bibliothèque Sino-Internationale, 1933-1993_.
 
 Jennifer is the author of _Universe, Power, Hsiao Chin_ (National Taiwan Museum of Fine Arts, 2014) and the forthcoming book _Re-visioning “Little Artists”: Abstraction and Children’s Art Education in Postwar Taiwan_ (Mandarin Daily News, 2022).
 
