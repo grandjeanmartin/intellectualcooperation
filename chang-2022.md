@@ -2,7 +2,7 @@ CONFERENCE PAPER
 
 ## The Bibliothèque Sino-Internationale and the International Committee on Intellectual Cooperation, 1933-1939
 
-Jennifer Y. Chang, Academia Sinica
+Jennifer Y. Chang
 
 <hr>
 
