@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>La coopération intellectuelle</title>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
+
+<style>
+
+/* RESET */
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+font-family: "Helvetica Neue", Arial, sans-serif;
+background:#fafafa;
+color:#222;
+line-height:1.65;
+}
+
+/* CONTENEUR GLOBAL */
+
+.wrapper{
+max-width:1100px;
+margin:0 auto;
+position:relative;
+}
+
+/* MENU FLOTTANT */
+
+nav{
+position:fixed;
+top:80px;
+left:calc(50% - 540px);
+width:180px;
+font-size:0.95em;
+}
+
+nav h3{
+margin-bottom:18px;
+font-weight:600;
+font-size:1em;
+}
+
+nav a{
+display:block;
+margin-bottom:12px;
+text-decoration:none;
+color:#777;
+transition:0.2s;
+}
+
+nav a:hover{
+color:#000;
+}
+
+nav a.active{
+color:#000;
+font-weight:600;
+border-left:2px solid #000;
+padding-left:6px;
+}
+
+/* CONTENU */
+
+main{
+max-width:760px;
+margin-left:auto;
+padding:80px 40px;
+font-size:17px;
+}
+
+/* SECTIONS */
+
+section{
+margin-bottom:120px;
+}
+
+h1{
+font-size:2.3em;
+margin-bottom:25px;
+}
+
+h2{
+font-size:1.6em;
+margin-bottom:30px;
+border-bottom:1px solid #e5e5e5;
+padding-bottom:10px;
+}
+
+/* COUVERTURE */
+
+.cover{
+text-align:center;
+}
+
+.cover img{
+max-width:320px;
+margin:30px 0;
+}
+
+.button{
+display:inline-block;
+padding:11px 20px;
+background:#111;
+color:white;
+text-decoration:none;
+border-radius:4px;
+font-size:0.9em;
+}
+
+/* FIGURES */
+
+figure{
+margin:70px 0;
+}
+
+.viewer{
+width:100%;
+height:520px;
+border:1px solid #ddd;
+}
+
+figcaption{
+margin-top:10px;
+font-size:0.9em;
+color:#666;
+}
+
+
+/* MOBILE */
+
+@media(max-width:1100px){
+
+nav{
+display:none;
+}
+
+main{
+margin:auto;
+padding:50px 20px;
+}
+
+.viewer{
+height:340px;
+}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="wrapper">
+
+<nav>
+
+<h3>Table des matières</h3>
+
+<a href="#livre">Le livre</a>
+<a href="#chap1">Chapitre 1</a>
+<a href="#chap2">Chapitre 2</a>
+<a href="#chap3">Chapitre 3</a>
+
+</nav>
+
+<main>
+
+<section id="livre" class="cover">
+
+<h1>La coopération intellectuelle</h1>
+<h2>Relations scientifiques et diplomatie culturelle à la Société des Nations (1919-1939)</h2>
+
+
+<img src="images/couverture.jpg" alt="Couverture">
+
+<br>
+
+<a class="button" href="https://www.alphil.com/accueil/1484-1842-la-cooperation-intellectuelle-.html">Consulter le livre</a>
+
+<br><br>
+
+<p>Ce site accompagnant l'ouvrage publié en 2026 donne accès à une version interactive du réseau de la coopération intellectuelle ainsi qu'aux illustrations en haute définition.</p>
+
+</section>
+
+
+<section id="chap1">
+
+<h2>Chapitre 1</h2>
+
+<figure>
+
+<div id="viewer1" class="viewer"></div>
+
+<figcaption>
+Figure 1 — Illustration détaillée du chapitre 1.
+</figcaption>
+
+</figure>
+
+<figure>
+
+<div id="viewer2" class="viewer"></div>
+
+<figcaption>
+Figure 2 — Deuxième illustration du chapitre.
+</figcaption>
+
+</figure>
+
+
+</section>
+
+
+<section id="chap2">
+
+<h2>Chapitre 2</h2>
+
+<figure>
+
+<div id="viewer3" class="viewer"></div>
+
+<figcaption>
+Figure 3 — Illustration du chapitre 2.
+</figcaption>
+
+</figure>
+
+
+</section>
+
+
+<section id="chap3">
+
+<h2>Chapitre 3</h2>
+
+<figure>
+
+<div id="viewer4" class="viewer"></div>
+
+<figcaption>
+Figure 4 — Illustration du chapitre 3.
+</figcaption>
+
+</figure>
+
+
+</section>
+
+</main>
+
+</div>
+
+
+<script>
+
+/* ZOOM FIGURES */
+
+function viewer(id,image){
+
+OpenSeadragon({
+
+id:id,
+
+prefixUrl:"https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/",
+
+tileSources:{
+type:"image",
+url:image
+}
+
+})
+
+}
+
+viewer("viewer1","images/ch1_1.jpg")
+viewer("viewer2","images/ch1_2.jpg")
+viewer("viewer3","images/ch2_1.jpg")
+viewer("viewer4","images/ch3_1.jpg")
+
+
+
+/* MENU ACTIF AU SCROLL */
+
+const sections = document.querySelectorAll("main section")
+const navLinks = document.querySelectorAll("nav a")
+
+const observer = new IntersectionObserver(entries => {
+
+entries.forEach(entry => {
+
+if(entry.isIntersecting){
+
+const id = entry.target.getAttribute("id")
+
+navLinks.forEach(link => {
+
+link.classList.remove("active")
+
+if(link.getAttribute("href") === "#" + id){
+link.classList.add("active")
+}
+
+})
+
+}
+
+})
+
+},{
+threshold:0.5
+})
+
+sections.forEach(section => observer.observe(section))
+
+</script>
+
+</body>
+
+</html>
