@@ -359,24 +359,23 @@ Figure X.
 
 /* ZOOM FIGURES */
 
-function viewer(id,image){
+const IMG_BASE =
+"https://cdn.jsdelivr.net/gh/grandjeanmartin/intellectual-cooperation@master/book/images/";
+  
+function viewer(id, file){
 
-OpenSeadragon({
+  OpenSeadragon({
+    id: id,
+    prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/",
+    tileSources: {
+      type: "image",
+      url: IMG_BASE + file
+    }
+  });
 
-id:id,
-
-prefixUrl:"https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/",
-
-tileSources:{
-type:"image",
-url:image
 }
 
-})
-
-}
-
-viewer("viewer1","https://raw.githubusercontent.com/grandjeanmartin/intellectual-cooperation/refs/heads/master/book/images/fig%201.2.png")
+viewer("viewer1","fig 1.2.png")
 viewer("viewer2","images/ch1_2.jpg")
 viewer("viewer3","images/ch2_1.jpg")
 viewer("viewer4","images/ch3_1.jpg")
