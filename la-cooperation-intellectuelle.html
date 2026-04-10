@@ -410,36 +410,38 @@ viewer("viewer1.10","fig1.10.png")
 
 /* ACTIVE MENU */
 
-const sections = document.querySelectorAll("main section")
-const navLinks = document.querySelectorAll("nav a")
+const headings = document.querySelectorAll("main section h2");
+const navLinks = document.querySelectorAll("nav a");
 
-const observer = new IntersectionObserver(entries => {
-
-entries.forEach(entry => {
-
-if(entry.isIntersecting){
-
-const id = entry.target.getAttribute("id")
-
-navLinks.forEach(link => {
-
-link.classList.remove("active")
-
-if(link.getAttribute("href") === "#" + id){
-link.classList.add("active")
+function setActiveLink(id){
+  navLinks.forEach(link=>{
+    link.classList.remove("active");
+    if(link.getAttribute("href") === "#" + id){
+      link.classList.add("active");
+    }
+  });
 }
 
-})
+function onScroll(){
 
+  let currentId = null;
+
+  headings.forEach(h2=>{
+    const rect = h2.getBoundingClientRect();
+
+    // Quand le titre passe sous la ligne des 120px du haut
+    if(rect.top <= 120){
+      currentId = h2.parentElement.id;
+    }
+  });
+
+  if(currentId){
+    setActiveLink(currentId);
+  }
 }
 
-})
-
-},{
-threshold:0.5
-})
-
-sections.forEach(section => observer.observe(section))
+window.addEventListener("scroll", onScroll);
+window.addEventListener("load", onScroll);
 
 </script>
 
