@@ -6,187 +6,639 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>La coopération intellectuelle</title>
+<title>La coopération intellectuelle — Martin Grandjean</title>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
+<!-- SEO : description et auteur -->
+<meta name="description" content="Site compagnon de l'ouvrage La coopération intellectuelle. Relations scientifiques et diplomatie culturelle à la Société des Nations (1919–1939) de Martin Grandjean (Éditions Alphil, 2026). Accès aux illustrations en haute définition et au réseau interactif.">
+<meta name="author" content="Martin Grandjean">
+<meta name="keywords" content="coopération intellectuelle, Société des Nations, histoire, diplomatie culturelle, relations scientifiques, Martin Grandjean, Alphil, histoire numérique">
 
+<!-- Canonical -->
+<link rel="canonical" href="https://grandjeanmartin.github.io/intellectual-cooperation/">
+
+<!-- Open Graph (Facebook, LinkedIn, Mastodon…) -->
+<meta property="og:type" content="book">
+<meta property="og:title" content="La coopération intellectuelle — Martin Grandjean">
+<meta property="og:description" content="Site compagnon de l'ouvrage publié en 2026 aux Éditions Alphil. Illustrations en haute définition et réseau interactif de la coopération intellectuelle à la Société des Nations (1919–1939).">
+<meta property="og:url" content="https://grandjeanmartin.github.io/intellectual-cooperation/">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/grandjeanmartin/intellectual-cooperation@master/book/images/cover.png">
+<meta property="og:image:alt" content="Couverture de l'ouvrage La coopération intellectuelle de Martin Grandjean">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:site_name" content="intellectualcooperation.org">
+<meta property="book:author" content="Martin Grandjean">
+<meta property="book:isbn" content="">
+<meta property="book:release_date" content="2026">
+
+<!-- Twitter / X Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="La coopération intellectuelle — Martin Grandjean">
+<meta name="twitter:description" content="Site compagnon de l'ouvrage publié en 2026 aux Éditions Alphil. Illustrations en haute définition et réseau interactif.">
+<meta name="twitter:image" content="https://cdn.jsdelivr.net/gh/grandjeanmartin/intellectual-cooperation@master/book/images/cover.png">
+<meta name="twitter:image:alt" content="Couverture de l'ouvrage La coopération intellectuelle de Martin Grandjean">
+
+<!-- Schema.org : Book (JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "La coopération intellectuelle",
+  "alternateName": "Relations scientifiques et diplomatie culturelle à la Société des Nations (1919–1939)",
+  "author": {
+    "@type": "Person",
+    "name": "Martin Grandjean",
+    "sameAs": "https://orcid.org/0000-0002-3878-7012"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Éditions Alphil",
+    "url": "https://www.alphil.com"
+  },
+  "datePublished": "2026",
+  "inLanguage": "fr",
+  "numberOfPages": 432,
+  "url": "https://www.alphil.com/accueil/1484-1842-la-cooperation-intellectuelle-.html",
+  "image": "https://cdn.jsdelivr.net/gh/grandjeanmartin/intellectual-cooperation@master/book/images/cover.png",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/deed.fr"
+}
+</script>
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap">
+
+<!-- Font Awesome -->
 <link rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-  
+
+<!-- OpenSeadragon : chargé en fin de <body>, pas en defer, pour garantir
+     que OpenSeadragon est disponible quand setupViewers() s'exécute.
+     Le script est déplacé juste avant le bloc <script> principal. -->
+
 <style>
+
+/* TOKENS */
+
+:root{
+  --font-serif: 'EB Garamond', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+
+  --color-text: #2c2826;
+  --color-text-soft: #5a5550;
+  --color-text-muted: #8a857f;
+  --color-accent: #9E2D3C;
+  --color-accent-soft: #c47480;
+
+  --color-bg: #ffffff;
+  --color-bg-soft: #faf7f2;
+  --color-border: #e8e3dc;
+  --color-border-strong: #d4cdbf;
+
+  --shadow-soft: 0 1px 2px rgba(44,40,38,0.05), 0 4px 14px rgba(44,40,38,0.06);
+  --shadow-cover: 0 2px 4px rgba(44,40,38,0.08), 0 12px 28px rgba(44,40,38,0.14);
+}
 
 /* RESET */
 
 *{
-margin:0;
-padding:0;
-box-sizing:border-box;
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
 }
 
 body{
-font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
-background:#ffffff;
-color:#222;
-line-height:1.5;
+  font-family:var(--font-sans);
+  background:var(--color-bg);
+  color:var(--color-text);
+  line-height:1.6;
+  font-size:15px;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
 }
 
 /* GLOBAL */
 
 .wrapper{
-max-width:1100px;
-margin:0 auto;
-position:relative;
+  max-width:1100px;
+  margin:0 auto;
+  position:relative;
+}
+
+a{
+  color:var(--color-text);
+  text-decoration:underline;
+  text-decoration-color:var(--color-border-strong);
+  text-underline-offset:3px;
+  transition:color 0.2s ease, text-decoration-color 0.2s ease;
+}
+
+a:hover{
+  color:var(--color-accent);
+  text-decoration-color:var(--color-accent);
+}
+
+/* External link marker */
+a.external::after,
+main p a[href^="http"]:not([href*="intellectualcooperation.org"])::after{
+  content:" ↗";
+  font-size:0.85em;
+  color:var(--color-text-muted);
+}
+
+/* MOBILE HEADER */
+
+.mobile-header{
+  display:none;
+  position:fixed;
+  top:0; left:0; right:0;
+  height:54px;
+  background:var(--color-bg);
+  border-bottom:1px solid var(--color-border);
+  z-index:90;
+  align-items:center;
+  justify-content:space-between;
+  padding:0 16px;
+}
+
+.mobile-header .current-chapter{
+  font-size:13px;
+  font-weight:500;
+  color:var(--color-text-soft);
+  letter-spacing:0.02em;
+}
+
+.menu-toggle{
+  background:none;
+  border:none;
+  font-size:18px;
+  color:var(--color-text);
+  cursor:pointer;
+  padding:8px;
+  display:flex;
+  align-items:center;
+  gap:6px;
+  font-family:var(--font-sans);
 }
 
 /* MENU */
 
 nav{
-position:fixed;
-top:80px;
-left:calc(50% - 540px);
-width:180px;
-font-size:0.95em;
+  position:fixed;
+  top:80px;
+  left:calc(50% - 550px);
+  width:220px;
+  font-size:13px;
 }
 
 nav h3{
-margin-bottom:18px;
-font-weight:600;
-font-size:1em;
+  font-family:var(--font-sans);
+  margin-bottom:20px;
+  font-weight:600;
+  font-size:11px;
+  text-transform:uppercase;
+  letter-spacing:0.12em;
+  color:var(--color-text-muted);
 }
 
 nav a{
-display:block;
-margin-bottom:12px;
-text-decoration:none;
-color:#777;
-transition:0.2s;
+  display:flex;
+  align-items:flex-start;
+  gap:10px;
+  margin-bottom:14px;
+  padding-left:14px;
+  text-decoration:none;
+  color:var(--color-text-soft);
+  position:relative;
+  transition:color 0.2s ease;
+  line-height:1.35;
+}
+
+nav a > span:last-child{
+  flex:1;
+}
+
+nav a .num{
+  font-feature-settings:"tnum";
+  font-variant-numeric:tabular-nums;
+  font-size:11px;
+  color:var(--color-text-muted);
+  font-weight:500;
+  letter-spacing:0.04em;
+  padding-top:1px;
 }
 
 nav a:hover{
-color:#000;
+  color:var(--color-text);
 }
 
 nav a.active{
-color:#000;
-font-weight:600;
-border-left:2px solid #000;
-padding-left:6px;
+  color:var(--color-accent);
+  font-weight:500;
+}
+
+nav a.active::before{
+  content:"";
+  position:absolute;
+  left:0;
+  top:7px;
+  width:6px;
+  height:6px;
+  border-radius:50%;
+  background:var(--color-accent);
+}
+
+nav a.active .num{
+  color:var(--color-accent);
 }
 
 /* CONTENT */
 
 main{
-max-width:760px;
-margin-left:auto;
-padding:80px 40px;
-font-size:14px;
+  max-width:760px;
+  margin-left:auto;
+  padding:80px 40px;
 }
 
-a{
-  color: #000000;
-  text-decoration: underline;
-  transition: color 0.2s ease;
+p{
+  margin-bottom:1em;
+  color:var(--color-text);
 }
 
-a:hover{
-  color:#9E2D3C
+p + p{
+  margin-top:0;
 }
 
 /* SECTIONS */
 
 section{
-margin-bottom:50px;
+  margin-bottom:80px;
+  scroll-margin-top:30px;
+}
+
+.eyebrow{
+  font-family:var(--font-sans);
+  font-size:11px;
+  text-transform:uppercase;
+  letter-spacing:0.14em;
+  color:var(--color-text-muted);
+  font-weight:500;
+  margin-bottom:14px;
 }
 
 h1{
-font-size:2.3em;
-margin-bottom:10px;
+  font-family:var(--font-serif);
+  font-size:3em;
+  font-weight:500;
+  line-height:1.15;
+  letter-spacing:-0.01em;
+  margin-bottom:14px;
+  color:var(--color-text);
 }
 
-h2{
-font-size:2em;
-font-weight: normal;
-margin-bottom:10px;
-border-bottom:1px solid #e5e5e5;
-padding-bottom:10px;
+/* h2 = "Chapitre N" : eyebrow */
+section:not(.cover) h2{
+  font-family:var(--font-sans);
+  font-size:11px;
+  font-weight:600;
+  text-transform:uppercase;
+  letter-spacing:0.16em;
+  color:var(--color-accent);
+  margin-bottom:12px;
+  padding-bottom:0;
+  border:none;
+  display:inline-block;
 }
 
-h3{
-font-size:1.5em;
-text-transform: uppercase;
-margin-bottom:10px;
+/* h3 = chapter title : the visual primary */
+section:not(.cover) h3{
+  font-family:var(--font-serif);
+  font-size:2.1em;
+  font-weight:500;
+  line-height:1.2;
+  letter-spacing:-0.005em;
+  margin-bottom:24px;
+  text-transform:none;
+  color:var(--color-text);
+  padding-bottom:18px;
+  border-bottom:1px solid var(--color-border);
 }
 
+/* h4 = subsection */
 h4{
-font-size:1.3em;
-margin-bottom:20px;
-margin-top:20px;
+  font-family:var(--font-sans);
+  font-size:13px;
+  font-weight:600;
+  text-transform:uppercase;
+  letter-spacing:0.1em;
+  color:var(--color-text-soft);
+  margin-bottom:18px;
+  margin-top:50px;
 }
 
 /* COVER */
 
 .cover{
-text-align:center;
+  margin-bottom:100px;
 }
 
-.cover img{
-max-width:320px;
-margin:30px 0;
+.cover-grid{
+  display:grid;
+  grid-template-columns:240px 1fr;
+  gap:50px;
+  align-items:center;
+}
+
+.cover-image img{
+  width:100%;
+  height:auto;
+  display:block;
+}
+
+.cover .subtitle{
+  font-family:var(--font-serif);
+  font-style:italic;
+  font-size:1.65em;
+  font-weight:400;
+  line-height:1.25;
+  color:var(--color-accent);
+  margin-bottom:0;
+}
+
+.cover-intro{
+  margin-top:50px;
+  padding-top:30px;
+  border-top:1px solid var(--color-border);
+  font-size:15px;
+  color:var(--color-text-soft);
+}
+
+.cover-meta{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px 18px;
+  margin-top:22px;
+  font-family:var(--font-sans);
+  font-size:11px;
+  text-transform:uppercase;
+  letter-spacing:0.12em;
+  color:var(--color-text-muted);
+  font-weight:500;
+}
+
+.cover-meta span + span::before{
+  content:"·";
+  margin-right:18px;
+  color:var(--color-border-strong);
+}
+
+.cover-divider{
+  border:none;
+  border-top:1px solid var(--color-border);
+  margin:28px 0 24px;
+}
+
+.cover-actions{
+  display:flex;
+  flex-wrap:wrap;
+  gap:12px;
+  margin-top:24px;
 }
 
 .button{
-  display:inline-block;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  gap:8px;
   padding:11px 20px;
-  background:#FFFFFF;
-  color:#000000;
+  width:220px;
   text-decoration:none;
-  border: 2px solid #000000;
-  border-radius:4px;
-  font-size:0.9em;
-  transition: background 0.2s ease;
+  border-radius:3px;
+  font-size:13px;
+  font-weight:500;
+  font-family:var(--font-sans);
+  letter-spacing:0.02em;
+  transition:all 0.2s ease;
+  border:1.5px solid var(--color-text);
+  background:var(--color-bg);
+  color:var(--color-text);
 }
 
 .button:hover{
-  background:#9E2D3C;
-  border: 2px solid #9E2D3C;
-  color:white;
+  background:var(--color-accent);
+  border-color:var(--color-accent);
+  color:#fff;
 }
+
+.button-primary{}
+.button-secondary{}
 
 /* FIGURES */
 
 figure{
-margin:20px 0;
+  margin:36px 0 60px;
 }
 
 .viewer{
-width:100%;
-height:520px;
-border:1px solid #ddd;
+  width:100%;
+  height:520px;
+  background:#fafafa;
+  border:1px solid var(--color-border);
+  border-radius:2px;
+  position:relative;
+  overflow:hidden;
+}
+
+/* Spinner avant l'instanciation d'OpenSeadragon */
+.viewer:not(.osd-ready)::before{
+  content:"";
+  position:absolute;
+  top:50%;
+  left:50%;
+  width:32px;
+  height:32px;
+  margin:-16px 0 0 -16px;
+  border:3px solid var(--color-border);
+  border-top-color:var(--color-accent);
+  border-radius:50%;
+  animation:spin 0.8s linear infinite;
+}
+
+@keyframes spin{
+  to{ transform:rotate(360deg); }
 }
 
 figcaption{
-margin-top:10px;
-margin-bottom:50px;
-font-size:0.9em;
-color:#666;
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  gap:24px;
+  margin-top:14px;
+  font-size:13px;
+  color:var(--color-text-soft);
+  line-height:1.5;
+}
+
+.fig-caption-text{
+  flex:1;
+  margin:0;
+  color:var(--color-text-soft);
+}
+
+.fig-label-inline{
+  color:var(--color-accent);
+  font-weight:600;
+}
+
+.fig-download{
+  flex-shrink:0;
+  font-family:var(--font-sans);
+  font-size:11px;
+  text-transform:uppercase;
+  letter-spacing:0.08em;
+  color:var(--color-text-muted);
+  text-decoration:none;
+  white-space:nowrap;
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  padding-top:2px;
+}
+
+.fig-download:hover{
+  color:var(--color-accent);
+}
+
+/* FOOTER */
+
+footer{
+  background:var(--color-bg-soft);
+  border-top:1px solid var(--color-border);
+  padding:60px 40px;
+  margin-top:80px;
+}
+
+.footer-inner{
+  max-width:760px;
+  margin-left:auto;
+  margin-right:0;
+  font-size:13px;
+  color:var(--color-text-soft);
+  line-height:1.6;
+}
+
+.footer-inner h4{
+  font-family:var(--font-sans);
+  font-size:10px;
+  font-weight:600;
+  text-transform:uppercase;
+  letter-spacing:0.14em;
+  color:var(--color-text-muted);
+  margin-bottom:8px;
+  margin-top:0;
+}
+
+.footer-section{
+  margin-bottom:28px;
+}
+
+.citation{
+  font-family:var(--font-serif);
+  font-size:15px;
+  line-height:1.5;
+  color:var(--color-text);
+}
+
+.footer-meta{
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px 18px;
+  font-size:12px;
+  color:var(--color-text-muted);
+  padding-top:24px;
+  border-top:1px solid var(--color-border);
+}
+
+.footer-meta a{
+  color:var(--color-text-soft);
+  text-decoration:none;
+}
+
+.footer-meta a:hover{
+  color:var(--color-accent);
 }
 
 /* MOBILE */
 
 @media(max-width:1100px){
 
-nav{
-display:none;
-}
+  .mobile-header{
+    display:flex;
+  }
 
-main{
-margin:auto;
-padding:50px 20px;
-}
+  body{
+    padding-top:54px;
+  }
 
-.viewer{
-height:340px;
-}
+  nav{
+    top:54px;
+    left:0;
+    width:100%;
+    max-width:320px;
+    height:calc(100vh - 54px);
+    background:var(--color-bg);
+    border-right:1px solid var(--color-border);
+    padding:30px 24px;
+    overflow-y:auto;
+    transform:translateX(-100%);
+    transition:transform 0.25s ease;
+    z-index:80;
+    box-shadow:var(--shadow-soft);
+  }
+
+  body.nav-open nav{
+    transform:translateX(0);
+  }
+
+  main{
+    margin:auto;
+    padding:30px 22px 60px;
+  }
+
+  h1{
+    font-size:2.2em;
+  }
+
+  section:not(.cover) h3{
+    font-size:1.6em;
+  }
+
+  .cover-grid{
+    grid-template-columns:1fr;
+    gap:28px;
+    text-align:left;
+  }
+
+  .cover-image{
+    max-width:200px;
+  }
+
+  .viewer{
+    height:340px;
+  }
+
+  figcaption{
+    flex-direction:column;
+    gap:8px;
+  }
+
+  footer{
+    padding:40px 22px;
+  }
+
+  .footer-inner{
+    margin:0 auto;
+  }
 
 }
 
@@ -196,21 +648,28 @@ height:340px;
 
 <body>
 
+<header class="mobile-header">
+  <button class="menu-toggle" aria-label="Ouvrir le menu" aria-controls="main-nav" aria-expanded="false">
+    <i class="fa-solid fa-bars"></i> Menu
+  </button>
+  <span class="current-chapter">Le livre</span>
+</header>
+
 <div class="wrapper">
 
-<nav>
+<nav id="main-nav" aria-label="Table des matières">
 
 <h3>Table des matières</h3>
 
-<a href="#livre">Le livre</a>
-<a href="#chap1">Chapitre 1</a>
-<a href="#chap2">Chapitre 2</a>
-<a href="#chap3">Chapitre 3</a>
-<a href="#chap4">Chapitre 4</a>
-<a href="#chap5">Chapitre 5</a>
-<a href="#chap6">Chapitre 6</a>
-<a href="#chap7">Chapitre 7</a>
-<a href="#plus">En savoir plus</a>
+<a href="#livre"><span class="num">—</span><span>Le livre</span></a>
+<a href="#chap1"><span class="num">01</span><span>Une autre histoire de la coopération intellectuelle</span></a>
+<a href="#chap2"><span class="num">02</span><span>Les questions scientifiques et culturelles s'invitent à la SDN</span></a>
+<a href="#chap3"><span class="num">03</span><span>Les débuts de la coopération intellectuelle</span></a>
+<a href="#chap4"><span class="num">04</span><span>Quand la France investit le champ des relations culturelles</span></a>
+<a href="#chap5"><span class="num">05</span><span>Les acteurs de la coopération intellectuelle</span></a>
+<a href="#chap6"><span class="num">06</span><span>Cartographier l'institution, changer d'échelle</span></a>
+<a href="#chap7"><span class="num">07</span><span>Années 1930 : crise, réforme et indépendance</span></a>
+<a href="#plus"><span class="num">+</span><span>En savoir plus</span></a>
 
 </nav>
 
@@ -218,159 +677,148 @@ height:340px;
 
 <section id="livre" class="cover">
 
-<h1>La coopération intellectuelle</h1>
-<h2>Relations scientifiques et diplomatie culturelle à la Société des Nations (1919-1939)</h2>
+  <div class="cover-grid">
 
-<br>
-<img 
-  src="https://cdn.jsdelivr.net/gh/grandjeanmartin/intellectual-cooperation@master/book/images/cover.png" 
-  alt="Couverture"
-  style="display:block; margin:10px auto; width:200px; height:auto;">
+    <div class="cover-image">
+      <img
+        src="https://cdn.jsdelivr.net/gh/grandjeanmartin/intellectual-cooperation@master/book/images/cover.png"
+        alt="Couverture du livre La coopération intellectuelle de Martin Grandjean, Éditions Alphil, 2026">
+    </div>
 
-<br>
+    <div class="cover-text">
+      <p class="eyebrow">Ouvrage · Éditions Alphil · 2026</p>
+      <h1>La coopération intellectuelle</h1>
+      <p class="subtitle">Relations scientifiques et diplomatie culturelle à la Société des Nations <span style="white-space:nowrap">(1919–1939)</span></p>
 
-<a class="button" href="https://www.alphil.com/accueil/1484-1842-la-cooperation-intellectuelle-.html"><i class="fa-solid fa-book"></i> Commander le livre</a> <a class="button" href="https://www.alphil.com/accueil/1484-1842-la-cooperation-intellectuelle-.html"><i class="fa-regular fa-file"></i> Version Open Access</a>
+      <div class="cover-meta">
+        <span>Martin Grandjean</span>
+        <span>432 pages</span>
+        <span>Français</span>
+      </div>
 
-<br><br>
+      <hr class="cover-divider">
 
-<p>Ce site accompagnant l'ouvrage publié en 2026 donne accès à une version interactive du réseau de la coopération intellectuelle ainsi qu'aux illustrations en haute définition.</p>
+      <div class="cover-actions">
+        <a class="button button-primary" href="https://www.alphil.com/accueil/1484-1842-la-cooperation-intellectuelle-.html"><i class="fa-solid fa-book"></i> Commander le livre</a>
+        <a class="button button-secondary" href="https://www.alphil.com/accueil/1484-1842-la-cooperation-intellectuelle-.html"><i class="fa-regular fa-file-lines"></i> Version Open Access</a>
+      </div>
+    </div>
+
+  </div>
+
+  <p class="cover-intro">Ce site accompagnant l'ouvrage publié en 2026 donne accès à une version interactive du réseau de la coopération intellectuelle ainsi qu'aux illustrations en haute définition.</p>
 
 </section>
 
 
 <section id="chap1">
 
-<h2>Chapitre 1</h2>
-<h3>Introduction: Une autre histoire de la coopération intellectuelle</h3>
-<p>Après une introduction à l'<a href="https://intellectualcooperation.org/la-cooperation-intellectuelle">ouvrage</a> et un survol historiographique, le premier chapitre présente la manière dont les archives de la Société des Nations ont été indexées pour produire le réseau de la coopération intellectuelle.</p>
+  <h2>Chapitre 1</h2>
+  <h3>Une autre histoire de la coopération intellectuelle</h3>
+  <p>Après une introduction à l'<a href="https://intellectualcooperation.org/la-cooperation-intellectuelle">ouvrage</a> et un survol historiographique, le premier chapitre présente la manière dont les archives de la Société des Nations ont été indexées pour produire le réseau de la coopération intellectuelle.</p>
 
-<h4>Les documents de la coopération intellectuelle</h4>
-<figure>
+  <h4>Les documents de la coopération intellectuelle</h4>
 
-<div id="viewer1.2" class="viewer"></div>
+  <figure>
+    <div class="viewer" data-image="fig1.2.png" role="img" aria-label="Figure 1.2 — Répartition des dossiers par sujet"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 1.2</b> — Répartition des dossiers par sujet.</p>
+    </figcaption>
+  </figure>
 
-<figcaption>
-<b>Figure 1.2</b> — Répartition des dossiers par sujet.
-</figcaption>
+  <figure>
+    <div class="viewer" data-image="fig1.4.png" role="img" aria-label="Figure 1.4 — Indexation des individus par catégorie"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 1.4</b> — Indexation des individus par catégorie.</p>
+    </figcaption>
+  </figure>
 
-</figure>
-<figure>
+  <h4>Les archives, un réseau de documents et d'acteurs</h4>
 
-<div id="viewer1.4" class="viewer"></div>
+  <figure>
+    <div class="viewer" data-image="fig1.6.png" role="img" aria-label="Figure 1.6 — Réseau de personnes indexées dans des dossiers"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 1.6</b> — Réseau de personnes indexées dans des dossiers.</p>
+    </figcaption>
+  </figure>
 
-<figcaption>
-<b>Figure 1.4</b> — Indexation des individus par catégorie.
-</figcaption>
+  <figure>
+    <div class="viewer" data-image="fig1.7.png" role="img" aria-label="Figure 1.7 — Réseau de personnes connectées si elles apparaissent dans le même dossier"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 1.7</b> — Réseau de personnes connectées si elles apparaissent dans le même dossier.</p>
+    </figcaption>
+  </figure>
 
-</figure>
-<h4>Les archives, un réseau de documents et d'acteurs</h4>
-<figure>
+  <figure>
+    <div class="viewer" data-image="fig1.8.png" role="img" aria-label="Figure 1.8 — Réseau biparti des dossiers et des acteurs du fonds de la CICI (1919–1927)"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 1.8</b> — Réseau biparti des dossiers et des acteurs du fonds de la CICI (1919–1927).</p>
+    </figcaption>
+  </figure>
 
-<div id="viewer1.6" class="viewer"></div>
+  <figure>
+    <div class="viewer" data-image="fig1.9.png" role="img" aria-label="Figure 1.9 — Réseaux égocentrés d'indexation d'Henri Bergson et Hendrik Lorentz"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 1.9</b> — Réseaux égocentrés d'indexation d'Henri Bergson et Hendrik Lorentz.</p>
+    </figcaption>
+  </figure>
 
-<figcaption>
-<b>Figure 1.6</b> — Réseau de personnes indexées dans des dossiers.
-</figcaption>
+  <figure>
+    <div class="viewer" data-image="fig1.10.png" role="img" aria-label="Figure 1.10 — Réseau du fonds de la coopération intellectuelle, 1919–1927"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 1.10</b> — Réseau du fonds de la coopération intellectuelle, 1919–1927.</p>
+    </figcaption>
+  </figure>
 
-</figure>
-<figure>
-
-<div id="viewer1.7" class="viewer"></div>
-
-<figcaption>
-<b>Figure 1.7</b> — Réseau de personnes connectées si elles apparaissent dans le même dossier.
-</figcaption>
-
-</figure>
-<figure>
-
-<div id="viewer1.8" class="viewer"></div>
-
-<figcaption>
-<b>Figure 1.8</b> — Réseau biparti des dossiers et des acteurs du fonds de la CICI (1919-1927).
-</figcaption>
-
-</figure>
-<figure>
-
-<div id="viewer1.9" class="viewer"></div>
-
-<figcaption>
-<b>Figure 1.9</b> — Réseaux égocentrés d’indexation d’Henri Bergson et Hendrik Lorentz.
-</figcaption>
-
-</figure>
-
-<figure>
-
-<div id="viewer1.10" class="viewer"></div>
-
-<figcaption>
-<b>Figure 1.10</b> — Réseau du fonds de la coopération intellectuelle 1919-1927.
-</figcaption>
-
-</figure>
 </section>
 
 
 <section id="chap2">
-
-<h2>Chapitre 2</h2>
-<h3>Les questions scientifiques et culturelles s'invitent à la Société des Nations</h3>
-<p>Description</p>
-
-
-
+  <h2>Chapitre 2</h2>
+  <h3>Les questions scientifiques et culturelles s'invitent à la Société des Nations</h3>
+  <p>Description</p>
 </section>
 
 
 <section id="chap3">
-
-<h2>Chapitre 3</h2>
-<h3>Les débuts de la coopération intellectuelle</h3>
-<p>Description</p>
-
-
+  <h2>Chapitre 3</h2>
+  <h3>Les débuts de la coopération intellectuelle</h3>
+  <p>Description</p>
 </section>
+
 
 <section id="chap4">
-
-<h2>Chapitre 4</h2>
-<h3>Quand la France investit le champ des relations culturelles et scientifiques</h3>
-<p>Description</p>
-
+  <h2>Chapitre 4</h2>
+  <h3>Quand la France investit le champ des relations culturelles et scientifiques</h3>
+  <p>Description</p>
 </section>
 
-  <section id="chap5">
 
-<h2>Chapitre 5</h2>
-<h3>Les acteurs de la coopération intellectuelle</h3>
-<p>Description</p>
-
+<section id="chap5">
+  <h2>Chapitre 5</h2>
+  <h3>Les acteurs de la coopération intellectuelle</h3>
+  <p>Description</p>
 </section>
 
-  <section id="chap6">
 
-<h2>Chapitre 6</h2>
-<h3>Cartographier l'institution, changer d'échelle</h3>
-<p>Description</p>
-
+<section id="chap6">
+  <h2>Chapitre 6</h2>
+  <h3>Cartographier l'institution, changer d'échelle</h3>
+  <p>Description</p>
 </section>
 
-  <section id="chap7">
 
-<h2>Chapitre 7</h2>
-<h3>Années 1930 : Crise, réforme et indépendance</h3>
-<p>Description</p>
-
+<section id="chap7">
+  <h2>Chapitre 7</h2>
+  <h3>Années 1930 : crise, réforme et indépendance</h3>
+  <p>Description</p>
 </section>
+
 
 <section id="plus">
-
-<h2>En savoir plus</h2>
-<h3>À propos de la coopération intellectuelle</h3>
-<p>Description</p>
-
+  <h2>En savoir plus</h2>
+  <h3>À propos de la coopération intellectuelle</h3>
+  <p>Description</p>
 </section>
 
 
@@ -378,70 +826,182 @@ height:340px;
 
 </div>
 
+<footer>
+  <div class="footer-inner">
+
+    <div class="footer-section">
+      <h4>Citation suggérée</h4>
+      <p class="citation">Grandjean, Martin. <i>La coopération intellectuelle. Relations scientifiques et diplomatie culturelle à la Société des Nations (1919–1939)</i>. Neuchâtel : Éditions Alphil, 2026.</p>
+    </div>
+
+    <div class="footer-section">
+      <h4>Licence</h4>
+      <p>Le contenu textuel et les illustrations sont disponibles sous licence <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr" class="external">Creative Commons BY-SA 4.0</a>, sauf mention contraire.</p>
+    </div>
+
+    <div class="footer-meta">
+      <span>© 2026 Martin Grandjean</span>
+      <a href="https://intellectualcooperation.org">intellectualcooperation.org</a>
+      <a href="https://scholar.google.com/citations?user=dkA7XPAAAAAJ" class="external">Google Scholar</a>
+      <a href="https://github.com/grandjeanmartin/intellectual-cooperation" class="external">Code source</a>
+    </div>
+
+  </div>
+</footer>
+
+
+<!--
+  OpenSeadragon chargé ici, de manière synchrone, AVANT le bloc <script> principal.
+  Cela garantit que la variable globale OpenSeadragon est définie au moment où
+  setupViewers() est appelée, éliminant le risque de race condition qui existait
+  avec l'attribut "defer" dans le <head>.
+-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
 
 <script>
 
-/* ZOOM FIGURES */
+/* CONFIG */
 
 const IMG_BASE =
 "https://cdn.jsdelivr.net/gh/grandjeanmartin/intellectual-cooperation@master/book/images/";
-  
-function viewer(id, file){
+
+const OSD_PREFIX =
+"https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/";
+
+
+/* DOWNLOAD LINKS — generated from data-image */
+
+document.querySelectorAll(".viewer[data-image]").forEach(viewer => {
+  const file = viewer.dataset.image;
+  const figure = viewer.closest("figure");
+  if(!figure) return;
+
+  let caption = figure.querySelector("figcaption");
+  if(!caption){
+    caption = document.createElement("figcaption");
+    figure.appendChild(caption);
+  }
+
+  if(!caption.querySelector(".fig-download")){
+    const link = document.createElement("a");
+    link.className = "fig-download";
+    link.href = IMG_BASE + file;
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.title = "Télécharger l'image en haute définition";
+    link.setAttribute("download", file); // nom de fichier explicite
+    link.innerHTML = '<i class="fa-solid fa-download"></i> Télécharger';
+    caption.appendChild(link);
+  }
+});
+
+
+/* ZOOM FIGURES — lazy-loading via IntersectionObserver */
+
+function initViewer(el){
+  const file = el.dataset.image;
+  if(!file || el.classList.contains("osd-ready")) return;
+
+  // OpenSeadragon est garanti disponible ici car son <script> précède ce bloc.
+  el.classList.add("osd-ready");
 
   OpenSeadragon({
-    id: id,
-    prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/",
+    element: el,
+    prefixUrl: OSD_PREFIX,
     tileSources: {
       type: "image",
       url: IMG_BASE + file
-    }
+    },
+    showFullPageControl: true,
+    showNavigator: false,
+    gestureSettingsMouse: { clickToZoom: false }
   });
-
 }
 
-viewer("viewer1.2","fig1.2.png")
-viewer("viewer1.4","fig1.4.png")
-viewer("viewer1.6","fig1.6.png")
-viewer("viewer1.7","fig1.7.png")
-viewer("viewer1.8","fig1.8.png")
-viewer("viewer1.9","fig1.9.png")
-viewer("viewer1.10","fig1.10.png")
+function setupViewers(){
+  const viewers = document.querySelectorAll(".viewer[data-image]");
+
+  if(!("IntersectionObserver" in window)){
+    viewers.forEach(initViewer);
+    return;
+  }
+
+  const observer = new IntersectionObserver((entries, obs) => {
+    entries.forEach(entry => {
+      if(entry.isIntersecting){
+        initViewer(entry.target);
+        obs.unobserve(entry.target);
+      }
+    });
+  }, { rootMargin: "400px 0px" });
+
+  viewers.forEach(el => observer.observe(el));
+}
+
+// Le DOM est déjà parsé à ce stade (script en fin de body) :
+// on peut appeler setupViewers() directement, sans attendre DOMContentLoaded.
+setupViewers();
 
 
-/* ACTIVE MENU */
+/* ACTIVE MENU + MOBILE INDICATOR */
 
-const headings = document.querySelectorAll("main section h2");
+const sections = document.querySelectorAll("main section");
 const navLinks = document.querySelectorAll("nav a");
+const currentChapterEl = document.querySelector(".mobile-header .current-chapter");
+
+function getMobileLabelForId(id){
+  if(id === "livre") return "Le livre";
+  const section = document.getElementById(id);
+  if(!section) return "";
+  const h2 = section.querySelector("h2");
+  return h2 ? h2.textContent.trim() : id;
+}
 
 function setActiveLink(id){
-  navLinks.forEach(link=>{
-    link.classList.remove("active");
-    if(link.getAttribute("href") === "#" + id){
-      link.classList.add("active");
-    }
+  navLinks.forEach(link => {
+    const active = link.getAttribute("href") === "#" + id;
+    link.classList.toggle("active", active);
   });
+  if(currentChapterEl && id){
+    currentChapterEl.textContent = getMobileLabelForId(id);
+  }
 }
 
 function onScroll(){
-
   let currentId = null;
-
-  headings.forEach(h2=>{
-    const rect = h2.getBoundingClientRect();
-
-    // Quand le titre passe sous la ligne des 120px du haut
-    if(rect.top <= 120){
-      currentId = h2.parentElement.id;
+  sections.forEach(section => {
+    const rect = section.getBoundingClientRect();
+    if(rect.top <= 140){
+      currentId = section.id;
     }
   });
-
   if(currentId){
     setActiveLink(currentId);
   }
 }
 
-window.addEventListener("scroll", onScroll);
+window.addEventListener("scroll", onScroll, { passive: true });
 window.addEventListener("load", onScroll);
+
+
+/* MOBILE MENU TOGGLE */
+
+const menuToggle = document.querySelector(".menu-toggle");
+const body = document.body;
+
+if(menuToggle){
+  menuToggle.addEventListener("click", () => {
+    const isOpen = body.classList.toggle("nav-open");
+    menuToggle.setAttribute("aria-expanded", String(isOpen));
+  });
+
+  document.querySelectorAll("nav a").forEach(link => {
+    link.addEventListener("click", () => {
+      body.classList.remove("nav-open");
+      menuToggle.setAttribute("aria-expanded", "false");
+    });
+  });
+}
 
 </script>
 
