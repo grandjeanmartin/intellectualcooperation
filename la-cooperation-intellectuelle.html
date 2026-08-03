@@ -11,13 +11,17 @@
 
 <title>La coopération intellectuelle — Martin Grandjean</title>
 
-<!-- SEO : description et auteur -->
+<!-- SEO: description and author -->
 <meta name="description" content="Site compagnon de l'ouvrage La coopération intellectuelle. Relations scientifiques et diplomatie culturelle à la Société des Nations (1919–1939) de Martin Grandjean (Éditions Alphil, 2026). Accès aux illustrations en haute définition et au réseau interactif.">
 <meta name="author" content="Martin Grandjean">
 <meta name="keywords" content="coopération intellectuelle, Société des Nations, histoire, diplomatie culturelle, relations scientifiques, Martin Grandjean, Alphil, histoire numérique">
 
 <!-- Canonical -->
 <link rel="canonical" href="https://grandjeanmartin.github.io/intellectual-cooperation/">
+
+<!-- Language alternates -->
+<link rel="alternate" hreflang="fr" href="https://grandjeanmartin.github.io/intellectual-cooperation/">
+<link rel="alternate" hreflang="en" href="https://intellectualcooperation.org/la-cooperation-intellectuelle-english">
 
 <!-- Open Graph (Facebook, LinkedIn, Mastodon…) -->
 <meta property="og:type" content="book">
@@ -39,7 +43,7 @@
 <meta name="twitter:image" content="https://cdn.jsdelivr.net/gh/grandjeanmartin/intellectual-cooperation@master/book/images/cover.png">
 <meta name="twitter:image:alt" content="Couverture de l'ouvrage La coopération intellectuelle de Martin Grandjean">
 
-<!-- Schema.org : Book (JSON-LD) -->
+<!-- Schema.org: Book (JSON-LD) -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -75,9 +79,9 @@
 <link rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-<!-- OpenSeadragon : chargé en fin de <body>, pas en defer, pour garantir
-     que OpenSeadragon est disponible quand setupViewers() s'exécute.
-     Le script est déplacé juste avant le bloc <script> principal. -->
+<!-- OpenSeadragon: loaded at the end of <body>, not deferred, to guarantee
+     it is available when setupViewers() runs. The script tag sits right
+     before the main <script> block. -->
 
 <style>
 
@@ -204,6 +208,26 @@ nav h3{
   color:var(--color-text-muted);
 }
 
+.lang-switch{
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  margin-bottom:24px;
+  padding:6px 12px;
+  border:1px solid var(--color-border-strong);
+  border-radius:20px;
+  font-family:var(--font-sans);
+  font-size:12px;
+  font-weight:500;
+  color:var(--color-text-soft);
+  text-decoration:none;
+}
+
+.lang-switch:hover{
+  border-color:var(--color-accent);
+  color:var(--color-accent);
+}
+
 nav a{
   display:flex;
   align-items:flex-start;
@@ -299,7 +323,7 @@ h1{
   color:var(--color-text);
 }
 
-/* h2 = "Chapitre N" : eyebrow */
+/* h2 = "Chapter N" eyebrow label */
 section:not(.cover) h2{
   font-family:var(--font-sans);
   font-size:11px;
@@ -313,7 +337,7 @@ section:not(.cover) h2{
   display:inline-block;
 }
 
-/* h3 = chapter title : the visual primary */
+/* h3 = chapter title, the main visual element */
 section:not(.cover) h3{
   font-family:var(--font-serif);
   font-size:2.1em;
@@ -452,7 +476,7 @@ figure{
   overflow:hidden;
 }
 
-/* Spinner avant l'instanciation d'OpenSeadragon */
+/* Spinner shown before OpenSeadragon initializes */
 .viewer:not(.osd-ready)::before{
   content:"";
   position:absolute;
@@ -647,7 +671,7 @@ footer{
 
 </style>
 
-<!-- GoatCounter : statistiques de consultation sans cookies -->
+<!-- GoatCounter: cookie-free visit analytics -->
 <script data-goatcounter="https://intellectualcooperation.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
@@ -666,9 +690,14 @@ footer{
 
 <nav id="main-nav" aria-label="Table des matières">
 
+<a href="https://intellectualcooperation.org/la-cooperation-intellectuelle-english" class="lang-switch" hreflang="en" lang="en">
+  <i class="fa-solid fa-globe"></i> English version
+</a>
+
 <h3>Table des matières</h3>
 
 <a href="#livre"><span class="num">—</span><span>Le livre</span></a>
+<a href="#chap0"><span class="num">00</span><span>Le réseau de la coopération intellectuelle</span></a>
 <a href="#chap1"><span class="num">01</span><span>Une autre histoire de la coopération intellectuelle</span></a>
 <a href="#chap2"><span class="num">02</span><span>Les questions scientifiques et culturelles s'invitent à la SDN</span></a>
 <a href="#chap3"><span class="num">03</span><span>Les débuts de la coopération intellectuelle</span></a>
@@ -695,14 +724,12 @@ footer{
     </div>
 
     <div class="cover-text">
-      <p class="eyebrow">Ouvrage · Éditions Alphil · 2026</p>
+      <p class="eyebrow">Éditions Alphil – Presses Universitaires Suisses</p>
       <h1>La coopération intellectuelle</h1>
       <p class="subtitle">Relations scientifiques et diplomatie culturelle à la Société des Nations <span style="white-space:nowrap">(1919–1939)</span></p>
 
       <div class="cover-meta">
-        <span>Martin Grandjean</span>
-        <span>432 pages</span>
-        <span>Français</span>
+        <span>Martin Grandjean | 2026</span>
       </div>
 
       <hr class="cover-divider">
@@ -719,14 +746,29 @@ footer{
 
 </section>
 
+<section id="chap0">
+  <h2>Visualisation de données</h2>
+  <h3>Le réseau de la coopération intellectuelle</h3>
+  <p>[à venir]</p>
+
+  <p align="center"><a class="button button-primary" href="https://github.com/grandjeanmartin/intellectual-cooperation"><i class="fa-solid fa-circle-nodes"></i> Visualisation</a>  <a class="button button-primary" href="https://github.com/grandjeanmartin/intellectual-cooperation"><i class="fa-solid fa-table"></i> Données</a></p>
+
+</section>
 
 <section id="chap1">
 
   <h2>Chapitre 1</h2>
   <h3>Une autre histoire de la coopération intellectuelle</h3>
-  <p>Après une introduction à l'<a href="https://intellectualcooperation.org/la-cooperation-intellectuelle">ouvrage</a> et un survol historiographique, le premier chapitre présente la manière dont les archives de la Société des Nations ont été indexées pour produire le réseau de la coopération intellectuelle.</p>
+  <p>Après une introduction à l'ouvrage et un survol historiographique, le premier chapitre présente la manière dont les archives de la Société des Nations ont été indexées pour produire le réseau de la coopération intellectuelle.</p>
 
   <h4>Les documents de la coopération intellectuelle</h4>
+
+    <figure>
+    <div class="viewer" data-image="fig1.1.png" role="img" aria-label="Figure 1.1 — Exemples de documents d'archives"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 1.1</b> — Exemples de documents d'archives.</p>
+    </figcaption>
+  </figure>
 
   <figure>
     <div class="viewer" data-image="fig1.2.png" role="img" aria-label="Figure 1.2 — Répartition des dossiers par sujet"></div>
@@ -785,52 +827,394 @@ footer{
 <section id="chap2">
   <h2>Chapitre 2</h2>
   <h3>Les questions scientifiques et culturelles s'invitent à la Société des Nations</h3>
-  <p>Description</p>
+  <p>Ce chapitre montre comment les différentes initiatives en faveur d'une coordination des affaires scientifiques, culturelles et éducatives se font petit à petit leur chemin dans l'agenda politique de la SDN. Malgré un réseautage efficace, les tentatives de Paul Otlet et Henri La Fontaine, au nom de l'Union des Associations Internationales, restent infructueuses mais créent un terrain fertile pour que d'autres personnalités politiques s'en emparent à l'Assemblée avec plus de succès.</p>
+
+  <h4>Paul Otlet, Henri La Fontaine et la Société des Nations</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig2.1.png" role="img" aria-label="Figure 2.1 — Réseau d’Otlet et La Fontaine dans les archives CICI"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 2.1</b> — Réseau d’Otlet et La Fontaine dans les archives CICI.</p>
+    </figcaption>
+  </figure>
+
 </section>
 
 
 <section id="chap3">
   <h2>Chapitre 3</h2>
   <h3>Les débuts de la coopération intellectuelle</h3>
-  <p>Description</p>
-</section>
+  <p>Dès sa création, la nouvelle Commission internationale de coopération intellectuelle (CICI) s'organise et crée autour d'elle un petit écosystème de partenaires. Elle développe son action autour de plusieurs pôles, des relations universitaires aux questions de propriété intellectuelle, en passant par la coordination bibliographique et les questions artistiques et littéraires.</p>
 
+  <h4>La Section des bureaux internationaux : connecter l’internationalisme d’avant-guerre au nouveau modèle multilatéral</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig3.1.png" role="img" aria-label="Figure 3.1 — Classement des organisations internationales recensées en 1919"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 3.1</b> — Classement des organisations internationales recensées en 1919.</p>
+    </figcaption>
+  </figure>
+
+  <h4>Des sous-commissions thématiques</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig3.3.png" role="img" aria-label="Figure 3.3 — Organigramme de la coopération intellectuelle 1922-1926"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 3.3</b> — Organigramme de la coopération intellectuelle 1922-1926.</p>
+    </figcaption>
+  </figure>
+
+  <h4>Les relations universitaires</h4>
+
+    <figure>
+    <div class="viewer" data-image="fig3.4.png" role="img" aria-label="Figure 3.4 — Relations universitaires (réseau)"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 3.4</b> — Relations universitaires (réseau).</p>
+    </figcaption>
+  </figure>
+
+  <h4>Bibliographie</h4>
+
+    <figure>
+    <div class="viewer" data-image="fig3.6.png" role="img" aria-label="Figure 3.6 — Bibliographie (réseau)"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 3.6</b> — Bibliographie (réseau).</p>
+    </figcaption>
+  </figure>
+
+  <h4>Propriété intellectuelle</h4>
+
+    <figure>
+    <div class="viewer" data-image="fig3.8.png" role="img" aria-label="Figure 3.8 — Propriété intellectuelle (réseau)"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 3.8</b> — Propriété intellectuelle (réseau).</p>
+    </figcaption>
+  </figure>
+
+  <h4>Arts et Lettres</h4>
+
+    <figure>
+    <div class="viewer" data-image="fig3.10.png" role="img" aria-label="Figure 3.10 — Arts et Lettres (réseau)"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 3.10</b> — Arts et Lettres (réseau).</p>
+    </figcaption>
+  </figure>
+
+  <h4>Questions concernant la jeunesse</h4>
+
+    <figure>
+    <div class="viewer" data-image="fig3.12.png" role="img" aria-label="Figure 3.12 — Jeunesse (réseau)"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 3.12</b> — Jeunesse (réseau).</p>
+    </figcaption>
+  </figure>
+
+
+  <h4>Les dossiers socio-économiques et questions ponctuelles</h4>
+
+    <figure>
+    <div class="viewer" data-image="fig3.14.png" role="img" aria-label="Figure 3.14 — Dossiers socio-économiques et ponctuels (réseau)"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 3.14</b> — Dossiers socio-économiques et ponctuels (réseau).</p>
+    </figcaption>
+  </figure>
+
+  <h4>Les commissions nationales de coopération intellectuelle</h4>
+
+    <figure>
+    <div class="viewer" data-image="fig3.16.png" role="img" aria-label="Figure 3.16 — Carte des commissions nationales"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 3.16</b> — Carte des commissions nationales.</p>
+    </figcaption>
+  </figure>
+
+</section>
 
 <section id="chap4">
   <h2>Chapitre 4</h2>
   <h3>Quand la France investit le champ des relations culturelles et scientifiques</h3>
-  <p>Description</p>
+  <p>En offrant à la SDN un Institut international de coopération intellectuelle (IICI), siégeant à Paris, le gouvernement français s'achète une position incontournable dans la diplomatie culturelle d'entre-deux-guerres. Cette irruption chamboule l'équilibre de la CICI et amorce sa rapide bureaucratisation.</p>
+
+  <h4>L’organisation de l’IICI</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig4.3.png" role="img" aria-label="Figure 4.3 — Organigramme de la coopération intellectuelle 1926-1931"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 4.3</b> — Organigramme de la coopération intellectuelle 1926-1931.</p>
+    </figcaption>
+  </figure>
+
+<h4>Le contact avec la "base" : Les Etats et les commissions nationales</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig4.5.png" role="img" aria-label="Figure 4.5 — Correspondance de l’IICI avec les commissions nationales"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 4.5</b> — Correspondance de l’IICI avec les commissions nationales.</p>
+    </figcaption>
+  </figure>
+
 </section>
 
 
 <section id="chap5">
   <h2>Chapitre 5</h2>
   <h3>Les acteurs de la coopération intellectuelle</h3>
-  <p>Description</p>
-</section>
+  <p>Faisant un pas de côté dans le déroulé chronologique de l'ouvrage, ce chapitre propose une étude prosopographique des membres de la commission. Loin d'être un organe représentatif des différentes nations composant l'Assemblée de l'organisation, la CICI est un microcosme élitiste dont la composition est en constante négociation. Dans la seconde partie du chapitre, l'analyse de réseau permet de faire émerger des actrices et des acteurs secondaires qui, sans être des personnalités de premier plan scientifiquement ou politiquement parlant, sont les rouages essentiels de la coopération intellectuelle.</p>
 
+<h4>Les grands esprits se rencontrent-ils ? Une prosopographie des experts de la CICI</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig5.1.png" role="img" aria-label="Figure 5.1 — Tableau de présence des membres de la CICI"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 5.1</b> — Tableau de présence des membres de la CICI.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig5.2.png" role="img" aria-label="Figure 5.2 — Évolution du taux de présence"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 5.2</b> — Évolution du taux de présence.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig5.3.png" role="img" aria-label="Figure 5.3 — Évolution de la proportion de personnalités politiques dans la CICI"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 5.3</b> — Évolution de la proportion de personnalités politiques dans la CICI.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig5.4.png" role="img" aria-label="Figure 5.4 — Évolution de la proportion de femmes dans la CICI"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 5.4</b> — Évolution de la proportion de femmes dans la CICI.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig5.5.png" role="img" aria-label="Figure 5.5 — Évolution de la proportion de membres d’Europe de l’Ouest dans la CICI"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 5.5</b> — Évolution de la proportion de membres d’Europe de l’Ouest dans la CICI.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig5.7.png" role="img" aria-label="Figure 5.7 — Évolution de la proportion de membres d’Asie dans la CICI"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 5.7</b> — Évolution de la proportion de membres d’Asie dans la CICI.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig5.8.png" role="img" aria-label="Figure 5.8 — Évolution de la proportion de membres d’Amérique latine dans la CICI"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 5.8</b> — Évolution de la proportion de membres d’Amérique latine dans la CICI.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig5.9.png" role="img" aria-label="Figure 5.9 — Évolution de la proportion de représentants de la « culture latine »"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 5.9</b> — Évolution de la proportion de représentants de la « culture latine ».</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig5.10.png" role="img" aria-label="Figure 5.10 — Évolution de la proportion de représentants de la « culture germanique »"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 5.10</b> — Évolution de la proportion de représentants de la « culture germanique ».</p>
+    </figcaption>
+  </figure>
+
+  <h4>À l’ombre des scientifiques de premier plan : un autre visage de la CICI</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig5.13.png" role="img" aria-label="Figure 5.13 — Évolution de la composition de l’assistance pendant les 21 sessions de la CICI"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 5.13</b> — Évolution de la composition de l’assistance pendant les 21 sessions de la CICI.</p>
+    </figcaption>
+  </figure>
+
+  <h4>Les acteurs du réseau des archives de la coopération intellectuelle</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig5.15.png" role="img" aria-label="Figure 5.15 — Résultat du calcul de deux mesures de centralité sur un même graphe"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 5.15</b> — Résultat du calcul de deux mesures de centralité sur un même graphe.</p>
+    </figcaption>
+  </figure>
+
+  <h4>Mesure du voisinage direct : la centralité de degré</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig5.16.png" role="img" aria-label="Figure 5.16 — Centralité de degré pondéré"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 5.16</b> — Centralité de degré pondéré.</p>
+    </figcaption>
+  </figure>
+
+  <h4>Repérer les intersections : la centralité d’intermédiarité</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig5.18.png" role="img" aria-label="Figure 5.18 — Centralité d’intermédiarité"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 5.18</b> — Centralité d’intermédiarité.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig5.20.png" role="img" aria-label="Figure 5.20 — Comparaison entre degré pondéré et intermédiarité"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 5.20</b> — Comparaison entre degré pondéré et intermédiarité.</p>
+    </figcaption>
+  </figure>
+
+</section>
 
 <section id="chap6">
   <h2>Chapitre 6</h2>
   <h3>Cartographier l'institution, changer d'échelle</h3>
-  <p>Description</p>
-</section>
+  <p>Les archives de la coopération intellectuelle donnent à voir la machinerie administrative d'une partie de l'édifice symbolique et bureaucratique qu'est la Société des Nations. En replaçant le réseau d'échanges dans une perspective institutionnelle, on peut tenter de comprendre le rapport hiérarchique entre les instances et les acteurs.</p>
 
+  <h4>La "topographie institutionnelle" des archives de la coopération intellectuelle</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig6.1.png" role="img" aria-label="Figure 6.1 — Réseau de la coopération intellectuelle projeté sur sa topographie institutionnelle"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 6.1</b> — Réseau de la coopération intellectuelle projeté sur sa topographie institutionnelle.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig6.2.png" role="img" aria-label="Figure 6.2 — Distribution des mesures de centralité dans la topographie institutionnelle"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 6.2</b> — Distribution des mesures de centralité dans la topographie institutionnelle.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig6.3.png" role="img" aria-label="Figure 6.3 — Focale sur la Section des bureaux internationaux"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 6.3</b> — Focale sur la Section des bureaux internationaux.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig6.5.png" role="img" aria-label="Figure 6.5 — Réseau des archives au niveau méso-organisationnel"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 6.5</b> — Réseau des archives au niveau méso-organisationnel.</p>
+    </figcaption>
+  </figure>
+
+  <h4>C’est l’écoulement du temps qui fait le réseau</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig6.6.png" role="img" aria-label="Figure 6.6 — Évolution du réseau des archives de la coopération intellectuelle année après année"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 6.6</b> — Évolution du réseau des archives de la coopération intellectuelle année après année.</p>
+    </figcaption>
+  </figure>
+
+  <h4>Un cadre fixe pour comprendre l’évolution des relations</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig6.8.png" role="img" aria-label="Figure 6.8 — Évolution du réseau des archives, projeté dans la topographie institutionnelle"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 6.8</b> — Évolution du réseau des archives, projeté dans la topographie institutionnelle.</p>
+    </figcaption>
+  </figure>
+
+  <h4>La structure, une "signature"</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig6.9.png" role="img" aria-label="Figure 6.9 — Comparaison des 9 ensembles thématiques sur la topographie institutionnelle"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 6.9</b> — Comparaison des 9 ensembles thématiques sur la topographie institutionnelle.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig6.11.png" role="img" aria-label="Figure 6.11 — Catégorisation des cooccurrents d’Otlet et La Fontaine"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 6.11</b> — Catégorisation des cooccurrents d’Otlet et La Fontaine.</p>
+    </figcaption>
+  </figure>
+
+  <h4>Appréhender la périphérie</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig6.13.png" role="img" aria-label="Figure 6.13 — Acteurs extérieurs connectés à la CICI"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 6.13</b> — Acteurs extérieurs connectés à la CICI.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig6.14.png" role="img" aria-label="Figure 6.14 — Acteurs extérieurs connectés au secrétariat de la Section"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 6.14</b> — Acteurs extérieurs connectés au secrétariat de la Section.</p>
+    </figcaption>
+  </figure>
+
+</section>
 
 <section id="chap7">
   <h2>Chapitre 7</h2>
   <h3>Années 1930 : crise, réforme et indépendance</h3>
-  <p>Description</p>
-</section>
+  <p>Reprenant le fil chronologique de l'ouvrage, ce dernier chapitre couvre les développements de la coopération intellectuelle dans la seconde moitié de son activité, une période marquée par la crise économique et la montée des régimes totalitaires. La CICI reprend partiellement les rênes de l'Institut parisien mais réalise trop tard que celui-ci est probablement sa planche de salut en cas de dissolution de la Société des Nations.</p>
 
+  <h4>Une organisation désormais permanente qui préserve les intérêts français</h4> 
+
+  <figure>
+    <div class="viewer" data-image="fig7.3.png" role="img" aria-label="Figure 7.3 — Organigramme de la coopération intellectuelle 1931-1939"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 7.3</b> — Organigramme de la coopération intellectuelle 1931-1939.</p>
+    </figcaption>
+  </figure>
+
+  <h4>La bureaucratisation de la coopération intellectuelle par ses organigrammes</h4>
+
+  <figure>
+    <div class="viewer" data-image="fig7.4.png" role="img" aria-label="Figure 7.4 — Organigrammes de la Société des Nations"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 7.4</b> — Organigrammes de la Société des Nations.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig7.5.png" role="img" aria-label="Figure 7.5 — Organigramme complet de la Société des Nations"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 7.5</b> — Organigramme complet de la Société des Nations.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig7.6.png" role="img" aria-label="Figure 7.6 — Organigrammes de l’organisation de coopération intellectuelle"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 7.6</b> — Organigrammes de l’organisation de coopération intellectuelle.</p>
+    </figcaption>
+  </figure>
+
+  <figure>
+    <div class="viewer" data-image="fig7.7.png" role="img" aria-label="Figure 7.7 — Évolution de la structure de l’OCI"></div>
+    <figcaption>
+      <p class="fig-caption-text"><b class="fig-label-inline">Figure 7.7</b> — Évolution de la structure de l’OCI.</p>
+    </figcaption>
+  </figure>
+
+</section>
 
 <section id="plus">
   <h2>En savoir plus</h2>
   <h3>À propos de la coopération intellectuelle</h3>
 
-<h4>Du même auteur, sur la coopération intellectuelle</h4>
+  <h4>Ressources en ligne</h4>
 
-<ul style="list-style:none; padding:0; margin:0;">
+<p>[à venir]</p>
+
+  <h4>Du même auteur, sur la coopération intellectuelle</h4>
+
+  <ul style="list-style:none; padding:0; margin:0;">
 
   <li style="margin-bottom:18px; padding-left:20px; border-left:2px solid var(--color-border-strong); font-family:var(--font-serif); font-size:15px; line-height:1.6;">
     Grandjean Martin et Laqua Daniel (dir.), <a href="https://digitallibrary.un.org/record/4093948?ln=en&v=pdf" class="external"><i>Intellectual Cooperation at the League of Nations: Shaping Cultural and Political Relations</i></a>, Geneva : United Nations, 2025, 233 p.
@@ -869,7 +1253,7 @@ footer{
 
     <div class="footer-section">
       <h4>Citation suggérée</h4>
-      <p class="citation">Grandjean, Martin. <i>La coopération intellectuelle. Relations scientifiques et diplomatie culturelle à la Société des Nations (1919–1939)</i>. Neuchâtel : Éditions Alphil, 2026.</p>
+      <p class="citation">Grandjean, Martin. <i>La coopération intellectuelle. Relations scientifiques et diplomatie culturelle à la Société des Nations (1919–1939)</i>. Neuchâtel : Éditions Alphil – Presses Universitaires Suisses, 2026.</p>
     </div>
 
     <div class="footer-section">
@@ -879,7 +1263,7 @@ footer{
 
     <div class="footer-meta">
       <span>© 2026 Martin Grandjean</span>
-      <a href="https://intellectualcooperation.org">intellectualcooperation.org</a>
+      <a href="https://martingrandjean.ch" class="external">martingrandjean.ch</a>
       <a href="https://scholar.google.com/citations?user=UPJ31hoAAAAJ" class="external">Google Scholar</a>
       <a href="https://github.com/grandjeanmartin/intellectual-cooperation" class="external">Données source</a>
     </div>
@@ -889,10 +1273,10 @@ footer{
 
 
 <!--
-  OpenSeadragon chargé ici, de manière synchrone, AVANT le bloc <script> principal.
-  Cela garantit que la variable globale OpenSeadragon est définie au moment où
-  setupViewers() est appelée, éliminant le risque de race condition qui existait
-  avec l'attribut "defer" dans le <head>.
+  OpenSeadragon loaded here, synchronously, before the main <script> block.
+  This guarantees the global OpenSeadragon variable is defined by the time
+  setupViewers() is called, removing the race condition that existed when
+  the script had the "defer" attribute in <head>.
 -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
 
@@ -927,7 +1311,7 @@ document.querySelectorAll(".viewer[data-image]").forEach(viewer => {
     link.target = "_blank";
     link.rel = "noopener";
     link.title = "Télécharger l'image en haute définition";
-    link.setAttribute("download", file); // nom de fichier explicite
+    link.setAttribute("download", file); // explicit filename
     link.innerHTML = '<i class="fa-solid fa-download"></i> Télécharger';
     caption.appendChild(link);
   }
@@ -940,7 +1324,7 @@ function initViewer(el){
   const file = el.dataset.image;
   if(!file || el.classList.contains("osd-ready")) return;
 
-  // OpenSeadragon est garanti disponible ici car son <script> précède ce bloc.
+  // OpenSeadragon is guaranteed to be available here since its <script> precedes this block.
   el.classList.add("osd-ready");
 
   OpenSeadragon({
@@ -976,8 +1360,8 @@ function setupViewers(){
   viewers.forEach(el => observer.observe(el));
 }
 
-// Le DOM est déjà parsé à ce stade (script en fin de body) :
-// on peut appeler setupViewers() directement, sans attendre DOMContentLoaded.
+// The DOM is already parsed at this point (script at the end of body),
+// so setupViewers() can be called directly without waiting for DOMContentLoaded.
 setupViewers();
 
 
