@@ -146,11 +146,13 @@ a:hover{
 }
 
 /* External link marker */
-a.external::after,
-main p a[href^="http"]:not([href*="intellectualcooperation.org"])::after{
-  content:" ↗";
-  font-size:0.85em;
-  color:var(--color-text-muted);
+a.external:not([data-no-arrow])::after,
+main p a[href^="http"]
+  :not([href*="intellectualcooperation.org"])
+  :not([data-no-arrow])::after {
+  content: " ↗";
+  font-size: 0.85em;
+  color: var(--color-text-muted);
 }
 
 /* MOBILE HEADER */
@@ -742,20 +744,18 @@ footer{
   </div>
 
   <p class="cover-intro">Ce site accompagnant l'ouvrage publié en 2026 donne accès à une version interactive du réseau de la coopération intellectuelle ainsi qu'aux illustrations en haute définition.</p>
-
 </section>
-
 <section id="chap0">
   <h2>Visualisation de données</h2>
   <h3>Le réseau de la coopération intellectuelle</h3>
   <p>Explorez le réseau des archives de la Commission internationale de coopération intellectuelle au moyen de la visualisation interactive ci-dessous:</p>
 
   <p align="center">
-  <a href="https://lite.gephi.org/?file=https://gist.githubusercontent.com/grandjeanmartin/768dfa3398be43efc702bd7edb057329/raw/133553a155123f94d4b32277ff39e59d4ee02136/intellectualcooperation.graphml.json" target="_blank">
+  <a href="https://lite.gephi.org/?file=https://gist.githubusercontent.com/grandjeanmartin/768dfa3398be43efc702bd7edb057329/raw/133553a155123f94d4b32277ff39e59d4ee02136/intellectualcooperation.graphml.json" target="_blank" data-no-arrow>
   <img
         src="https://cdn.jsdelivr.net/gh/grandjeanmartin/intellectual-cooperation@master/book/images/interactive.png"
         alt="Visualisation interactive du réseau de la coopération intellectuelle"
-        width="650">
+        width="100%">
   </a>
   </p>
 
@@ -1218,9 +1218,30 @@ footer{
   <h2>En savoir plus</h2>
   <h3>À propos de la coopération intellectuelle</h3>
 
-  <h4>Ressources en ligne</h4>
+  <h4>Archives en ligne</h4>
 
-<p>[à venir]</p>
+  <p>Les archives de la coopération intellectuelle se répartissent entre les fonds des Nations Unies à Genève (archives de la Société des Nations, donc de la Commission internationale de coopération intellectuelle) et de l'UNESCO à Paris (archives de l'Institut international de coopération intellectuelle). <b>Ces deux fonds ont été numérisés et sont accessibles en ligne :</b></p>
+
+  <ul style="list-style:none; padding:0; margin:0;">
+  <li style="margin-bottom:18px; padding-left:20px; border-left:2px solid var(--color-border-strong); font-family:var(--font-serif); font-size:15px; line-height:1.6;">
+    <b>United Nations Library and Archives, Geneva</b> | Le portail des archives de l'ONU Genève se trouve à l'adresse <a href="https://archives.ungeneva.org/" class="external" target="_blank">archives.ungeneva.org</a>, on y trouve en particulier le <a href="https://archives.ungeneva.org/intellectual-cooperation-and-international-bureaux-section" class="external" target="_blank">fonds de la Section des Bureaux internationaux et de la coopération intellectuelle</a>. 
+    <li style="margin-bottom:18px; padding-left:20px; border-left:2px solid var(--color-border-strong); font-family:var(--font-serif); font-size:15px; line-height:1.6;">
+    <b>UNESCO Library and Archives, Paris</b> | Le portail des archives de l'UNESCO se trouve à l'adresse <a href="https://www.unesco.org/en/archives" class="external" target="_blank">unesco.org/en/archives</a>, où l'on peut consulter le <a href="https://atom.archives.unesco.org/records-of-international-institute-of-intellectual-co-operation" class="external" target="_blank">fonds de l'Institut de coopération intellectuelle</a>. 
+  </li>
+
+  <h4>Centenaire de la coopération intellectuelle</h4>
+
+  <p>À l'occasion du centenaire de la création de la Commission internationale de coopération intellectuelle (2022), un colloque international a été organisé à l'ONU Genève et a donné lieu à la création d'<b><a href="https://intellectualcooperation.org/" class="external" target="_blank">un site web</a> regroupant des ressources utiles pour l'étude de ces questions</b> :</p>
+
+  <ul style="list-style:none; padding:0; margin:0;">
+  <li style="margin-bottom:18px; padding-left:20px; border-left:2px solid var(--color-border-strong); font-family:var(--font-serif); font-size:15px; line-height:1.6;">
+   <a href="https://intellectualcooperation.org/publications" class="external" target="_blank">Une bibliographie contenant plus de 400 titres récents sur la coopération intellectuelle</a> (livres, articles, communications à des conférences, etc.). Elle est fréquemment mise à jour sur cette page ou directement dans un groupe Zotero auquel on peut s'abonner pour accéder à toutes ces références directement dans le logiciel bibliographique.
+    <li style="margin-bottom:18px; padding-left:20px; border-left:2px solid var(--color-border-strong); font-family:var(--font-serif); font-size:15px; line-height:1.6;">
+    <a href="https://intellectualcooperation.org/publications" class="external" target="_blank">Le livre des résumés (<i>Book of abstracts</i>) du colloque</a>, qui contient les textes décrivant les communications des historien·nes ayant participé à l'événement, reflet de l'état de la recherche sur la coopération intellectuelle un siècle après sa création. 
+    <li style="margin-bottom:18px; padding-left:20px; border-left:2px solid var(--color-border-strong); font-family:var(--font-serif); font-size:15px; line-height:1.6;">
+    <a href="https://intellectualcooperation.org/the-book" class="external" target="_blank">Le PDF complet de l'ouvrage <i>Intellectual Cooperation at the League of Nations</i></a>, publié suite au colloque par les Nations Unies. On y trouve également des vidéos de plusieurs auteurs et un podcast où les éditeurs présentent l'ouvrage.
+  </li>
+
 
   <h4>Du même auteur, sur la coopération intellectuelle</h4>
 
